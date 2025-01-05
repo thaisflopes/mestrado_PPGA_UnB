@@ -1,0 +1,6694 @@
+operacao_original,operacao_reclassificado
+-,Não informado
+AEP - GRU - MGF,Internacional
+AEP/BSB,Internacional
+AEP/FLN,Internacional
+AEP/GIG,Internacional
+AEP/GIG/MAO,Internacional
+AEP/GRU,Internacional
+AEP/GRU/FLN,Internacional
+AEP/GRU/GYN,Internacional
+AEP/GRU/IOS,Internacional
+AEP/GRU/SSA,Internacional
+AER/GRU,Internacional
+AJU/BSB,Doméstico
+AJU/CGH,Doméstico
+AJU/GIG,Doméstico
+AJU/GIG/CWB,Doméstico
+AJU/GIG/MAO/PVH,Doméstico
+AJU/GRU,Doméstico
+AJU/GRU/CGH/AJU,Doméstico
+AJU/GRU/CGR,Doméstico
+AJU/GRU/CWB,Doméstico
+AJU/GRU/LDB,Doméstico
+AJU/GRU/PPB,Doméstico
+AJU/GRU/VIX,Doméstico
+AJU/GYN,Doméstico
+AJU/NVT,Doméstico
+AJU/SSA,Doméstico
+AJU/VIX,Doméstico
+AMS/GIG/CGH,Internacional
+AMS/ZRH,Internacional
+ARU - MCZ,Doméstico
+ARU - REC,Doméstico
+ARU/GRU,Doméstico
+ARU/GRU/CFB/CFB/GRU/ARU,Doméstico
+ARU/GRU/FLN,Doméstico
+ARU/GRU/IOS/GRU/ARU,Doméstico
+ARU/GRU/MCZ,Doméstico
+ARU/GRU/MCZ/MCZ/GRU/ARU,Doméstico
+ARU/GRU/REC/REC/GRU/ARU,Doméstico
+ARU/GRU/SSA,Doméstico
+ASU/GRU,Internacional
+ASU/GRU/MAO,Internacional
+ATL/GIG,Internacional
+AUX/BSB,Doméstico
+BEL - MAO,Doméstico
+BEL/BSB,Doméstico
+BEL/BSB/BSB/CGH,Doméstico
+BEL/BSB/CGH,Doméstico
+BEL/BSB/CGH/CWB,Doméstico
+BEL/BSB/GRU,Doméstico
+BEL/BSB/GYN,Doméstico
+BEL/BSB/PVH,Doméstico
+BEL/FOR,Doméstico
+BEL/FOR/CGH,Doméstico
+BEL/FOR/REC,Doméstico
+BEL/FOR/SSA,Doméstico
+BEL/GRU,Doméstico
+BEL/GRU/CAC,Doméstico
+BEL/GRU/FLN,Doméstico
+BEL/GRU/MGF,Doméstico
+BEL/GRU/VIX,Doméstico
+BEL/GRU/XAP,Doméstico
+BEL/MAO,Doméstico
+BEL/MAO/MAO/BSB/BEL,Doméstico
+BEL/MCP,Doméstico
+BEL/PBM,Internacional
+BEL/PVH,Doméstico
+BEL/STM,Doméstico
+BLQ/AMS/GRU/BPS,Internacional
+BPS - GRU,Doméstico
+BPS - GRU,Doméstico
+BPS - SSA,Doméstico
+BPS/ GRU/CGR,Doméstico
+BPS/BSB,Doméstico
+BPS/BSB/CNF/CNF/BSB/BPS,Doméstico
+BPS/BSB/PVH,Doméstico
+BPS/CAC,Doméstico
+BPS/CGH,Doméstico
+BPS/CGH/FLN,Doméstico
+BPS/CNF,Doméstico
+BPS/CNF/CNF/BPS,Doméstico
+BPS/CNF/CNF/BSB,Doméstico
+BPS/GIG,Doméstico
+BPS/GRU,Doméstico
+BPS/GRU/CAC,Doméstico
+BPS/GRU/CGR,Doméstico
+BPS/GRU/EZE,Internacional
+BPS/GRU/FLN,Doméstico
+BPS/GRU/GRU/VIX,Doméstico
+BPS/GRU/GYN,Doméstico
+BPS/GRU/IGU/IGU/GRU/BPS,Doméstico
+BPS/GRU/MGF,Doméstico
+BPS/GRU/SDU,Doméstico
+BPS/GRU/VIX,Doméstico
+BPS/GRU/XAP,Doméstico
+BPS/LDB,Doméstico
+BPS/MGF,Doméstico
+BPS/SDU,Doméstico
+BPS/SSA,Doméstico
+BPS/SSA/JPA/JPA/SSA/BPS,Doméstico
+BPS/SSA/POA,Doméstico
+BPS/SSA/SSA/BPS,Doméstico
+BPS/VCP,Doméstico
+BRA/BSB,Doméstico
+BRA/BSB/CGH,Doméstico
+BRA/BSB/VIX,Doméstico
+BRA/FOR,Doméstico
+BRA/SSA,Doméstico
+BRA/SSA/GRU/CGR,Doméstico
+BRA/SSA/SSA/CPV,Doméstico
+BSB - CGH,Doméstico
+BSB - CNF,Doméstico
+BSB - GRU,Doméstico
+BSB - GYN,Doméstico
+BSB - IOS,Doméstico
+BSB - MCZ / MCZ - BSB,Doméstico
+BSB - MCZ / MCZ - SSA - BSB,Doméstico
+BSB - MVD,Internacional
+BSB - PVH,Doméstico
+BSB - REC,Doméstico
+BSB - THE,Doméstico
+BSB X MCO,Internacional
+BSB X SDU,Doméstico
+BSB/ NAT,Doméstico
+BSB/ PVH,Doméstico
+BSB/AEP,Internacional
+BSB/AJU,Doméstico
+BSB/AUX,Doméstico
+BSB/BEL,Doméstico
+BSB/BEL/BEL/BSB,Doméstico
+BSB/BPS,Doméstico
+BSB/BPS/BSB,Doméstico
+BSB/BRA,Doméstico
+BSB/BVB,Doméstico
+BSB/BVB/BSB,Doméstico
+BSB/BYB,Outros
+BSB/CGB,Doméstico
+BSB/CGH,Doméstico
+BSB/CGH/BSB,Doméstico
+BSB/CGH/CGH/BSB,Doméstico
+BSB/CGH/CWB,Doméstico
+BSB/CGH/GRU/BSB,Doméstico
+BSB/CGH/MCZ/MCZ/BSB,Doméstico
+BSB/CGH/NVT,Doméstico
+BSB/CGH/NVT/NVT/CGH/BSB,Doméstico
+BSB/CGH/VCP/BSB,Doméstico
+BSB/CKS,Doméstico
+BSB/CNF,Doméstico
+BSB/CUN,Internacional
+BSB/CUN e CUN/BSB,Internacional
+BSB/CUN/BSB,Internacional
+BSB/CUN/CUN/BSB,Internacional
+BSB/CWB,Doméstico
+BSB/EZE,Internacional
+BSB/EZE/EZE/BSB,Internacional
+BSB/FLN,Doméstico
+BSB/FLN/GIG/SDU/CGH/BSB,Doméstico
+BSB/FOR,Doméstico
+BSB/FOR/FOR/BSB,Doméstico
+BSB/GIG,Doméstico
+BSB/GIG/BSB,Doméstico
+BSB/GIG/BSB/FOR/BSB,Doméstico
+BSB/GIG/FLN/FLN/CGH/BSB,Doméstico
+BSB/GIG/SCL/SCL/GRU/BSB,Internacional
+BSB/GRU,Doméstico
+BSB/GRU/CFB,Doméstico
+BSB/GRU/GRU/AJU,Doméstico
+BSB/GRU/GRU/JDO,Doméstico
+BSB/GRU/GRU/NAT,Doméstico
+BSB/GRU/IGU,Doméstico
+BSB/GRU/JJD,Doméstico
+BSB/GRU/LIM/LIM/GRU/BSB,Internacional
+BSB/GRU/MDZ/MDZ/GRU/BSB,Internacional
+BSB/GRU/MVD/MVD/GRU/BSB,Internacional
+BSB/GRU/POA,Doméstico
+BSB/GRU/PPB,Doméstico
+BSB/GRU/SCL/SCL/GRU/BSB,Internacional
+BSB/GRU/SJP,Doméstico
+BSB/GYN,Doméstico
+BSB/IOS,Doméstico
+BSB/IOS/IOS/BSB,Doméstico
+BSB/JJD,Doméstico
+BSB/JJD/JJD/BSB,Doméstico
+BSB/JPA,Doméstico
+BSB/JPA/JPA/BSB,Doméstico
+BSB/MAB,Doméstico
+BSB/MAO,Doméstico
+BSB/MAO/MCO/MCO/MAO/BSB,Internacional
+BSB/MAO/PVH,Doméstico
+BSB/MCO,Internacional
+BSB/MCO/BSB,Internacional
+BSB/MCO/MCO/BSB,Internacional
+BSB/MCP,Doméstico
+BSB/MCZ,Doméstico
+BSB/MCZ/BSB,Doméstico
+BSB/MCZ/BSBS,Doméstico
+BSB/MCZ/MCZ/BSB,Doméstico
+BSB/MIA,Internacional
+BSB/MIA/BSB,Internacional
+BSB/NAT,Doméstico
+BSB/NAT/BSB,Doméstico
+BSB/NVT/NVT/BSB,Doméstico
+BSB/PMW,Doméstico
+BSB/PMW/AEP/GRU,Internacional
+BSB/POA,Doméstico
+BSB/POA/POA/BSB,Doméstico
+BSB/PVH,Doméstico
+BSB/PWM,Internacional
+BSB/RAO,Doméstico
+BSB/RBR,Doméstico
+BSB/REC,Doméstico
+BSB/REC/FEN/REC/GRU/BSB,Doméstico
+BSB/REC/REC/BSB,Doméstico
+BSB/REC/SCL/SCL/GRU/BSB,Internacional
+BSB/RIO/BSB,Doméstico
+BSB/SCL,Internacional
+BSB/SDU,Doméstico
+BSB/SDU/GRU,Doméstico
+BSB/SDU/SDU/BSB,Doméstico
+BSB/SDU/SDU/BSB/SDU/BSB/BSB/PMW,Doméstico
+BSB/SDU/SDU/CGH/BSB,Doméstico
+BSB/SDU/VIX,Doméstico
+BSB/SDU/VIX/VIX/GRU/BSB,Doméstico
+BSB/SJP,Doméstico
+BSB/SLZ,Doméstico
+BSB/SLZ/GRU/CAC,Doméstico
+BSB/SLZ/SLZ/BSB,Doméstico
+BSB/SSA,Doméstico
+BSB/SSA/BPS,Doméstico
+BSB/SSA/BRA,Doméstico
+BSB/SSA/BSB/SSA,Doméstico
+BSB/SSA/JPA,Doméstico
+BSB/SSA/MCZ,Doméstico
+BSB/SSA/SSA/BSB,Doméstico
+BSB/SSA/SSA/IOS/BSB/GRU/GRU/IOS,Doméstico
+BSB/SSA/SSA/PMW,Doméstico
+BSB/STM/BSB,Doméstico
+BSB/THE,Doméstico
+BSB/THE THE/BSB,Doméstico
+BSB/THE/THE/BSB,Doméstico
+BSB/UDI,Doméstico
+BSB/VCP,Doméstico
+BSB/VIX,Doméstico
+BSB/XAP,Doméstico
+BSBXSSA,Doméstico
+BSP/GRU/GRU/NVT,Doméstico
+BVB/BSB,Doméstico
+BVB/BSB/BSB/CGB,Doméstico
+BVB/BSB/FOR,Doméstico
+BVB/BSB/GRU/CPV,Doméstico
+BVB/BSB/GRU/PNZ,Doméstico
+BVB/BSB/PVH,Doméstico
+BVB/BSB/REC,Doméstico
+BVB/MAO,Doméstico
+BVB/MAO/PVH/BSB/GYN,Doméstico
+BYO/CGH,Doméstico
+CAC - IOS,Doméstico
+CAC/ GRU,Doméstico
+CAC/GREU/MCZ/GRU/CAC,Doméstico
+CAC/GRU,Doméstico
+CAC/GRU  GRU/MCZ,Doméstico
+CAC/GRU SDU,Doméstico
+CAC/GRU/,Doméstico
+CAC/GRU/BPS,Doméstico
+CAC/GRU/BPS/SSA/SSA/GRU/CAC,Doméstico
+CAC/GRU/BSB/REC,Doméstico
+CAC/GRU/CGB,Doméstico
+CAC/GRU/GRU/CAC,Doméstico
+CAC/GRU/GRU/FOR/FOR/GRU/GRU/CAC,Doméstico
+CAC/GRU/GRU/MCZ,Doméstico
+CAC/GRU/GRU/REC/REC/GRU/GRU/CAC,Doméstico
+CAC/GRU/GRU/SDU,Doméstico
+CAC/GRU/IOS,Doméstico
+CAC/GRU/MCZ,Doméstico
+CAC/GRU/NAT/NAT/GRU/CAC,Doméstico
+CAC/GRU/POA/POA/GRU/CAC,Doméstico
+CAC/GRU/PUJ,Internacional
+CAC/GRU/REC,Doméstico
+CAC/GRU/REC/REC/GRU/CAC,Doméstico
+CAC/GRU/SDU/SDU/GRU/CAC,Doméstico
+CAC/GRU/VIX,Doméstico
+CAC/MCZ/MCZ/CAC,Doméstico
+CAC/RBR,Doméstico
+CAC/VCP,Doméstico
+CAF/MAO,Doméstico
+CAG/GRU/CGB,Internacional
+CASCAVEL - GUARULHOS - NATAL,Doméstico
+CBF/GRU,Internacional
+CDG/GRU,Internacional
+CDG/VCE,Internacional
+CFB/GRU,Doméstico
+CFB/GRU/BSB,Doméstico
+CGB/ GRU,Doméstico
+CGB/BSB,Doméstico
+CGB/BSB/GYN,Doméstico
+CGB/BSB/MCZ,Doméstico
+CGB/BSB/MIA/MIA/BSB/CGB,Internacional
+CGB/BSB/RBR,Doméstico
+CGB/BSB/SDU/SDU/GRU/CGB,Doméstico
+CGB/BSB/VCP,Doméstico
+CGB/CGH,Doméstico
+CGB/FLN,Doméstico
+CGB/GIG,Doméstico
+CGB/GRU,Doméstico
+CGB/GRU/BSB,Doméstico
+CGB/GRU/GRU/UDI,Doméstico
+CGB/GRU/JDO,Doméstico
+CGB/GRU/JJD,Doméstico
+CGB/GRU/MGF,Doméstico
+CGB/GRU/POA/POA/GRU/CGB,Doméstico
+CGB/GRU/REC,Doméstico
+CGB/GRU/SJP,Doméstico
+CGB/GYN,Doméstico
+CGB/JJD,Doméstico
+CGB/MAO,Doméstico
+CGB/SSA,Doméstico
+CGH - AJU,Doméstico
+CGH - FOR,Doméstico
+CGH - GYN,Doméstico
+CGH - REC,Doméstico
+CGH - REC,Doméstico
+CGH - SSA,Doméstico
+CGH - SSA,Doméstico
+CGH/ BSB,Doméstico
+CGH/ BSB/BSB/BRA,Doméstico
+CGH/AJU,Doméstico
+CGH/AJU/AJU/CGH,Doméstico
+CGH/AJU/CGH,Doméstico
+CGH/BPS,Doméstico
+CGH/BSB,Doméstico
+CGH/BSB/BRA,Doméstico
+CGH/BSB/BRA/BRA/SSA,Doméstico
+CGH/BSB/BSB/AUX,Doméstico
+CGH/BSB/BSB/CGH,Doméstico
+CGH/BSB/CGR,Doméstico
+CGH/BSB/CUN,Internacional
+CGH/BSB/CUN/CUN/BSB/GRU,Internacional
+CGH/BSB/MAB,Doméstico
+CGH/BSB/MCO,Internacional
+CGH/BSB/MCO/MCO/BSB/CGH,Internacional
+CGH/BSB/MCO/MCO/MAO/GRU,Internacional
+CGH/BSB/MIA/MIA/BSB/CGH,Internacional
+CGH/BSB/PVH,Doméstico
+CGH/BSB/THE,Doméstico
+CGH/BYO,Doméstico
+CGH/CGR,Doméstico
+CGH/CLV,Doméstico
+CGH/CNF,Doméstico
+CGH/CNF/CNF/CGH,Doméstico
+CGH/CWB,Doméstico
+CGH/CXJ,Doméstico
+CGH/FLN,Doméstico
+CGH/FLN FLN/CGH,Doméstico
+CGH/FLN/CGH,Doméstico
+CGH/FOR,Doméstico
+CGH/FOR/FOR/CGH,Doméstico
+CGH/FOR/GRU,Doméstico
+CGH/FOR/MAO,Doméstico
+CGH/FOR/MAO/PVH,Doméstico
+CGH/FOR/SLZ,Doméstico
+CGH/GIG,Doméstico
+CGH/GIG/NAT,Doméstico
+CGH/GYN,Doméstico
+CGH/GYN/CGH,Doméstico
+CGH/GYN/GYN/CGH,Doméstico
+CGH/IOS,Doméstico
+CGH/IOS/CGH,Doméstico
+CGH/IOS/IOS/CGH,Doméstico
+CGH/JJD,Doméstico
+CGH/JPA,Doméstico
+CGH/JPA/JPA/CGH,Doméstico
+CGH/LDB,Doméstico
+CGH/MAO,Doméstico
+CGH/MCZ,Doméstico
+CGH/MCZ/CGH,Doméstico
+CGH/MCZ/MCZ/CGH,Doméstico
+CGH/MCZ/REC/CGH,Doméstico
+CGH/MGF,Doméstico
+CGH/NAT,Doméstico
+CGH/NAT/NAT/CGH,Doméstico
+CGH/NAV,Internacional
+CGH/NVT,Doméstico
+CGH/NVT/CGH,Doméstico
+CGH/NVT/NVT/CGH,Doméstico
+CGH/POA,Doméstico
+CGH/POA/CGH,Doméstico
+CGH/POA/POA/CGH,Doméstico
+CGH/POA/POA/GRU,Doméstico
+CGH/PPB,Doméstico
+CGH/PVH,Doméstico
+CGH/RAO,Doméstico
+CGH/REC,Doméstico
+CGH/REC/FEN,Doméstico
+CGH/REC/REC/CGH,Doméstico
+CGH/REC/REC/GRU,Doméstico
+CGH/SDU,Doméstico
+CGH/SDU/BSB/PVH,Doméstico
+CGH/SDU/CGH,Doméstico
+CGH/SDU/VIX,Doméstico
+CGH/SSA,Doméstico
+CGH/SSA/BPS,Doméstico
+CGH/SSA/JPA,Doméstico
+CGH/SSA/MCZ,Doméstico
+CGH/SSA/SSA/CGH,Doméstico
+CGH/SSA/SSA/SDU,Doméstico
+CGH/UDI,Doméstico
+CGH/UDI/CGH,Doméstico
+CGH/VIX,Doméstico
+CGH-SJP,Doméstico
+CGR - BSB,Doméstico
+CGR - GRU,Doméstico
+CGR - GRU,Doméstico
+CGR - GRU / GRU - CGR,Doméstico
+CGR X CGH / GRU X CGR,Doméstico
+CGR*GRU,Doméstico
+CGR//GRU,Doméstico
+CGR/BSB,Doméstico
+CGR/BSB/REC,Doméstico
+CGR/CGH,Doméstico
+CGR/CGH/BPS/SSA/GRU/CGR,Doméstico
+CGR/CGH/BSB/FOR,Doméstico
+CGR/CGH/CGH/CGR,Doméstico
+CGR/CGH/FOR,Doméstico
+CGR/CGH/MCZ/MCZ/GRU/CGR,Doméstico
+CGR/CGH/POA,Doméstico
+CGR/CGH/REC,Doméstico
+CGR/GIG,Doméstico
+CGR/GRU,Doméstico
+CGR/GRU GRU/MCZ,Doméstico
+CGR/GRU/BPS,Doméstico
+CGR/GRU/FLN,Doméstico
+CGR/GRU/GIG/NAT,Doméstico
+CGR/GRU/GRU/CGH,Doméstico
+CGR/GRU/GRU/CGR,Doméstico
+CGR/GRU/GRU/GIG,Doméstico
+CGR/GRU/GRU/MCZ/MCZ/CGH/CGH/CGR,Doméstico
+CGR/GRU/GRU/NAT,Doméstico
+CGR/GRU/GRU/POA/POA/CGH/CGH/CGR,Doméstico
+CGR/GRU/GRU/REC,Doméstico
+CGR/GRU/IOS,Doméstico
+CGR/GRU/MCZ,Doméstico
+CGR/GRU/MCZ/MCZ/GRU/CGR,Doméstico
+CGR/GRU/NAT,Doméstico
+CGR/GRU/NVT,Doméstico
+CGR/GRU/SDU/SDU/GRU/CGR,Doméstico
+CGR/GYN,Doméstico
+CGR/JPA,Doméstico
+CGR/MAO,Doméstico
+CGR/MCZ/MCZ/CGR,Doméstico
+CGR/REC,Doméstico
+CGR-GRU,Doméstico
+CGU/BSB,Doméstico
+CHG/BSB,Internacional
+CIZ/MAO,Doméstico
+CKS/BSB,Doméstico
+CKS/BSB/GIG/FLN,Doméstico
+CLV/GRU,Doméstico
+CNF X SDU X CWB,Doméstico
+CNF/BPS,Doméstico
+CNF/BSB,Doméstico
+CNF/BSB/PVH,Doméstico
+CNF/BSB/SSA,Doméstico
+CNF/CGH,Doméstico
+CNF/CGH CGH/BSB,Doméstico
+CNF/CGH/FLN,Doméstico
+CNF/CGH/SDU/NVT,Doméstico
+CNF/CGH/SSA,Doméstico
+CNF/CWB,Doméstico
+CNF/FOR,Doméstico
+CNF/GIG,Doméstico
+CNF/GRU,Doméstico
+CNF/GRU/CGR,Doméstico
+CNF/GRU/CWB,Doméstico
+CNF/GRU/GRU/BPS,Doméstico
+CNF/GRU/GRU/PNZ,Doméstico
+CNF/GRU/LDB,Doméstico
+CNF/GRU/MGF,Doméstico
+CNF/GRU/SSA,Doméstico
+CNF/NAT,Doméstico
+CNF/REC,Doméstico
+CNF/SDU/GRU/MGF,Doméstico
+CNF/SSA,Doméstico
+CNF/SSA/FOR,Doméstico
+CNF/SSA/VIX,Doméstico
+CNF-GRU,Doméstico
+CNF-SSA,Doméstico
+COF/SSA/SSA/CNF,Internacional
+CON/POA/FLO,Internacional
+CONGONHAS - SALVADOR,Doméstico
+CPV/GRU,Doméstico
+CPV/GRU/DOU,Doméstico
+CPV/GRU/GRU/CPV,Doméstico
+CRG/GRU,Internacional
+CUN - BSB,Internacional
+CUN/BSB,Internacional
+CUN/BSB/BSB/CUN,Internacional
+CUN/BSB/CGB,Internacional
+CUN/BSB/CWB,Internacional
+CUN/BSB/GRU,Internacional
+CURITIBA - GUARULHOS - JERICOACOARA,Doméstico
+CURITIBA - SÃO PAULO - BELO HORIZONTE,Doméstico
+CWB - BSB,Doméstico
+CWB - BSB - FOR / FOR - GRU - CWB,Doméstico
+CWB X BSB X PVH,Doméstico
+CWB/BSB,Doméstico
+CWB/BSB BSB/PVH,Doméstico
+CWB/BSB/BSB/MCO/MCO/BSB/BSB/CWB,Internacional
+CWB/BSB/BVB,Doméstico
+CWB/BSB/CGB,Doméstico
+CWB/BSB/CUN/,Internacional
+CWB/BSB/CUN/CUN/BSB/CWB,Internacional
+CWB/BSB/FOR/GIG/CWB,Doméstico
+CWB/BSB/MAO/MAO/GRU/CWB,Doméstico
+CWB/BSB/MCO,Internacional
+CWB/BSB/POA,Doméstico
+CWB/BSB/PVH,Doméstico
+CWB/BSB/PVH/BSB/CWB,Doméstico
+CWB/BSB/REC/REC/CGH/CWB,Doméstico
+CWB/BSB/SSA/BPS/BPS/SSA/GRU/CWB,Doméstico
+CWB/CGH,Doméstico
+CWB/CGH CGH/SDU,Doméstico
+CWB/CGH/BPS/BPS/CGH/CWB,Doméstico
+CWB/CGH/BPS/BPS/GRU/CWB,Doméstico
+CWB/CGH/BSB,Doméstico
+CWB/CGH/CGB,Doméstico
+CWB/CGH/CGH/FOR/FOR/BSB/BSB/CWB,Doméstico
+CWB/CGH/CGH/POA,Doméstico
+CWB/CGH/CGH/REC,Doméstico
+CWB/CGH/CGH/SDU/SDU/GRU/GRU/CWB,Doméstico
+CWB/CGH/CLV,Doméstico
+CWB/CGH/CNF,Doméstico
+CWB/CGH/MCZ/MCZ/GRU/CWB,Doméstico
+CWB/CGH/POA,Doméstico
+CWB/CGH/REC,Doméstico
+CWB/CGH/REC/REC/CGH,Doméstico
+CWB/CGH/SDU,Doméstico
+CWB/CGH/SDU/SDU/CWB,Doméstico
+CWB/CGH/SDU/VIX,Doméstico
+CWB/CGH/SJP,Doméstico
+CWB/CGH/SSA,Doméstico
+CWB/CIG,Internacional
+CWB/CNF,Doméstico
+CWB/CUN/CUN/CWB,Internacional
+CWB/FOR,Doméstico
+CWB/GIG,Doméstico
+CWB/GIG/AJU,Doméstico
+CWB/GIG/BEL,Doméstico
+CWB/GIG/CWB/GIG,Doméstico
+CWB/GIG/FOR/GIG/CWB,Doméstico
+CWB/GIG/GIG/CWB,Doméstico
+CWB/GIG/GIG/FOR/FOR/SSA,Doméstico
+CWB/GIG/GIG/NAT,Doméstico
+CWB/GIG/GIG/SSA,Doméstico
+CWB/GIG/MCZ/CGH/CWB,Doméstico
+CWB/GIG/NAT,Doméstico
+CWB/GIG/REC/FEN//FEN/REC/GIG/CWB,Doméstico
+CWB/GIG/SDU,Doméstico
+CWB/GRU,Doméstico
+CWB/GRU/AMS/LIS/LIS/AMS GRU,Internacional
+CWB/GRU/CGB,Doméstico
+CWB/GRU/CGR,Doméstico
+CWB/GRU/CWB,Doméstico
+CWB/GRU/FOR,Doméstico
+CWB/GRU/GRU/EZE/EZE/GRU/GRU/CWB,Internacional
+CWB/GRU/GRU/FOR,Doméstico
+CWB/GRU/GRU/GYN,Doméstico
+CWB/GRU/GRU/JDO/JDO/GRU/GRU/CWB,Doméstico
+CWB/GRU/GRU/LIM,Internacional
+CWB/GRU/GRU/MAO,Doméstico
+CWB/GRU/GRU/MCZ,Doméstico
+CWB/GRU/GRU/PTY/JFK,Internacional
+CWB/GRU/GRU/SSA/SSA/CWB,Doméstico
+CWB/GRU/IGU,Doméstico
+CWB/GRU/MAO,Doméstico
+CWB/GRU/MCZ/MCZ/GIG/CWB,Doméstico
+CWB/GRU/NAT,Doméstico
+CWB/GRU/PUJ,Internacional
+CWB/GRU/SCL,Internacional
+CWB/GRU/SCL/SCL/GRU/CWB,Internacional
+CWB/GRU/SSA,Doméstico
+CWB/GRU/UDI/UDI/GRU,Doméstico
+CWB/GRU/VDC,Doméstico
+CWB/GRU/VIX,Doméstico
+CWB/IGU,Doméstico
+CWB/IGU/CWB,Doméstico
+CWB/IGU/GRU/CWB,Doméstico
+CWB/IGU/IGU/CWB,Doméstico
+CWB/JDO,Doméstico
+CWB/POA,Doméstico
+CWB/QGA,Doméstico
+CWB/REC,Doméstico
+CWB/SCL,Internacional
+CWB/SDU,Doméstico
+CWB/SDU/CGH,Doméstico
+CWB/SDU/CGH/BSB,Doméstico
+CWB/SDU/CWB,Doméstico
+CWB/SDU/POA/POA/SDU/CWB,Doméstico
+CWB/SDU/SDU/CWB,Doméstico
+CWB/SDU/VIX,Doméstico
+CWB/SSA,Doméstico
+CWB/SSA/FOR,Doméstico
+CWG/GRU,Outros
+CWU/GRU,Doméstico
+CWV/FOR,Doméstico
+CXJ/CGH,Doméstico
+CXJ/GRU,Doméstico
+CXJ/GRU/GRU/CGR,Doméstico
+CXJ/GRU/SSA,Doméstico
+CXJ/SSA,Doméstico
+CXJ/VIX,Doméstico
+CXS/GRU,Doméstico
+CXS/GRU/FOR,Doméstico
+CZS/BSB,Doméstico
+CZS/GYN,Doméstico
+CZS/RBR,Doméstico
+CZS/RBR/BSB/MAO,Doméstico
+Doméstico,Doméstico
+Doméstico,Doméstico
+DOU/GRU,Doméstico
+DOU/GRU/DOU,Doméstico
+DOU/GRU/GIG/FOR,Doméstico
+DOU/GRU/GRU/DOU,Doméstico
+DOU/GRU/POA/POA/GRU/DOU,Doméstico
+DVD/ATZ/ REC/SSA,Outros
+DXB/AMS/FOR,Internacional
+EWK/CLT/MCO/BSB,Internacional
+EZE/BSB,Internacional
+EZE/GIG,Internacional
+EZE/GIG/GIG/VIX,Internacional
+EZE/GRU,Internacional
+EZE/GRU/BSB/PVH,Internacional
+EZE/GRU/CWB,Internacional
+FCO/AMS/GRU/CWB,Internacional
+FEC/REC,Doméstico
+FEN/CGR,Doméstico
+FEN/MAO,Doméstico
+FEN/REC,Doméstico
+FEN/REC/,Doméstico
+FEN/REC/CGH,Doméstico
+FEN/REC/CGH/FLN,Doméstico
+FEN/REC/GIG/FLN,Doméstico
+FEN/REC/GRU,Doméstico
+FEN/REC/GRU/VIX,Doméstico
+FEN/REC/SSA,Doméstico
+FEN/VCP,Doméstico
+FLLN/MCZ,Doméstico
+FLM/GRU/BSB/PVH,Internacional
+FLN CGH,Doméstico
+FLN/AEP,Internacional
+FLN/BRA,Doméstico
+FLN/BSB,Doméstico
+FLN/BSB/BSB/FLN,Doméstico
+FLN/BSB/BSB/PVH,Doméstico
+FLN/BSB/FLN,Doméstico
+FLN/BSB/PVH,Doméstico
+FLN/BSB/STM,Doméstico
+FLN/CGH,Doméstico
+FLN/CGH/BSB,Doméstico
+FLN/CGH/BSB/PVH,Doméstico
+FLN/CGH/BYO,Doméstico
+FLN/CGH/CGH/FLN,Doméstico
+FLN/CGH/FLN,Doméstico
+FLN/CGH/SDU,Doméstico
+FLN/CGH/SSA,Doméstico
+FLN/CGH/SSA/FOR,Doméstico
+FLN/CGH/VIX,Doméstico
+FLN/CGN,Internacional
+FLN/CNF,Doméstico
+FLN/CNF CNF/FLN,Doméstico
+FLN/EZE,Internacional
+FLN/EZE/EZE/FLN,Internacional
+FLN/EZE/EZE/USH,Internacional
+FLN/FEN,Doméstico
+FLN/GIG,Doméstico
+FLN/GIG/BEL/MCP,Doméstico
+FLN/GIG/GIG/NAT,Doméstico
+FLN/GIG/MIA,Internacional
+FLN/GIG/NAT,Doméstico
+FLN/GIG/REC,Doméstico
+FLN/GIG/VIX,Doméstico
+FLN/GRU,Doméstico
+FLN/GRU/BSB,Doméstico
+FLN/GRU/BSB/CGB,Doméstico
+FLN/GRU/BSB/CZS,Doméstico
+FLN/GRU/CNF,Doméstico
+FLN/GRU/FOR,Doméstico
+FLN/GRU/GRU/BSB/BSB/CGB,Doméstico
+FLN/GRU/GRU/BSB/BSB/PVH,Doméstico
+FLN/GRU/GRU/FLN,Doméstico
+FLN/GRU/GRU/NAT/NAT/CGH/CGH/FLN,Doméstico
+FLN/GRU/GRU/PUJ/PUJ/GRU/GRU/FLN,Internacional
+FLN/GRU/GYN,Doméstico
+FLN/GRU/IGU,Doméstico
+FLN/GRU/MAO,Doméstico
+FLN/GRU/MDZ/MDZ/GRU/FLN,Internacional
+FLN/GRU/NAT,Doméstico
+FLN/GRU/PPB,Doméstico
+FLN/GRU/REC/FEN,Doméstico
+FLN/GRU/SCL,Internacional
+FLN/GRU/SCL/SCL/GRU/FLN,Internacional
+FLN/GRU/SSA,Doméstico
+FLN/GRU/UDI,Doméstico
+FLN/GRU/VIX,Doméstico
+FLN/GRU/XAP,Doméstico
+FLN/GRU/ZRH,Internacional
+FLN/PMW,Doméstico
+FLN/POA,Doméstico
+FLN/PVH,Doméstico
+FLN/SDU,Doméstico
+FLN/SDU SDU/CGB CGB/PVH,Doméstico
+FLN/SDU/BSB/PVH,Doméstico
+FLN/SDU/CNF,Doméstico
+FLN/SSA,Doméstico
+FLN/VIX,Doméstico
+FLN/ZRH,Internacional
+FLO/GRU,Internacional
+FOF/EZE/FOR,Internacional
+FOR - GIG,Doméstico
+FOR - GRU,Doméstico
+FOR - GRU,Doméstico
+FOR - GRU - AMS,Internacional
+FOR - MAO,Doméstico
+FOR - NVT,Doméstico
+FOR - REC - FEN / FEN - REC - GIG - FOR,Doméstico
+FOR - SSA,Doméstico
+FOR X SDU,Doméstico
+FOR/AEP/AEP/GRU/FOR,Internacional
+FOR/BEL,Doméstico
+FOR/BEL/GRU,Doméstico
+FOR/BEL/MAO,Doméstico
+FOR/BSB,Doméstico
+FOR/BSB/BRA/BRA/BSB/FOR,Doméstico
+FOR/BSB/BSB/PVH,Doméstico
+FOR/BSB/BSB/REC/REC/FEN,Doméstico
+FOR/BSB/GYN,Doméstico
+FOR/BSB/PVH,Doméstico
+FOR/BSB/RBR,Doméstico
+FOR/BSB/SJP,Doméstico
+FOR/BSB/SSA,Doméstico
+FOR/BSB/VCP,Doméstico
+FOR/BSB/VIX,Doméstico
+FOR/CDG/CDG/NCE,Internacional
+FOR/CGH,Doméstico
+FOR/CGH/CGH/BSB/BSB/PVH,Doméstico
+FOR/CGH/CGH/FOR,Doméstico
+FOR/CGH/CGR,Doméstico
+FOR/CGH/CNF,Doméstico
+FOR/CGH/CWB,Doméstico
+FOR/CGH/FOR,Doméstico
+FOR/CGH/NVT,Doméstico
+FOR/CWB,Doméstico
+FOR/FEN,Doméstico
+FOR/GIG,Doméstico
+FOR/GIG/CWB,Doméstico
+FOR/GIG/EZE/IRJ,Internacional
+FOR/GIG/FOR,Doméstico
+FOR/GIG/IGU,Doméstico
+FOR/GIG/SCL/SCL/GIG/FOR,Internacional
+FOR/GIG/VIX,Doméstico
+FOR/GRU,Doméstico
+FOR/GRU/AMS,Internacional
+FOR/GRU/ARU/ARU/GRU/FOR,Doméstico
+FOR/GRU/BSB/FOR,Doméstico
+FOR/GRU/CGR,Doméstico
+FOR/GRU/CWB,Doméstico
+FOR/GRU/EZE,Internacional
+FOR/GRU/GRU/BSB,Doméstico
+FOR/GRU/IGU,Doméstico
+FOR/GRU/MGF,Doméstico
+FOR/GRU/POA,Doméstico
+FOR/GRU/REC,Doméstico
+FOR/GRU/SCL,Internacional
+FOR/GRU/SCL/SCL/GIG/FOR,Internacional
+FOR/GRU/SCL/SCL/GRU/FOR,Internacional
+FOR/GRU/XAP,Doméstico
+FOR/JDO,Doméstico
+FOR/JJD,Doméstico
+FOR/MAO,Doméstico
+FOR/MAO/BVB,Doméstico
+FOR/MAO/MAO/FOR,Doméstico
+FOR/MAO/MIA/CUN,Internacional
+FOR/MAO/PVH,Doméstico
+FOR/MCO/MCO/FOR,Internacional
+FOR/MIA,Internacional
+FOR/MIA/FOR,Internacional
+FOR/MIA/LGA,Internacional
+FOR/MIA/MCO/MCO/MIA/FOR,Internacional
+FOR/MIA/MIA/FOR,Internacional
+FOR/NAT,Doméstico
+FOR/POA,Doméstico
+FOR/PVH,Doméstico
+FOR/REC,Doméstico
+FOR/REC/FEN,Doméstico
+FOR/REC/REC/FOR,Doméstico
+FOR/REC/SSA,Doméstico
+FOR/SLZ,Doméstico
+FOR/SSA,Doméstico
+FOR/SSA/AJU,Doméstico
+FOR/SSA/BRA,Doméstico
+FOR/SSA/BSB,Doméstico
+FOR/SSA/EZE,Internacional
+FOR/SSA/FOR,Doméstico
+FOR/SSA/SSA/CGH,Doméstico
+FOR/SSA/SSA/FOR,Doméstico
+FOR/SSA/SSA/VIX,Doméstico
+FOR-GIG,Doméstico
+FOZ/GRU,Doméstico
+FRC/CGH,Doméstico
+G3 1894,Outros
+G34725/G34774,Outros
+GEL/GRU,Doméstico
+GIG - AMS / AMS - LIS,Internacional
+GIG - GRU - PPB,Doméstico
+GIG/AJU,Doméstico
+GIG/BOG,Internacional
+GIG/BSB,Doméstico
+GIG/BSB/REC,Doméstico
+GIG/BSB/SJP,Doméstico
+GIG/CGH,Doméstico
+GIG/CGH/IST/FRU,Internacional
+GIG/CGH/LDB,Doméstico
+GIG/CNF,Doméstico
+GIG/CWB,Doméstico
+GIG/FLN,Doméstico
+GIG/FOR,Doméstico
+GIG/FOR/MAO/PVH,Doméstico
+GIG/GRU,Doméstico
+GIG/GRU  GRU/JFK  JFK/GIG,Internacional
+GIG/GRU/ARU,Doméstico
+GIG/GRU/CWB,Doméstico
+GIG/GRU/GRU/FLN,Doméstico
+GIG/GRU/GRU/MAO,Doméstico
+GIG/GRU/GYN,Doméstico
+GIG/GRU/MAO,Doméstico
+GIG/GRU/NVT,Doméstico
+GIG/GRU/PNZ,Doméstico
+GIG/GRU/SCL/SCL/GRU/GIG,Internacional
+GIG/GRU/SJP,Doméstico
+GIG/GRU/SLZ,Doméstico
+GIG/GRU/XAP,Doméstico
+GIG/GYN,Doméstico
+GIG/IGU,Doméstico
+GIG/IOS,Doméstico
+GIG/JOI,Doméstico
+GIG/JPA,Doméstico
+GIG/MAO,Doméstico
+GIG/MAO/MAO/PVH/SDU/BSB/BSB/PVH,Doméstico
+GIG/MIA,Internacional
+GIG/MIA/JFK,Internacional
+GIG/NAT,Doméstico
+GIG/NAT/GRU,Doméstico
+GIG/NAT/NAT/GIG,Doméstico
+GIG/NVT,Doméstico
+GIG/NVT/NVT/GRU/GRU/AMS,Internacional
+GIG/POA/GIG,Doméstico
+GIG/POA/POA/GIG,Doméstico
+GIG/PVH,Doméstico
+GIG/REC,Doméstico
+GIG/REC/FEN,Doméstico
+GIG/REC/REC/FEN,Doméstico
+GIG/SSA,Doméstico
+GIG/SSA/BPS,Doméstico
+GIG/VCP,Doméstico
+GIG/VIX,Doméstico
+GIGI/MAO,Doméstico
+GRU - AEP,Internacional
+GRU - CGB,Doméstico
+GRU - CWB,Doméstico
+GRU - JPA,Doméstico
+GRU - SSA,Doméstico
+GRU JPA,Doméstico
+GRU X AEP / AEP X GRU,Internacional
+GRU X CAC,Doméstico
+GRU X EZE,Internacional
+GRU x MGF,Doméstico
+GRU/AEP,Internacional
+GRU/AEP/AEP/GRU,Internacional
+GRU/AEP/BRC,Internacional
+GRU/AEP/USH,Internacional
+GRU/AJU,Doméstico
+GRU/AJU/AJU/GRU,Doméstico
+GRU/AJU/GRU,Doméstico
+GRU/AMS,Internacional
+GRU/AMS/FCO,Internacional
+GRU/AMS/MAN,Internacional
+GRU/ARU,Doméstico
+GRU/BEL,Doméstico
+GRU/BEL/GRU,Doméstico
+GRU/BOG,Internacional
+GRU/BPS,Doméstico
+GRU/BPS/BPS/GRU,Doméstico
+GRU/BPS/GRU,Doméstico
+GRU/BRC,Internacional
+GRU/BRC/BRC/GRU,Internacional
+GRU/BSB,Doméstico
+GRU/BSB/BSB/GRU,Doméstico
+GRU/BSB/BSB/PMW,Doméstico
+GRU/BSB/BSB/PVH,Doméstico
+GRU/BSB/CKS,Doméstico
+GRU/BSB/CUN,Internacional
+GRU/BSB/CUN/CUN/BSB/CGH,Internacional
+GRU/BSB/FLN/GIG/IOS,Doméstico
+GRU/BSB/FOR,Doméstico
+GRU/BSB/MAB,Doméstico
+GRU/BSB/MAO/STM,Doméstico
+GRU/BSB/MCO,Internacional
+GRU/BSB/MIA,Internacional
+GRU/BSB/PTY/CUN,Internacional
+GRU/BSB/PVH,Doméstico
+GRU/BSB/SSA,Doméstico
+GRU/BSB/THE,Doméstico
+GRU/CAC,Doméstico
+GRU/CAC/VIX,Doméstico
+GRU/CDG/CDG/GRU,Internacional
+GRU/CFB,Doméstico
+GRU/CGB,Doméstico
+GRU/CGB/CGB/GRU,Doméstico
+GRU/CGR,Doméstico
+GRU/CGR/CGR/CGH,Doméstico
+GRU/CLV,Doméstico
+GRU/CNF,Doméstico
+GRU/CNF/SSA,Doméstico
+GRU/COR,Internacional
+GRU/CPV,Doméstico
+GRU/CPV/CPV/GRU,Doméstico
+GRU/CUN,Internacional
+GRU/CUN/BSB/VCP,Internacional
+GRU/CUN/CUN/BSB,Internacional
+GRU/CUN/CUN/GRU,Internacional
+GRU/CWB,Doméstico
+GRU/CWB/CWB/GRU,Doméstico
+GRU/CXJ,Doméstico
+GRU/CXJ/GRU,Doméstico
+GRU/DOU,Doméstico
+GRU/EZE,Internacional
+GRU/EZE/BRC,Internacional
+GRU/EZE/EZE/GRU,Internacional
+GRU/EZE/GRU,Internacional
+GRU/FLN,Doméstico
+GRU/FLN FLN/GRU,Doméstico
+GRU/FLN/FLN/GRU,Doméstico
+GRU/FLZ,Internacional
+GRU/FOR,Doméstico
+GRU/FOR MGF/GRU,Doméstico
+GRU/FOR/,Doméstico
+GRU/FOR/FOR/GRU,Doméstico
+GRU/FOR/FOR/MCO,Internacional
+GRU/FOR/GRU,Doméstico
+GRU/FOR/LIS,Internacional
+GRU/FOR/MCO,Internacional
+GRU/FTE,Internacional
+GRU/GIG,Doméstico
+GRU/GIG/GRU,Doméstico
+GRU/GIG/MAO,Doméstico
+GRU/GIG/MCZ,Doméstico
+GRU/GIG/SDU/GRU,Doméstico
+GRU/GIN/BPS,Outros
+GRU/GRU,Doméstico
+GRU/GYN,Doméstico
+GRU/GYN/BSB,Doméstico
+GRU/GYN/GRU,Doméstico
+GRU/GYN/GYN/GRU,Doméstico
+GRU/IGU,Doméstico
+GRU/IGU/IGU/GRU,Doméstico
+GRU/IOS,Doméstico
+GRU/IOS/GRU,Doméstico
+GRU/IOS/IOS/GRU,Doméstico
+GRU/IZA,Doméstico
+GRU/JDN/JDN/GRU,Internacional
+GRU/JDO,Doméstico
+GRU/JDO/GRU,Doméstico
+GRU/JDO/JDO/GRU,Doméstico
+GRU/JJC,Outros
+GRU/JJD,Doméstico
+GRU/JJD/GRU,Doméstico
+GRU/JJD/JJD/GRU,Doméstico
+GRU/JOI,Doméstico
+GRU/JOI/JOI/GRU,Doméstico
+GRU/JPA,Doméstico
+GRU/JPA/GRU,Doméstico
+GRU/JPA/JPA/GRU,Doméstico
+GRU/LDB,Doméstico
+GRU/LIM,Internacional
+GRU/LIM/GRU,Internacional
+GRU/LIM/LIM/GRU,Internacional
+GRU/MAO,Doméstico
+GRU/MAO/MAO/PTY,Internacional
+GRU/MAO/MAO/PVH,Doméstico
+GRU/MAO/PVH,Doméstico
+GRU/MCZ,Doméstico
+GRU/MCZ/CGH,Doméstico
+GRU/MCZ/GIG/FOR,Doméstico
+GRU/MCZ/GRU,Doméstico
+GRU/MCZ/MCZ/GRU,Doméstico
+GRU/MCZ/MCZ/GRU/IOS/GRU,Doméstico
+GRU/MCZ/REC/GRU,Doméstico
+GRU/MDZ,Internacional
+GRU/MDZ/GRU,Internacional
+GRU/MDZ/SCL/GRU,Internacional
+GRU/MGF,Doméstico
+GRU/MIA,Internacional
+GRU/MIA/MCO,Internacional
+GRU/MIA/MCO/MIA/GRU,Internacional
+GRU/MIA/MIA/GRU,Internacional
+GRU/MOC,Doméstico
+GRU/MOC/MOC/GRU,Doméstico
+GRU/MOZ,Internacional
+GRU/MVD,Internacional
+GRU/MVD/MVD/GRU,Internacional
+GRU/NAT,Doméstico
+GRU/NAT/GRU,Doméstico
+GRU/NAT/IGU,Doméstico
+GRU/NAT/NAT/GRU,Doméstico
+GRU/NSN/CZS,Internacional
+GRU/NVT,Doméstico
+GRU/NVT/CGH,Doméstico
+GRU/NVT/GRU,Doméstico
+GRU/NVT/NVT/GRU,Doméstico
+GRU/NVZ,Outros
+GRU/OPS,Doméstico
+GRU/PFB,Doméstico
+GRU/PMW,Doméstico
+GRU/PNZ,Doméstico
+GRU/PNZ/PNZ/GRU,Doméstico
+GRU/POA,Doméstico
+GRU/POA/GRU,Doméstico
+GRU/POA/POA/GRU,Doméstico
+GRU/POA/SSA,Doméstico
+GRU/PPB,Doméstico
+GRU/PUJ,Internacional
+GRU/PUJ/GRU,Internacional
+GRU/PUJ/PUJ/GRU,Internacional
+GRU/PVH,Doméstico
+GRU/RAO,Doméstico
+GRU/RAO/RAO/GRU,Doméstico
+GRU/REC,Doméstico
+GRU/REC/CGH,Doméstico
+GRU/REC/FEN,Doméstico
+GRU/REC/FEN/FEN/REC/GRU,Doméstico
+GRU/REC/GRU,Doméstico
+GRU/REC/REC/CGH/GRU/AEP/AEP/GRU,Internacional
+GRU/REC/REC/FEN/FEN/REC/REC/BSB/BSB/VIX,Doméstico
+GRU/REC/REC/FEN/FEN/REC/REC/GRU,Doméstico
+GRU/REC/REC/GRU,Doméstico
+GRU/REC/REC/GRU/BEL/BSB/REC/REC/GIG/BEL,Doméstico
+GRU/RVD,Doméstico
+GRU/RVD/GRU,Doméstico
+GRU/SCL,Internacional
+GRU/SCL/GRU,Internacional
+GRU/SCL/GRU/EZE,Internacional
+GRU/SCL/SCL/GRU,Internacional
+GRU/SDU,Doméstico
+GRU/SDU/BSB/PMW,Doméstico
+GRU/SDU/GRU,Doméstico
+GRU/SDU/POA,Doméstico
+GRU/SDU/SDU/GRU,Doméstico
+GRU/SJP,Doméstico
+GRU/SLZ,Doméstico
+GRU/SSA,Doméstico
+GRU/SSA/POA,Doméstico
+GRU/SSA/SSA/CGH,Doméstico
+GRU/SSA/SSA/GRU,Doméstico
+GRU/THE,Doméstico
+GRU/THE/GRU,Doméstico
+GRU/THE/THE/GRU,Doméstico
+GRU/UDI,Doméstico
+GRU/UIO,Internacional
+GRU/URG,Doméstico
+GRU/VDC,Doméstico
+GRU/VDC/GRU,Doméstico
+GRU/VIC,Internacional
+GRU/VIX,Doméstico
+GRU/VVI,Internacional
+GRU/XAP,Doméstico
+GRU-BSB,Doméstico
+GRU-GYN,Doméstico
+GRU-MIA,Internacional
+GRU-PNZ,Doméstico
+GUARULHOS - PORTO ALEGRE,Doméstico
+GWB/PUJ,Internacional
+GYM/VCP/VCI/CNF,Outros
+GYN - BSB,Doméstico
+GYN - BSB - FOR,Doméstico
+GYN - CGH,Doméstico
+GYN - CGH - BPS,Doméstico
+GYN - GRU,Doméstico
+GYN - GRU - POA,Doméstico
+GYN - MCZ,Doméstico
+GYN/ GRU,Doméstico
+GYN/BRU,Internacional
+GYN/BSB,Doméstico
+GYN/BSB/BPS/BPS/CGH/GYN,Doméstico
+GYN/BSB/BSB/REC/REC/BSB/BSB/GYN,Doméstico
+GYN/BSB/FLN/AEP,Internacional
+GYN/BSB/FOR,Doméstico
+GYN/BSB/FOR/FOR/BSB/GYN,Doméstico
+GYN/BSB/MAO,Doméstico
+GYN/BSB/MIA,Internacional
+GYN/BSB/PMW,Doméstico
+GYN/BSB/REC/FEN,Doméstico
+GYN/BSB/SDU/SDU/BSB/GYN,Doméstico
+GYN/BSB/SDU/SDU/GRU/GYN,Doméstico
+GYN/CGH,Doméstico
+GYN/CGH GRU/GYN,Doméstico
+GYN/CGH/CGH/GYN,Doméstico
+GYN/CGH/CWB,Doméstico
+GYN/CGH/FLN,Doméstico
+GYN/CGH/FLN/FLN/GRU/GYN,Doméstico
+GYN/CGH/POA,Doméstico
+GYN/CGH/POA/POA/CGH/GYN,Doméstico
+GYN/CGH/POA/POA/GRU/POA,Doméstico
+GYN/CGH/REC,Doméstico
+GYN/CGH/VIX,Doméstico
+GYN/FEN,Doméstico
+GYN/FLN,Doméstico
+GYN/FLN/FLN/GYN,Doméstico
+GYN/FOR,Doméstico
+GYN/GIG,Doméstico
+GYN/GIG/BPS,Doméstico
+GYN/GRU,Doméstico
+GYN/GRU/AEP,Internacional
+GYN/GRU/BPS,Doméstico
+GYN/GRU/CAC,Doméstico
+GYN/GRU/CAC/CAC/GRU/GYN,Doméstico
+GYN/GRU/CFB/CFB/GRU/GYN,Doméstico
+GYN/GRU/CGB,Doméstico
+GYN/GRU/CWB,Doméstico
+GYN/GRU/EZE,Internacional
+GYN/GRU/FOR,Doméstico
+GYN/GRU/GRU/CNF/GRU/GYN,Doméstico
+GYN/GRU/GRU/GYN,Doméstico
+GYN/GRU/GRU/IOS,Doméstico
+GYN/GRU/GRU/NAT/ NAT/GRU/GRU/GYN,Doméstico
+GYN/GRU/IGU,Doméstico
+GYN/GRU/JDO,Doméstico
+GYN/GRU/MVD,Internacional
+GYN/GRU/NAT,Doméstico
+GYN/GRU/SSA,Doméstico
+GYN/GRU/SSA/SSA/GRU/GYN,Doméstico
+GYN/GRU/VVI,Internacional
+GYN/IGU,Doméstico
+GYN/IOS,Doméstico
+GYN/LIS,Internacional
+GYN/MCZ,Doméstico
+GYN/PMW,Doméstico
+GYN/PVH,Doméstico
+GYN/SDU,Doméstico
+GYN/SDU/SDU/GYN,Doméstico
+GYN/SSA,Doméstico
+GYN/SSA/BPS/BPS/SSA/GYN,Doméstico
+GYN/SSA/GYN,Doméstico
+GYN/SSA/REC,Doméstico
+GYN/SSA/SSA/GYN,Doméstico
+GYN/SSA/SSA/NAT,Doméstico
+GYN/SSA/SSA/VIX,Doméstico
+GYN/VCP/VCP/SSA,Doméstico
+GYN/VIX,Doméstico
+IGR/AEP,Internacional
+IGU - GRU,Doméstico
+IGU - GRU,Doméstico
+IGU - GRU - BSB,Doméstico
+IGU/BSB,Doméstico
+IGU/BSB/MCO/FOR/GIG/IGU,Internacional
+IGU/CGH/BPS,Doméstico
+IGU/CGH/BPS BPS/GRU/IGU,Doméstico
+IGU/CWB,Doméstico
+IGU/GIG,Doméstico
+IGU/GIG/FOR/NAT,Doméstico
+IGU/GIG/GIG/FOR/FOR/BSB/BSB/IGU,Doméstico
+IGU/GIG/GIG/IGU,Doméstico
+IGU/GIG/GIG/REC,Doméstico
+IGU/GIG/IGU,Doméstico
+IGU/GRU,Doméstico
+IGU/GRU/BPS,Doméstico
+IGU/GRU/BSB,Doméstico
+IGU/GRU/FLN,Doméstico
+IGU/GRU/FOR,Doméstico
+IGU/GRU/GRU/BSB,Doméstico
+IGU/GRU/GRU/CGB,Doméstico
+IGU/GRU/GRU/FOR,Doméstico
+IGU/GRU/GRU/JJD/JJD/GRU/GRU/IGU,Doméstico
+IGU/GRU/GYN,Doméstico
+IGU/GRU/IOS,Doméstico
+IGU/GRU/NAT/NAT/GIG/IGU,Doméstico
+IGU/GRU/PNZ,Doméstico
+IGU/GRU/REC,Doméstico
+IGU/GRU/SDU/VIX,Doméstico
+IGU/GRU/SSA,Doméstico
+IGU/GRU/VIX,Doméstico
+IGU/PVH,Doméstico
+IGU/SSA,Doméstico
+IGU/VIX,Doméstico
+Internacional,Internacional
+Internacional,Internacional
+Internacional,Internacional
+Internacional,Internacional
+Internacional,Internacional
+International,Internacional
+IOS - GRU,Doméstico
+IOS x GRU,Doméstico
+IOS/BSB,Doméstico
+IOS/CGB,Doméstico
+IOS/CGH,Doméstico
+IOS/CGH/CGH/CNF,Doméstico
+IOS/GIG,Doméstico
+IOS/GRU,Doméstico
+IOS/GRU/BSB/RBR,Doméstico
+IOS/GRU/CWB,Doméstico
+IOS/GRU/FLN,Doméstico
+IOS/GRU/GRU/IOS,Doméstico
+IOS/GRU/GYN,Doméstico
+IOS/GRU/IGU,Doméstico
+IOS/GRU/POA,Doméstico
+IOS/GRU/SDU,Doméstico
+IOS/JOI,Doméstico
+IOS/SSA,Doméstico
+IOS/SSA/CGH,Doméstico
+IOS/SSA/NAT,Doméstico
+IOS/SSA/SSA/SDU,Doméstico
+ITB/MAO,Doméstico
+ITB/MAO/MAO/PVH,Doméstico
+IZA/CGH,Doméstico
+IZA/CGH/REC,Doméstico
+IZA/GRU,Doméstico
+IZA/GRU/BSB,Doméstico
+IZA/GRU/LDB,Doméstico
+IZA/NAT,Doméstico
+JDB/GRU,Outros
+JDO - FOR,Doméstico
+JDO - FOR,Doméstico
+JDO - GRU,Doméstico
+JDO - GRU - SDU - POA,Doméstico
+JDO/FOR,Doméstico
+JDO/GRU,Doméstico
+JDO/GRU/CWB,Doméstico
+JDO/GRU/GIG,Doméstico
+JDO/GRU/GRU/JDO,Doméstico
+JDO/GRU/GYN/BSB/PVH,Doméstico
+JDO/GRU/IGU,Doméstico
+JDO/GRU/JDO,Doméstico
+JDO/POA,Doméstico
+JFK/GRU,Internacional
+JFK/MIA/BSB,Internacional
+JJD/BSB,Doméstico
+JJD/FOR,Doméstico
+JJD/GRU,Doméstico
+JJD/MGF,Doméstico
+JOI X GRU,Doméstico
+JOI/BSB/BSB/JOI/CWB/GRU/GRU/BSB/BSB/GRU/GRU/CWB,Doméstico
+JOI/CGH,Doméstico
+JOI/GRU,Doméstico
+JOI/GRU/CNF/SDU,Doméstico
+JOI/GRU/MAD,Internacional
+JOI/GRU/MCZ,Doméstico
+JOI/GRU/SSA,Doméstico
+JOI/REC,Doméstico
+JOO/FOR/FOR/MAO/MAO/PVH,Doméstico
+JPA - BSB - GRU,Doméstico
+JPA x GRU/GRU x VIX,Doméstico
+JPA/BSB,Doméstico
+JPA/BSB  BSB/CNF,Doméstico
+JPA/BSB/CGH,Doméstico
+JPA/BSB/PVH,Doméstico
+JPA/CGH,Doméstico
+JPA/GIG,Doméstico
+JPA/GRU,Doméstico
+JPA/GRU/BSB/PVH,Doméstico
+JPA/GRU/CPV,Doméstico
+JPA/GRU/GRU/BSB/BSB/PVH,Doméstico
+JPA/GYN,Doméstico
+JPA/PVH,Doméstico
+JPA/SSA,Doméstico
+JPA/SSA/SAO,Doméstico
+JPA/SSA/SSA/CWB,Doméstico
+JPA/SSA/SSA/GIG,Doméstico
+JPS/BSB,Doméstico
+LDB - GRU,Doméstico
+LDB/BPS,Doméstico
+LDB/CGH,Doméstico
+LDB/CGH/MCZ/BSB,Doméstico
+LDB/CGH/SDU,Doméstico
+LDB/CGM,Internacional
+LDB/GRU,Doméstico
+LDB/GRU GRU/REC REC/GRU GRU/MGF,Doméstico
+LDB/GRU/BSB,Doméstico
+LDB/GRU/CNF,Doméstico
+LDB/GRU/GRU/LDB,Doméstico
+LDB/GRU/GRU/OPS,Doméstico
+LDB/GRU/LDB,Doméstico
+LDB/GRU/REC,Doméstico
+LDB/GRU/REC/FEN,Doméstico
+LDB/GRU/THE/THE/GRU/LDB,Doméstico
+LGA/MIA,Internacional
+LGA/MIA/BSB/PVH,Internacional
+LIS/GRU/MGF,Internacional
+LIS/GRU/VIX,Internacional
+londrina/garulhos/garulhos/natal,Doméstico
+MAB/BSB,Doméstico
+MAB/BSB/MCO,Internacional
+MAB/BSB/PVH,Doméstico
+MAB/MAO,Doméstico
+MAB-BVB,Doméstico
+MAO - BSB,Doméstico
+MAO - BSB,Doméstico
+MAO - FOR,Doméstico
+MAO - STM,Doméstico
+MAO GIG,Doméstico
+MAO X PVH,Doméstico
+MAO/AEP,Internacional
+MAO/BEL,Doméstico
+MAO/BEL/BEL/MAO,Doméstico
+MAO/BEL/BSB/JPA,Doméstico
+MAO/BEL/MAO,Doméstico
+MAO/BRU,Internacional
+MAO/BSB,Doméstico
+MAO/BSB BSB/MAB,Doméstico
+MAO/BSB BSB/SDU,Doméstico
+MAO/BSB/BSB/MAO,Doméstico
+MAO/BSB/BSB/REC/REC/BSB/BSB/MAO,Doméstico
+MAO/BSB/BSB/SJP,Doméstico
+MAO/BSB/CGH,Doméstico
+MAO/BSB/CGH/PPB,Doméstico
+MAO/BSB/CGR,Doméstico
+MAO/BSB/CNF,Doméstico
+MAO/BSB/CWB,Doméstico
+MAO/BSB/CWB/CWB/BSB/MAO,Doméstico
+MAO/BSB/EZE,Internacional
+MAO/BSB/FLN,Doméstico
+MAO/BSB/FOR,Doméstico
+MAO/BSB/GRU,Doméstico
+MAO/BSB/GRU/OPS,Doméstico
+MAO/BSB/GRU/POA,Doméstico
+MAO/BSB/GRU/REC,Doméstico
+MAO/BSB/MAO,Doméstico
+MAO/BSB/MCZ,Doméstico
+MAO/BSB/MIA/ MIA/BSB/MAO,Internacional
+MAO/BSB/MIA/MIA/BSB/MAO,Internacional
+MAO/BSB/NAT,Doméstico
+MAO/BSB/POA,Doméstico
+MAO/BSB/PVH,Doméstico
+MAO/BSB/RBR/CZS,Doméstico
+MAO/BSB/RBR/RBR/MAO,Doméstico
+MAO/BSB/REC,Doméstico
+MAO/BSB/REC/RE/GIG/MAO,Doméstico
+MAO/BSB/SDU,Doméstico
+MAO/BSB/SJP,Doméstico
+MAO/BSB/SSA,Doméstico
+MAO/BSB/VCP,Doméstico
+MAO/BSB/VIX,Doméstico
+MAO/CAF,Doméstico
+MAO/CGR,Doméstico
+MAO/CWB,Doméstico
+MAO/ERN,Doméstico
+MAO/EZE/AEP/GRU,Internacional
+MAO/FOR,Doméstico
+MAO/FOR/CGH/BSB/MAO,Doméstico
+MAO/FOR/CGH/GYN,Doméstico
+MAO/FOR/CGH/POA,Doméstico
+MAO/FOR/CGH/SDU,Doméstico
+MAO/FOR/FOR/BEL,Doméstico
+MAO/FOR/FOR/MAO,Doméstico
+MAO/FOR/FOR/REC,Doméstico
+MAO/FOR/FOR/SLZ/SLZ/FOR,Doméstico
+MAO/FOR/GIG,Doméstico
+MAO/FOR/GIG/NAT/NAT/FOR/MAO,Doméstico
+MAO/FOR/GRU/NVT,Doméstico
+MAO/FOR/MAO,Doméstico
+MAO/FOR/REC,Doméstico
+MAO/FOR/REC/REC/GRU/MAO,Doméstico
+MAO/GIG,Doméstico
+MAO/GIG/GIG/MAO,Doméstico
+MAO/GIG/MAO/GRU/GRU/SDU,Doméstico
+MAO/GRU,Doméstico
+MAO/GRU  GRU/SSA,Doméstico
+MAO/GRU/AEP,Internacional
+MAO/GRU/BEL,Doméstico
+MAO/GRU/BPS,Doméstico
+MAO/GRU/BSB,Doméstico
+MAO/GRU/CGH/BSB/MAO,Doméstico
+MAO/GRU/CGH/SDU,Doméstico
+MAO/GRU/CWB,Doméstico
+MAO/GRU/CXJ,Doméstico
+MAO/GRU/EZE,Internacional
+MAO/GRU/FLN,Doméstico
+MAO/GRU/FOR/REC,Doméstico
+MAO/GRU/GIG,Doméstico
+MAO/GRU/GIG/GIG/BSB/MAO,Doméstico
+MAO/GRU/GRU/BSB/SDU/GRU/GRU/MAO,Doméstico
+MAO/GRU/GRU/CGR,Doméstico
+MAO/GRU/GRU/GIG/SDU/BSB/BSB/MAO//GRU/GIG/GIG/GRU,Doméstico
+MAO/GRU/GRU/MAO,Doméstico
+MAO/GRU/GRU/MCZ,Doméstico
+MAO/GRU/GRU/REC/REC/BSB/BSB/MAO,Doméstico
+MAO/GRU/GRU/UDI/UDI/GRU/GRU/MAO,Doméstico
+MAO/GRU/GYN,Doméstico
+MAO/GRU/IGU,Doméstico
+MAO/GRU/MAO,Doméstico
+MAO/GRU/NVT,Doméstico
+MAO/GRU/PFB,Doméstico
+MAO/GRU/POA,Doméstico
+MAO/GRU/PPB,Doméstico
+MAO/GRU/REC,Doméstico
+MAO/GRU/SLZ,Doméstico
+MAO/GRU/SSA,Doméstico
+MAO/GRU/THE/GRU/MAO,Doméstico
+MAO/GRU/VIX,Doméstico
+MAO/GRU/YYZ,Internacional
+MAO/GYN,Doméstico
+MAO/ITB,Doméstico
+MAO/JPA,Doméstico
+MAO/MCO,Internacional
+MAO/MCO/ MCO/MAO,Internacional
+MAO/MCO/MCO/MAO,Internacional
+MAO/MCP/BSB/FLN,Doméstico
+MAO/MIA,Internacional
+MAO/NAT,Doméstico
+MAO/PIN/MAO,Doméstico
+MAO/POA,Doméstico
+MAO/PVH,Doméstico
+MAO/PVH/PVH/MAO,Doméstico
+MAO/RBR,Doméstico
+MAO/RBR/MAO,Doméstico
+MAO/RBR/MAO/BSB/BSB/RBR,Doméstico
+MAO/RBR/RBR/MAO,Doméstico
+MAO/REC,Doméstico
+MAO/REC/REC/GRU/MAO,Doméstico
+MAO/REC/REC/MAO,Doméstico
+MAO/SDU/GIG/MAO,Doméstico
+MAO/STM,Doméstico
+MAO/STM/MAO,Doméstico
+MAO/STM/STM/MAO,Doméstico
+MAO/TFF,Doméstico
+MAO/VCP/VCP/SDU/SDU/BSB/BSB/MAO,Doméstico
+MAOXGRU,Doméstico
+MCO/BSB,Internacional
+MCO/BSB/BSB/MCO,Internacional
+MCO/BSB/CGH,Internacional
+MCO/BSB/PVH,Internacional
+MCO/BSB/SSA,Internacional
+MCO/FOR,Internacional
+MCO/FOR/GRU,Internacional
+MCO/GRU,Internacional
+MCO/MAO,Internacional
+MCO/MAO/PVH,Internacional
+MCO/MIA,Internacional
+MCO-BSB-REC-BSB,Internacional
+MCP - BSB - GYN,Doméstico
+MCP - BSB - PVH,Doméstico
+MCP/BEL,Doméstico
+MCP/BEL/BSB/CWB,Doméstico
+MCP/BEL/FOR,Doméstico
+MCP/BSB,Doméstico
+MCP/BSB/CNF,Doméstico
+MCP/BSB/FLN,Doméstico
+MCP/BSB/GYN,Doméstico
+MCP/BSB/PVH,Doméstico
+MCZ - CGH,Doméstico
+MCZ - CGH - MGF,Doméstico
+MCZ - GRU,Doméstico
+MCZ/BSB,Doméstico
+MCZ/BSB/ BSB/GYN,Doméstico
+MCZ/BSB/BSB/MCZ,Doméstico
+MCZ/BSB/BSB/PVH,Doméstico
+MCZ/BSB/CGH,Doméstico
+MCZ/BSB/CGR,Doméstico
+MCZ/BSB/FLN,Doméstico
+MCZ/BSB/GYN,Doméstico
+MCZ/BSB/MAO,Doméstico
+MCZ/BSB/PVH,Doméstico
+MCZ/BSB/RBR,Doméstico
+MCZ/BSB/SJP,Doméstico
+MCZ/BSB/UCP,Outros
+MCZ/CGH,Doméstico
+MCZ/CGH/FLN,Doméstico
+MCZ/CGH/NVT,Doméstico
+MCZ/CGH/POA,Doméstico
+MCZ/CNF,Doméstico
+MCZ/CWB,Doméstico
+MCZ/GIG,Doméstico
+MCZ/GIG/GRU,Doméstico
+MCZ/GRU,Doméstico
+MCZ/GRU/AÇU,Doméstico
+MCZ/GRU/ARU,Doméstico
+MCZ/GRU/BSB/PVH,Doméstico
+MCZ/GRU/CAC,Doméstico
+MCZ/GRU/CGR,Doméstico
+MCZ/GRU/GRU/BSB/BSB/PVH,Doméstico
+MCZ/GRU/GRU/CWB,Doméstico
+MCZ/GRU/GYN,Doméstico
+MCZ/GRU/SJP,Doméstico
+MCZ/GRU/XAP,Doméstico
+MCZ/GYN,Doméstico
+MCZ/MGF,Doméstico
+MCZ/PVH,Doméstico
+MCZ/RBR,Doméstico
+MCZ/SSA,Doméstico
+MCZ/SSA/CWB,Doméstico
+MCZ/SSA/SSA/BSB/BSB/PVH,Doméstico
+MCZ/SSA/SSA/CWB,Doméstico
+MCZ-GRU,Doméstico
+MDF/GRU,Internacional
+MDZ/GRU,Internacional
+MGF - GRU - NAT / NAT - GRU - MGF,Doméstico
+MGF - GRU - REC,Doméstico
+MGF/CGB,Doméstico
+MGF/CGH,Doméstico
+MGF/CGH// SSA/GRU,Doméstico
+MGF/CGH/BSB/NAT/GIG/CWB,Doméstico
+MGF/CGH/CGH/MGF,Doméstico
+MGF/CGH/FLN,Doméstico
+MGF/CGH/GIG/NAT,Doméstico
+MGF/CWB,Doméstico
+MGF/CWB/CWB/MGF,Doméstico
+MGF/FOR,Doméstico
+MGF/GRU,Doméstico
+MGF/GRU  GRU/REC  REC/FEN,Doméstico
+MGF/GRU GRU/GIG,Doméstico
+MGF/GRU//CNF/SDU,Doméstico
+MGF/GRU/BEL,Doméstico
+MGF/GRU/BPS,Doméstico
+MGF/GRU/BSB/BSB/GRU/MGF,Doméstico
+MGF/GRU/CGB,Doméstico
+MGF/GRU/CNF/SDU,Doméstico
+MGF/GRU/CWB,Doméstico
+MGF/GRU/CWB/CWB/CGH/MGF,Doméstico
+MGF/GRU/EZE,Internacional
+MGF/GRU/GIG,Doméstico
+MGF/GRU/GIG/FOR,Doméstico
+MGF/GRU/GIG/GRU/MGF,Doméstico
+MGF/GRU/GRU/MGF,Doméstico
+MGF/GRU/GRU/MGF/GRU/MCZ/MCZ/GRU,Doméstico
+MGF/GRU/GRU/SSA,Doméstico
+MGF/GRU/GYN/SSA,Doméstico
+MGF/GRU/JPA/JPA/GRU/MGF,Doméstico
+MGF/GRU/MAO,Doméstico
+MGF/GRU/MCZ,Doméstico
+MGF/GRU/MGF,Doméstico
+MGF/GRU/MIA,Internacional
+MGF/GRU/NAT,Doméstico
+MGF/GRU/NAT/NAT/GIG/CWB/MGF,Doméstico
+MGF/GRU/POA,Doméstico
+MGF/GRU/REC,Doméstico
+MGF/GRU/SCL,Internacional
+MGF/GRU/SCL/SCL/GRU/MGF,Internacional
+MGF/GRU/SDU,Doméstico
+MGF/GRU/SSA,Doméstico
+MGF/GRU/VVI,Internacional
+MGF/JOI,Doméstico
+MGF/NAT,Doméstico
+MGF/NAT/NAT/MGF,Doméstico
+MGF/SCL,Internacional
+MGF-GRU,Doméstico
+MIA/BSB,Internacional
+MIA/BSB/BSB/CGH/CGH/BSB/BSB/MIA,Internacional
+MIA/BSB/GYN,Internacional
+MIA/CUN/BSB,Internacional
+MIA/FOR,Internacional
+MIA/GRU/MAO,Internacional
+MIA/GRU/SSA,Internacional
+MIA/MCO/BSB/REC,Internacional
+MOA/REC,Internacional
+MOC/GRU,Doméstico
+MOC/GRU/CAC,Doméstico
+MOC/GRU/MGF,Doméstico
+MOC/GRU/MOC,Doméstico
+MOC/GRU/SSA,Doméstico
+MOC/MAO/PVH,Doméstico
+MOC/SSA,Doméstico
+MSF/GRU,Internacional
+MVD/GRU,Internacional
+MVD/GRU/CNF,Internacional
+MVT/GRU,Internacional
+N/I,Outros
+Não Aplicável,Outros
+NAT - CAC,Doméstico
+NAT - CNF,Doméstico
+NAT/ CGH,Doméstico
+NAT/BSB,Doméstico
+NAT/BSB/BSB/PVH,Doméstico
+NAT/BSB/BSB/VCP,Doméstico
+NAT/BSB/GRU,Doméstico
+NAT/BSB/GYN,Doméstico
+NAT/BSB/LDB,Doméstico
+NAT/BSB/MAO,Doméstico
+NAT/BSB/PVH,Doméstico
+NAT/CGH,Doméstico
+NAT/CGH/GYN,Doméstico
+NAT/CGR,Doméstico
+NAT/CNF,Doméstico
+NAT/FOR,Doméstico
+NAT/FOR/FOR/CGH,Doméstico
+NAT/FOR/MAO/PVH,Doméstico
+NAT/GIG,Doméstico
+NAT/GIG/CGH/LDB,Doméstico
+NAT/GIG/CGH/MGF,Doméstico
+NAT/GIG/GRU/MGF,Doméstico
+NAT/GRU,Doméstico
+NAT/GRU/BSB,Doméstico
+NAT/GRU/BSB/PVH,Doméstico
+NAT/GRU/CNF,Doméstico
+NAT/GRU/FLN,Doméstico
+NAT/GRU/GRU/MGF,Doméstico
+NAT/GRU/MGF,Doméstico
+NAT/GRU/PPD,Internacional
+NAT/LDB,Doméstico
+NAT/MAO,Doméstico
+NAT/MGF,Doméstico
+NAT/SSA,Doméstico
+NAT/SSA/POA,Doméstico
+NAT/SSA/SSA/NAT,Doméstico
+NAT/SSA/VIX,Doméstico
+NAT/VCP,Doméstico
+Natal x Salvador,Doméstico
+NAV/GIG/GIG/REC,Internacional
+NCT/GRU,Internacional
+NVG/GRU,Internacional
+NVT - CGH,Doméstico
+NVT/ GRU,Doméstico
+NVT/CDU,Internacional
+NVT/CGH,Doméstico
+NVT/CGH/BSB,Doméstico
+NVT/CGH/BSB/PMW,Doméstico
+NVT/CGH/CGH FOR,Doméstico
+NVT/CGH/CGH/MCZ,Doméstico
+NVT/CGH/CGH/NVT,Doméstico
+NVT/CGH/FOR,Doméstico
+NVT/CGH/GRU/VIX,Doméstico
+NVT/CGH/GYN,Doméstico
+NVT/CGH/MCZ,Doméstico
+NVT/CGH/REC,Doméstico
+NVT/CGH/VIX,Doméstico
+NVT/CLV,Doméstico
+NVT/CNF,Doméstico
+NVT/GIG,Doméstico
+NVT/GIG/GIG/BSB/BSB/PVH,Doméstico
+NVT/GIG/GIG/IGU/ IGU/GRU/GRU/NVT,Doméstico
+NVT/GIG/REC,Doméstico
+NVT/GIG/SSA,Doméstico
+NVT/GRU,Doméstico
+NVT/GRU/BPS/GRU/NVT,Doméstico
+NVT/GRU/BSB,Doméstico
+NVT/GRU/CGR,Doméstico
+NVT/GRU/FOR,Doméstico
+NVT/GRU/GRU/BSB,Doméstico
+NVT/GRU/GRU/FOR,Doméstico
+NVT/GRU/GRU/REC,Doméstico
+NVT/GRU/JPA,Doméstico
+NVT/GRU/MGF,Doméstico
+NVT/GRU/MOC,Doméstico
+NVT/GRU/SJP,Doméstico
+NVT/GRU/SSA,Doméstico
+NVT/GRU/VDC,Doméstico
+NVT/NAT,Doméstico
+NVT/PVH,Doméstico
+NVT/SDU,Doméstico
+NVT/SDU/BSB/PVH,Doméstico
+NVT/SDU/SDU/NVT,Doméstico
+OMV/BSB/MCZ/PMW/MCZ/MCZ/PMW,Outros
+OPO/MAD/GRU/SDU,Internacional
+OPS/GRU,Doméstico
+OPS/GRU/FLN,Doméstico
+OPS/GRU/GRU/BSB,Doméstico
+OPS/VIX,Doméstico
+ORY/GRU,Internacional
+PBM/BEL,Internacional
+PCH/BSB/NAT,Internacional
+PET/GRU,Doméstico
+PET/GRU/BSB,Doméstico
+PHV/BSB/NAT,Doméstico
+PHV/STM,Doméstico
+PMB/BEL,Internacional
+PMW/BSB,Doméstico
+PMW/BSB/BSB/CGH/CGH/FLN/FLN/CGH/CGH/BSB/BSB/PMW,Doméstico
+PMW/BSB/CGH/FLN,Doméstico
+PMW/BSB/EZE/BSB/PMW,Internacional
+PMW/BSB/EZE/EZE/GRU/BSB/PMW,Internacional
+PMW/BSB/GRU,Doméstico
+PMW/BSB/GRU/JOI,Doméstico
+PMW/BSB/MCP,Doméstico
+PMW/BSB/NAT/SSA,Doméstico
+PMW/BSB/PVH,Doméstico
+PMW/BSB/SDU,Doméstico
+PMW/BSB/SDU//SDU/BSB/PMW,Doméstico
+PMW/BSB/UDI,Doméstico
+PMW/CGH,Doméstico
+PMW/CGH/CGH/SSA/PMW,Doméstico
+PMW/GRU,Doméstico
+PMW/SDU,Doméstico
+PMW/SSA,Doméstico
+PMW/SSA/IOS,Doméstico
+PMW/VCP/VCP/PMW,Doméstico
+PNZ/ GRU,Doméstico
+PNZ/GRU,Doméstico
+PNZ/GRU/GRU/PNZ,Doméstico
+PNZ/GRU/SCL,Internacional
+PNZ/SSA,Doméstico
+PNZ/SSA/GRU,Doméstico
+PNZ/SSA/PNZ,Doméstico
+PNZ/SSA/SSA/GRU,Doméstico
+POA - CGH,Doméstico
+POA - CGH,Doméstico
+POA - CGH - REC,Doméstico
+POA - GRU,Doméstico
+POA/BSB,Doméstico
+POA/BSB/BSB/POA,Doméstico
+POA/BSB/BVB,Doméstico
+POA/BSB/FOR,Doméstico
+POA/BSB/MAO,Doméstico
+POA/BSB/MCZ,Doméstico
+POA/BSB/PVH,Doméstico
+POA/BSB/REC,Doméstico
+POA/BSB/THE,Doméstico
+POA/BVB,Doméstico
+POA/CGH,Doméstico
+POA/CGH/BSB/PMW,Doméstico
+POA/CGH/CGH/SSA,Doméstico
+POA/CGH/CGH/VIX,Doméstico
+POA/CGH/FOR,Doméstico
+POA/CGH/NAT,Doméstico
+POA/CGH/NVT,Doméstico
+POA/CGH/PPB,Doméstico
+POA/CGH/SDU,Doméstico
+POA/CGH/SSA,Doméstico
+POA/CGH/VIX,Doméstico
+POA/CWB,Doméstico
+POA/CWB/CGH,Doméstico
+POA/CWB/CWB/POA,Doméstico
+POA/CWB/FLN/MAO,Doméstico
+POA/EZE,Internacional
+POA/GIG,Doméstico
+POA/GIG/CWB,Doméstico
+POA/GIG/GYN,Doméstico
+POA/GIG/REC,Doméstico
+POA/GIG/SSA,Doméstico
+POA/GR/PNZ,Doméstico
+POA/GRU,Doméstico
+POA/GRU/BSB/PVH,Doméstico
+POA/GRU/CGB,Doméstico
+POA/GRU/CGR,Doméstico
+POA/GRU/GRU/BSB/BSB/PVH,Doméstico
+POA/GRU/GRU/CGB/CGB/BSB/BSB/PVH,Doméstico
+POA/GRU/GRU/SSA,Doméstico
+POA/GRU/GRU/VIX,Doméstico
+POA/GRU/GRU/VIX/VIX/GRU/GRU/POA/POA/GRU/GRU/VIX,Doméstico
+POA/GRU/GYN,Doméstico
+POA/GRU/LDB,Doméstico
+POA/GRU/LIM,Internacional
+POA/GRU/MAO,Doméstico
+POA/GRU/MAO/PVH,Doméstico
+POA/GRU/MGF,Doméstico
+POA/GRU/PNZ,Doméstico
+POA/GRU/PPB,Doméstico
+POA/GRU/REC,Doméstico
+POA/GRU/SJP,Doméstico
+POA/GRU/SSA,Doméstico
+POA/GRU/UDI,Doméstico
+POA/MAO,Doméstico
+POA/MCZ,Doméstico
+POA/PVH,Doméstico
+POA/REC,Doméstico
+POA/SDU,Doméstico
+POA/SDU/VIX,Doméstico
+POA/SSA,Doméstico
+POA/VIX,Doméstico
+POA-CWB,Doméstico
+PORTO VELHO - FORTALEZA,Doméstico
+PPB/CGH,Doméstico
+PPB/CGH  CGH/SDU,Doméstico
+PPB/CGH/GIG/REC,Doméstico
+PPB/CGH/POA,Doméstico
+PPB/CGH/SDU/SDU/CGH/PPB,Doméstico
+PPB/FLN,Doméstico
+PPB/GRU,Doméstico
+PPB/GRU/BPS/BPS/GRU/PPB,Doméstico
+PPB/GRU/FLN,Doméstico
+PPB/GRU/MCZ,Doméstico
+PPB/GRU/VIX,Doméstico
+PUJ/BOG/GRU/CWB,Internacional
+PUJ/GRU,Internacional
+PUJ/MIA,Internacional
+PVB/BSB,Doméstico
+PVH - BSB,Doméstico
+PVH - BSB - FOR,Doméstico
+PVH - BSB - GRU - MGF,Doméstico
+PVH - BSB - GRU - SCL,Internacional
+PVH - BSB - REC,Doméstico
+PVH - MAO,Doméstico
+PVH - MAO - BSB - GRU - IOS,Doméstico
+PVH x BSB x CNF,Doméstico
+PVH X MAO,Doméstico
+PVH X NAT,Doméstico
+PVH/ MAO/MAO/PVH,Doméstico
+PVH/BEL,Doméstico
+PVH/BSB,Doméstico
+PVH/BSB/BPS,Doméstico
+PVH/BSB/BSB/BEL,Doméstico
+PVH/BSB/BSB/BEL/BEL/STM,Doméstico
+PVH/BSB/BSB/CGH,Doméstico
+PVH/BSB/BSB/CGH/CGH/SDU,Doméstico
+PVH/BSB/BSB/CWB/CWB/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/FLN,Doméstico
+PVH/BSB/BSB/FLN/FLN/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/FOR,Doméstico
+PVH/BSB/BSB/GIG,Doméstico
+PVH/BSB/BSB/GIG/GIG/MAO/MAO/PVH,Doméstico
+PVH/BSB/BSB/GRU,Doméstico
+PVH/BSB/BSB/GRU/BRU/JDO/JDO/FOR/FPR/BSB/BSB/PVH,Internacional
+PVH/BSB/BSB/GRU/GRU/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/GRU/GRU/CWB/CWB/GRU/GRU/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/GRU/GRU/JDO,Doméstico
+PVH/BSB/BSB/GRU/GRU/JPA,Doméstico
+PVH/BSB/BSB/GRU/GRU/MCZ,Doméstico
+PVH/BSB/BSB/GRU/GRU/MGF,Doméstico
+PVH/BSB/BSB/GRU/GRU/POA/POA/GIG/GIG/MAO/MAO/PVH,Doméstico
+PVH/BSB/BSB/JPA/JPA/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/MAO/STM,Doméstico
+PVH/BSB/BSB/MCZ,Doméstico
+PVH/BSB/BSB/MCZ/MCZ/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/NAT/GRU/NAT/PVH/BSB/BSB/GRU,Doméstico
+PVH/BSB/BSB/PMW/PMW/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/POA/POA/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/REC/REC/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/SDU,Doméstico
+PVH/BSB/BSB/SLZ,Doméstico
+PVH/BSB/BSB/SSA,Doméstico
+PVH/BSB/BSB/SSA/SSA/BPS,Doméstico
+PVH/BSB/BSB/SSA/SSA/MCZ,Doméstico
+PVH/BSB/BSB/STM/STM/BSB/BSB/PVH,Doméstico
+PVH/BSB/BSB/UDI,Doméstico
+PVH/BSB/BSBJPA/JPA/BSB/BSB/PVH,Doméstico
+PVH/BSB/CGH,Doméstico
+PVH/BSB/CGH/PPB,Doméstico
+PVH/BSB/CNF,Doméstico
+PVH/BSB/CNF/GRU/JDO,Doméstico
+PVH/BSB/CWB,Doméstico
+PVH/BSB/EZE,Internacional
+PVH/BSB/EZE/EZE/GRU/BSB/PVH,Internacional
+PVH/BSB/FOR,Doméstico
+PVH/BSB/FOR/FOR/BSB/PVH,Doméstico
+PVH/BSB/FOR/FOR/MAO/PVH,Doméstico
+PVH/BSB/GIG,Doméstico
+PVH/BSB/GIG/FLN,Doméstico
+PVH/BSB/GIG/MCZ,Doméstico
+PVH/BSB/GRU,Doméstico
+PVH/BSB/GRU/AEP/GRU/BSB/PVH,Internacional
+PVH/BSB/GRU/EZE,Internacional
+PVH/BSB/GRU/GRU/BSB/PVH,Doméstico
+PVH/BSB/GRU/IOS,Doméstico
+PVH/BSB/GRU/SSA/FOR,Doméstico
+PVH/BSB/JPA,Doméstico
+PVH/BSB/JPA/JPA/BSB/PVH,Doméstico
+PVH/BSB/MCZ,Doméstico
+PVH/BSB/MCZ/MCZ/BSB/PVH,Doméstico
+PVH/BSB/NAT,Doméstico
+PVH/BSB/NAT/NAT/BSB/PVH,Doméstico
+PVH/BSB/POA,Doméstico
+PVH/BSB/POA/POA/GRU/BSB/PVH,Doméstico
+PVH/BSB/REC,Doméstico
+PVH/BSB/REC/FEN,Doméstico
+PVH/BSB/SDU,Doméstico
+PVH/BSB/SLZ/SLZ/BSB/PVH,Doméstico
+PVH/BSB/SLZ/SLZ/GRU/BSB/PVH,Doméstico
+PVH/BSB/SSA,Doméstico
+PVH/BSB/SSA/BPS,Doméstico
+PVH/BSB/SSA/BPS/BPS/GRU/MAO/PVH,Doméstico
+PVH/BSB/SSA/IOS,Doméstico
+PVH/BSB/SSA/SSA/BSB/PVH,Doméstico
+PVH/BSB/SSA/VCP,Doméstico
+PVH/BSB/THE,Doméstico
+PVH/BSB/VCP,Doméstico
+PVH/CGB,Doméstico
+PVH/CWB,Doméstico
+PVH/FOR,Doméstico
+PVH/GRU,Doméstico
+PVH/GRU/FLN,Doméstico
+PVH/GRU/GRU/POA/POA/BSB/BSB/PVH,Doméstico
+PVH/GYN,Doméstico
+PVH/JPA,Doméstico
+PVH/MAB,Doméstico
+PVH/MAO,Doméstico
+PVH/MAO/BEL,Doméstico
+PVH/MAO/BSB,Doméstico
+PVH/MAO/BVB,Doméstico
+PVH/MAO/FOR,Doméstico
+PVH/MAO/FOR/NAT/NAT/BSB/PVH,Doméstico
+PVH/MAO/FOR/REC/FEN,Doméstico
+PVH/MAO/GIG,Doméstico
+PVH/MAO/GIG/BSB,Doméstico
+PVH/MAO/GIG/VCP/GRU/BSB/PVH,Doméstico
+PVH/MAO/GRU,Doméstico
+PVH/MAO/GRU/BPS,Doméstico
+PVH/MAO/GRU/GRU/MAO/PVH,Doméstico
+PVH/MAO/MAO/BSB/PVH,Doméstico
+PVH/MAO/MAO/BVB/BVB/MAO/MAO/PVH,Doméstico
+PVH/MAO/MAO/FOR,Doméstico
+PVH/MAO/MAO/FOR/FOR/GRU/GRU/BSB/BSB/PVH,Doméstico
+PVH/MAO/MAO/GRU/GRU/GIG,Doméstico
+PVH/MAO/MAO/PVH,Doméstico
+PVH/MAO/MAO/STM,Doméstico
+PVH/MAO/MAO/STM/STM/MAO/MAO/PVH,Doméstico
+PVH/MAO/PVH,Doméstico
+PVH/MCZ,Doméstico
+PVH/MCZ/MCZ/PVH,Doméstico
+PVH/MGF/MGF/CGH/BSB/NAT,Doméstico
+PVH/MVD,Internacional
+PVH/NAT,Doméstico
+PVH/NVT,Doméstico
+PVH/NVT/NVT/PVH,Doméstico
+PVH/POA,Doméstico
+PVH/POA/POA/PVH,Doméstico
+PVH/RBR,Doméstico
+PVH/REC/REC/PVH,Doméstico
+PVH/SDU,Doméstico
+PVH/SDU/PVH,Doméstico
+PVH/SLZ,Doméstico
+PVH/STM,Doméstico
+PVH-UDI,Doméstico
+PWD/BSB/CNF,Internacional
+RAO/BSB,Doméstico
+RAO/BSB/MCZ,Doméstico
+RAO/BSB/RAO,Doméstico
+RAO/CGH,Doméstico
+RAO/CGH/NVT,Doméstico
+RAO/CGH/SSA/NAT/NAT/SSA/CGH/RAO,Doméstico
+RAO/CGN/FLN,Internacional
+RAO/GRU,Doméstico
+RAO/GRU/BSB/MCZ/MCZ/GRU/CGB/BSB/SJP/RAO,Doméstico
+RAO/GRU/CNF,Doméstico
+RAO/GRU/CWB,Doméstico
+RAO/GRU/REC,Doméstico
+RAO/GYN,Doméstico
+RAO/SDU,Doméstico
+RAO/SSA,Doméstico
+RBR/BSB,Doméstico
+RBR/BSB/MCZ,Doméstico
+RBR/BSB/POA,Doméstico
+RBR/CZS,Doméstico
+RBR/FEN,Doméstico
+RBR/GRU/REC/FEN,Doméstico
+RBR/MAO,Doméstico
+RBR/MAO/MAO/RBR,Doméstico
+RBR/MCZ,Doméstico
+REC - BSB,Doméstico
+REC - BSB - GYN,Doméstico
+REC - FOR,Doméstico
+REC - GIG,Doméstico
+REC - GRU,Doméstico
+REC - MCO,Internacional
+REC - SSA,Doméstico
+REC- SCL,Internacional
+REC/ AEP/EZE/BSB/REC,Internacional
+REC/ BSB,Doméstico
+REC/ BSB/PVH,Doméstico
+REC/ CGH,Doméstico
+REC/ CGH/CGH/NVT,Doméstico
+REC/ FOR,Doméstico
+REC/ GIG,Doméstico
+REC/ GRU,Doméstico
+REC/ GRU/MVD,Internacional
+REC/ GRU/SCL,Internacional
+REC/ POA,Doméstico
+REC/ SCL,Internacional
+REC/BPS,Doméstico
+REC/BSB,Doméstico
+REC/BSB/BEL,Doméstico
+REC/BSB/BRA,Doméstico
+REC/BSB/BSB/CNF,Doméstico
+REC/BSB/BSB/REC,Doméstico
+REC/BSB/CNF/CNF/CGH/REC,Doméstico
+REC/BSB/CUN/CUN/BSB/REC,Internacional
+REC/BSB/MCO,Internacional
+REC/BSB/POA,Doméstico
+REC/BSB/POA/POA/CGH/REC,Doméstico
+REC/BSB/PVH,Doméstico
+REC/BSB/SJP,Doméstico
+REC/CGH,Doméstico
+REC/CGH/CGH/REC,Doméstico
+REC/CGH/CGR,Doméstico
+REC/CGH/CXJ/CXJ/CGH/REC,Doméstico
+REC/CGH/FLN,Doméstico
+REC/CGH/GYN,Doméstico
+REC/CGH/NVT,Doméstico
+REC/CGH/POA,Doméstico
+REC/CGH/REC,Doméstico
+REC/EZE,Internacional
+REC/FEN,Doméstico
+REC/FEN  FEN/REC,Doméstico
+REC/FEN/FEN/REC,Doméstico
+REC/FEN/REC,Doméstico
+REC/FOR,Doméstico
+REC/FOR/CGH,Doméstico
+REC/FOR/FOR/MAO,Doméstico
+REC/FOR/FOR/REC,Doméstico
+REC/FOR/FOR/SSA/SSA/REC,Doméstico
+REC/FOR/MAO,Doméstico
+REC/FOR/MIA,Internacional
+REC/FOR/REC,Doméstico
+REC/GCH,Internacional
+REC/GIG,Doméstico
+REC/GIG/FLN,Doméstico
+REC/GIG/GIG/FOR/FOR/GIG,Doméstico
+REC/GIG/GIG/REC,Doméstico
+REC/GIG/GRU,Doméstico
+REC/GIG/IGU,Doméstico
+REC/GIG/IGU//IGU/CWB/GIG/REC,Doméstico
+REC/GIG/IGU/IGU/GIG/REC,Doméstico
+REC/GIG/MAO,Doméstico
+REC/GIG/REC,Doméstico
+REC/GRU,Doméstico
+REC/GRU GRU/GYN,Doméstico
+REC/GRU/CGR,Doméstico
+REC/GRU/CXJ,Doméstico
+REC/GRU/EZE,Internacional
+REC/GRU/FLN,Doméstico
+REC/GRU/GIG/REC,Doméstico
+REC/GRU/GRU/BSB/BSB/PVH,Doméstico
+REC/GRU/GRU/EZE,Internacional
+REC/GRU/GRU/REC,Doméstico
+REC/GRU/GRU/SCL,Internacional
+REC/GRU/GYN,Doméstico
+REC/GRU/IAH/SEA,Internacional
+REC/GRU/IGU,Doméstico
+REC/GRU/JOI,Doméstico
+REC/GRU/LIM/LIM/GRU/REC,Internacional
+REC/GRU/MAO,Doméstico
+REC/GRU/MGF,Doméstico
+REC/GRU/MOC,Doméstico
+REC/GRU/MVD,Internacional
+REC/GRU/NVT/GIG/REC,Doméstico
+REC/GRU/REC,Doméstico
+REC/GRU/SCL,Internacional
+REC/GRU/SCL/SCL/GRU/REC,Internacional
+REC/GRU/XAP,Doméstico
+REC/IGU,Doméstico
+REC/MIA,Internacional
+REC/POA,Doméstico
+REC/PVH,Doméstico
+REC/SAO/CAC,Doméstico
+REC/SCL,Internacional
+REC/SSA,Doméstico
+REC/SSA/CNF/SSA,Doméstico
+REC/SSA/PMW,Doméstico
+REC/SSA/SSA/BPS,Doméstico
+REC/SSA/SSA/BPS/BPS/GRU/GRU/REC,Doméstico
+REC/SSA/SSA/REC,Doméstico
+REC/SSA/SSA/VCP/GRU/REC,Doméstico
+REC/SSA/VCP,Doméstico
+REC-FER,Doméstico
+RECIFE - CONFINS,Doméstico
+REN/FEN,Internacional
+RIA/GRU/GRU/RIA,Doméstico
+ROO/BSB/BSB/VIX,Doméstico
+ROS/CGH,Internacional
+RSB/PVH,Internacional
+RVD/GRU/POA,Doméstico
+Salvador (SSA) x São Paulo (GRU),Doméstico
+Salvador x Belo Horizonte,Doméstico
+SAO/DOU,Doméstico
+SAO/SSA,Doméstico
+SCL - GRU,Internacional
+SCL X GRU X FOR,Internacional
+SCL/CWB GRU/CWB,Internacional
+SCL/GIG,Internacional
+SCL/GRU,Internacional
+SCL/GRU/CWB,Internacional
+SCL/GRU/GYN,Internacional
+SCL/GRU/PNZ,Internacional
+SCL/GRU/REC,Internacional
+SCL/GRU/SSA,Internacional
+SCL/REC,Internacional
+SDU - BSB,Doméstico
+SDU - BSB,Doméstico
+SDU - CGH,Doméstico
+SDU - CGH,Doméstico
+SDU - GRU,Doméstico
+SDU CGH,Doméstico
+SDU X CGH X CGR,Doméstico
+SDU/AUX,Doméstico
+SDU/BSB,Doméstico
+SDU/BSB/BSB/PVH,Doméstico
+SDU/BSB/CGB,Doméstico
+SDU/BSB/MAO,Doméstico
+SDU/BSB/PVH,Doméstico
+SDU/CGH,Doméstico
+SDU/CGH  CGH/CWB,Doméstico
+SDU/CGH/BSB,Doméstico
+SDU/CGH/CGH/CWB,Doméstico
+SDU/CGH/CGR,Doméstico
+SDU/CGH/CGR/CGR/CGH/SDU,Doméstico
+SDU/CGH/CWB,Doméstico
+SDU/CGH/FOR,Doméstico
+SDU/CGH/GYN,Doméstico
+SDU/CGH/NVT,Doméstico
+SDU/CGH/PMW,Doméstico
+SDU/CGH/REC,Doméstico
+SDU/CGR,Doméstico
+SDU/CNF,Doméstico
+SDU/CNF/CNF/SDU,Doméstico
+SDU/CNF/REC,Doméstico
+SDU/CWB,Doméstico
+SDU/FLN,Doméstico
+SDU/FLN/BSB/PVH,Doméstico
+SDU/GRU,Doméstico
+SDU/GRU/AMS/AES,Internacional
+SDU/GRU/ARU,Doméstico
+SDU/GRU/FLN,Doméstico
+SDU/GRU/GRU/IOS,Doméstico
+SDU/GRU/JDO,Doméstico
+SDU/GRU/JOI,Doméstico
+SDU/GRU/MAO,Doméstico
+SDU/GRU/MO,Doméstico
+SDU/GRU/SLZ,Doméstico
+SDU/GYN,Doméstico
+SDU/IGU,Doméstico
+SDU/MAO,Doméstico
+SDU/MGF,Doméstico
+SDU/NVT,Doméstico
+SDU/NVT/GRU,Doméstico
+SDU/POA,Doméstico
+SDU/RAO,Doméstico
+SDU/SSA,Doméstico
+SDU/VCP,Doméstico
+SDU/VDC,Doméstico
+SDU/VIX,Doméstico
+SDU-BSB,Doméstico
+SJL/MAO,Doméstico
+SJP/BSB,Doméstico
+SJP/BSB BSB/NAT NAT/BSB BSB/SJP,Doméstico
+SJP/BSB/BSB/POA,Doméstico
+SJP/BSB/GRU,Doméstico
+SJP/BSB/MCO//MCO/BSB/SJP,Internacional
+SJP/BSB/MCZ,Doméstico
+SJP/BSB/MCZ/MCZ/BSB/SJP,Doméstico
+SJP/BSB/NAT,Doméstico
+SJP/BSB/NAT/NAT/BSB/SJP,Doméstico
+SJP/BSB/SSA/JPA,Doméstico
+SJP/CGH,Doméstico
+SJP/GRU,Doméstico
+SJP/GRU/BSB/RBR,Doméstico
+SJP/GRU/FOR/FOR/GRU/SJP,Doméstico
+SJP/GRU/GIG,Doméstico
+SJP/GRU/GRU/MCZ,Doméstico
+SJP/GRU/MCZ,Doméstico
+SJP/GRU/OPS,Doméstico
+SJP/GRU/REC/CNF/BPS,Doméstico
+SJP/MCZ,Doméstico
+SJP/NAT,Doméstico
+SJP/SSA,Doméstico
+SLZ/BEL,Doméstico
+SLZ/BSB,Doméstico
+SLZ/BSB/CGH,Doméstico
+SLZ/BSB/CWB,Doméstico
+SLZ/BSB/GYN,Doméstico
+SLZ/BSB/MAO,Doméstico
+SLZ/BSB/PVH,Doméstico
+SLZ/BSB/SDU,Doméstico
+SLZ/CNF,Doméstico
+SLZ/FOR/CGH/CWB,Doméstico
+SLZ/GIG/GIG/VIX,Doméstico
+SLZ/GRU,Doméstico
+SLZ/GRU/FLN,Doméstico
+SLZ/GRU/SDU,Doméstico
+SLZ/PVH,Doméstico
+SLZ/SSA,Doméstico
+SLZ/SSA/FOR,Doméstico
+SLZ/SSA/GYN,Doméstico
+SRA/POA,Doméstico
+SSA - BSB,Doméstico
+SSA - BSB - PVH,Doméstico
+SSA - CGH,Doméstico
+SSA - FOR,Doméstico
+SSA - GIG / SDU - SSA,Doméstico
+SSA - GRU,Doméstico
+SSA - GYN,Doméstico
+SSA- BSB / BSB - MIA,Internacional
+SSA X BSB X PMW,Doméstico
+SSA X FOR,Doméstico
+SSA X GIG/GIG X SSA,Doméstico
+SSA X GRU,Doméstico
+SSA/ BSB,Doméstico
+SSA/ GRU,Doméstico
+SSA/ NAT,Doméstico
+SSA/ SDU,Doméstico
+SSA/CNF,Doméstico
+SSA/AEP,Internacional
+SSA/AJU,Doméstico
+SSA/BEL,Doméstico
+SSA/BPS,Doméstico
+SSA/BPS/SSA,Doméstico
+SSA/BRA,Doméstico
+SSA/BSB,Doméstico
+SSA/BSB/BEL,Doméstico
+SSA/BSB/BSB/MAO,Doméstico
+SSA/BSB/BSB/POA/POA/SDU/SDU/SSA,Doméstico
+SSA/BSB/BSB/PVH,Doméstico
+SSA/BSB/BSB/PVH/PVH/MAO,Doméstico
+SSA/BSB/BSB/SLZ/SLZ/BSB,Doméstico
+SSA/BSB/BSB/SSA,Doméstico
+SSA/BSB/CNF,Doméstico
+SSA/BSB/FOR,Doméstico
+SSA/BSB/GRU/SSA,Doméstico
+SSA/BSB/MAO,Doméstico
+SSA/BSB/MCO,Internacional
+SSA/BSB/MIA,Internacional
+SSA/BSB/MIA//MIA/BSB/SSA,Internacional
+SSA/BSB/PMW,Doméstico
+SSA/BSB/PVH,Doméstico
+SSA/BSB/SSA,Doméstico
+SSA/BSB/THE,Doméstico
+SSA/BSB/THE/GRU,Doméstico
+SSA/CAC,Doméstico
+SSA/CGB,Doméstico
+SSA/CGH,Doméstico
+SSA/CGH// GRU/SSA,Doméstico
+SSA/CGH/BSB/BRA,Doméstico
+SSA/CGH/CGH/POA/POA/CGH/CGH/SSA,Doméstico
+SSA/CGH/CGH/SSA,Doméstico
+SSA/CGH/CGH/VIX/VIX/SSA,Doméstico
+SSA/CGH/CWB,Doméstico
+SSA/CGH/FLN,Doméstico
+SSA/CGH/NVT,Doméstico
+SSA/CGH/POA,Doméstico
+SSA/CGH/POA/POA/CGH/SSA,Doméstico
+SSA/CGH/POA/POA/SDU/SSA,Doméstico
+SSA/CGH/POA/SSA/POA,Doméstico
+SSA/CGH/SDU,Doméstico
+SSA/CGH/SSA,Doméstico
+SSA/CGH/VIX/VIX/GRU/SSA,Doméstico
+SSA/CGR,Doméstico
+SSA/CNF,Doméstico
+SSA/CNF CNF/SSA,Doméstico
+SSA/CNF/CNF/SSA,Doméstico
+SSA/CWB,Doméstico
+SSA/EZE,Internacional
+SSA/EZE/GRU/SSA,Internacional
+SSA/FLN,Doméstico
+SSA/FOR,Doméstico
+SSA/FOR/REC/REC/FOR/SSA,Doméstico
+SSA/FOR/SSA,Doméstico
+SSA/GIG,Doméstico
+SSA/GIG/CDG/BLR,Internacional
+SSA/GIG/CGH,Doméstico
+SSA/GIG/GIG/IGU/IGU/GRU/GRU/SSA,Doméstico
+SSA/GIG/GRU,Doméstico
+SSA/GIG/POA,Doméstico
+SSA/GIG/POA/POA/BSB/SSA,Doméstico
+SSA/GIG/SCL/GIG/SSA,Internacional
+SSA/GIG/SSA,Doméstico
+SSA/GIG/VCP,Doméstico
+SSA/GRU,Doméstico
+SSA/GRU//CGH/SSA,Doméstico
+SSA/GRU/AEP,Internacional
+SSA/GRU/CAC,Doméstico
+SSA/GRU/CDG,Internacional
+SSA/GRU/CGH/SSA,Doméstico
+SSA/GRU/CXJ,Doméstico
+SSA/GRU/CXS,Doméstico
+SSA/GRU/EZE/EZE/GIG/SSA,Internacional
+SSA/GRU/FLN,Doméstico
+SSA/GRU/GRU/IGU,Doméstico
+SSA/GRU/GRU/SSA,Doméstico
+SSA/GRU/GRU/XAP,Doméstico
+SSA/GRU/IGU,Doméstico
+SSA/GRU/MGF,Doméstico
+SSA/GRU/MVD/MVD/GRU/SSA,Internacional
+SSA/GRU/OPS,Doméstico
+SSA/GRU/POA,Doméstico
+SSA/GRU/POA/POA/BSB/SSA,Doméstico
+SSA/GRU/POA/POA/GRU/SSA,Doméstico
+SSA/GRU/PPB,Doméstico
+SSA/GRU/PUJ,Internacional
+SSA/GRU/SCL,Internacional
+SSA/GRU/SCL/SCL/GRU/SSA,Internacional
+SSA/GRU/SSA,Doméstico
+SSA/GRU/VCP/SDU/SDU/BSB,Doméstico
+SSA/GYN,Doméstico
+SSA/GYN/GYN/SSA,Doméstico
+SSA/IOS,Doméstico
+SSA/IOS/SSA,Doméstico
+SSA/JPA,Doméstico
+SSA/JPA/JPA/SSA,Doméstico
+SSA/MAO,Doméstico
+SSA/MCZ,Doméstico
+SSA/MCZ/SSA,Doméstico
+SSA/NAT,Doméstico
+SSA/NAT/NAT/SSA,Doméstico
+SSA/NAT/PMW,Doméstico
+SSA/NAT/SSA,Doméstico
+SSA/NVT,Doméstico
+SSA/NVT/SSA,Doméstico
+SSA/PMW,Doméstico
+SSA/PNZ,Doméstico
+SSA/POA,Doméstico
+SSA/PVH,Doméstico
+SSA/REC,Doméstico
+SSA/REC/ REC/SSA,Doméstico
+SSA/REC/REC/GRU,Doméstico
+SSA/REC/REC/SSA,Doméstico
+SSA/REC/SSA,Doméstico
+SSA/SCL/SSA,Internacional
+SSA/SDU,Doméstico
+SSA/SDU/CGH,Doméstico
+SSA/SDU/CNF,Doméstico
+SSA/SDU/SDU/SSA,Doméstico
+SSA/SLZ,Doméstico
+SSA/SLZ/SLZ/SSA,Doméstico
+SSA/VCP,Doméstico
+SSA/VCP/BSB,Doméstico
+SSA/VCP/CGH/SSA,Doméstico
+SSA/VCP/VCP/SSA,Doméstico
+SSA/VDC,Doméstico
+SSA/VDC/VDC/SSA,Doméstico
+SSA/VIX,Doméstico
+SSA/ZRH,Internacional
+SSA-GRU,Doméstico
+SSAXGRU,Doméstico
+SSSA/FOR,Doméstico
+SSSA/GIG,Doméstico
+SSSA/PMW,Doméstico
+STM  MAO,Doméstico
+STM/BEL,Doméstico
+STM/BSB,Doméstico
+STM/BSB/BSB/PVH,Doméstico
+STM/GRU,Doméstico
+STM/MAO,Doméstico
+STM/MAO/BSB/CGH,Doméstico
+THE/BSB,Doméstico
+THE/BSB/BSB/CGH,Doméstico
+THE/BSB/CGH/FLN,Doméstico
+THE/BSB/GYN,Doméstico
+THE/GRU,Doméstico
+THE/GRU/MGF,Doméstico
+THE/GYN,Doméstico
+THE-PHB,Doméstico
+TXF/SSA,Doméstico
+UDI/GRU,Doméstico
+UDI/GRU/CAC,Doméstico
+UDI/GRU/GIG,Doméstico
+UDI/GRU/GRU/UDI,Doméstico
+UDI/GRU/SDU,Doméstico
+UDI/RAO,Doméstico
+URU/GRU/CNF,Doméstico
+VCP - BSB - MCZ,Doméstico
+VCP/BPS,Doméstico
+VCP/BSB,Doméstico
+VCP/BSB/BSB/CUN/CUN/BSB/BSB/VCP,Internacional
+VCP/BSB/BSB/JPA,Doméstico
+VCP/BSB/CGB,Doméstico
+VCP/BSB/CUN,Internacional
+VCP/BSB/JPA,Doméstico
+VCP/BSB/MCZ,Doméstico
+VCP/BSB/PMW,Doméstico
+VCP/BSB/POA,Doméstico
+VCP/BSB/SDU,Doméstico
+VCP/BSB/THE,Doméstico
+VCP/FOR,Doméstico
+VCP/GIG,Doméstico
+VCP/GIG/AJU/AJU/GIG/VCP,Doméstico
+VCP/GIG/FLN,Doméstico
+VCP/GIG/GIG/MAO,Doméstico
+VCP/GIG/GIG/VCP,Doméstico
+VCP/GIG/MAO,Doméstico
+VCP/GIG/MCZ,Doméstico
+VCP/GIG/NAT,Doméstico
+VCP/GIG/REC,Doméstico
+VCP/GIG/SCL/SCL/GIG/VCP,Internacional
+VCP/GIG/SSA,Doméstico
+VCP/GIG/VCP,Doméstico
+VCP/MCZ,Doméstico
+VCP/MCZ/MCZ/VCP,Doméstico
+VCP/REC/FEN/FEN/REC/VCP,Doméstico
+VCP/SDU,Doméstico
+VCP/SDU/SDU/VCP,Doméstico
+VCP/SDU/SSA,Doméstico
+VCP/SSA,Doméstico
+VCP/SSA/FOR,Doméstico
+VCP/SSA/FOR/SLZ,Doméstico
+VCP/SSA/NAT,Doméstico
+VCP/SSA/REC,Doméstico
+VCP=GIG,Doméstico
+VDC/BSB,Doméstico
+VDC/GRU,Doméstico
+VDC/GRU/CWB,Doméstico
+VDC/GRU/FOR,Doméstico
+VDC/GRU/GRU/VDC,Doméstico
+VDC/GRU/POA,Doméstico
+VDC/GRU/VDC,Doméstico
+VDC/SSA,Doméstico
+VDC/SSA/GRU,Doméstico
+VDC/SSA/PMW,Doméstico
+VDI/GRU,Internacional
+VITORIA/RIO DE JANEIRO,Doméstico
+VIX - CGH,Doméstico
+VIX - GRU,Doméstico
+VIX - IGU,Doméstico
+VIX/ GRU GRU/CAC,Doméstico
+VIX/AEP,Internacional
+VIX/AJU,Doméstico
+VIX/BSB,Doméstico
+VIX/BSB/BSB/NAT/NAT/GRU/GRU/VIX,Doméstico
+VIX/BSB/BSB/PMW,Doméstico
+VIX/BSB/CZS/CZS/BSB/VIX,Doméstico
+VIX/BSB/MAB,Doméstico
+VIX/CGH,Doméstico
+VIX/CGH/CGH/BSB/PVH,Doméstico
+VIX/CGH/CGH/NVT/VNT/GRU/GRU/VIX,Internacional
+VIX/CGH/CGH/VIX,Doméstico
+VIX/CGH/GYN,Doméstico
+VIX/CGH/NVT,Doméstico
+VIX/CGH/NVT/NVT/CGH/VIX,Doméstico
+VIX/CGH/POA,Doméstico
+VIX/CGH/POA/POA/CGH/VIX,Doméstico
+VIX/CGH/POA/POA/SSA/VIX,Doméstico
+VIX/CGH/SDU/VIX,Doméstico
+VIX/CGH/VIX,Doméstico
+VIX/CGH/VIX/GRU,Doméstico
+VIX/CNF,Doméstico
+VIX/CWB,Doméstico
+VIX/DOU,Doméstico
+VIX/GIG,Doméstico
+VIX/GIG/AJU/AJU/GIG/VIX,Doméstico
+VIX/GIG/GIG/CDG/CDG/BCN,Internacional
+VIX/GIG/GIG/FOR/VIX/GRU/GRU/FOR,Doméstico
+VIX/GIG/GIG/IGU/IGU/GIG/GIG/VIX,Doméstico
+VIX/GIG/GIG/VIX,Doméstico
+VIX/GIG/POA,Doméstico
+VIX/GIG/REC,Doméstico
+VIX/GRU,Doméstico
+VIX/GRU  GRU/EZE  EZE/GIG  GIG/VIX,Internacional
+VIX/GRU/BEL,Doméstico
+VIX/GRU/BPS,Doméstico
+VIX/GRU/BSB,Doméstico
+VIX/GRU/CAC,Doméstico
+VIX/GRU/CDG,Internacional
+VIX/GRU/CGR/CGR/GRU/VIX,Doméstico
+VIX/GRU/CWB,Doméstico
+VIX/GRU/FLN,Doméstico
+VIX/GRU/GRU/CAC/CAC/GRU/GRU/VIX,Doméstico
+VIX/GRU/GRU/FLN/FLN/GRU/GRU/VIX,Doméstico
+VIX/GRU/GRU/FOR/FOR/SSA/SSA/VIX,Doméstico
+VIX/GRU/GRU/POA,Doméstico
+VIX/GRU/GRU/POA/POA/GRU/GRU/VIX,Doméstico
+VIX/GRU/GRU/SSA/SSA/CGH/CGH/VIX,Doméstico
+VIX/GRU/GRU/SSA/SSA/GRU/GRU/VIX,Doméstico
+VIX/GRU/GRU/SSA/SSA/VIX,Doméstico
+VIX/GRU/GRU/VIX,Doméstico
+VIX/GRU/GRUVIX,Doméstico
+VIX/GRU/GYN,Doméstico
+VIX/GRU/IGU,Doméstico
+VIX/GRU/JJD,Doméstico
+VIX/GRU/LIM,Internacional
+VIX/GRU/LIM/LIM/GRU/VIX,Internacional
+VIX/GRU/NVT,Doméstico
+VIX/GRU/POA,Doméstico
+VIX/GRU/REC/FEN,Doméstico
+VIX/GRU/SCL/GRU/VIX,Internacional
+VIX/GRU/SLC/SLC/GRU/VIX,Internacional
+VIX/GRU/VIX,Doméstico
+VIX/GYN,Doméstico
+VIX/POA,Doméstico
+VIX/SDU,Doméstico
+VIX/SDU/BSB/MAB/MAB/BSB/SDU/VIX,Doméstico
+VIX/SDU/CGH,Doméstico
+VIX/SDU/CGH/CGH/SDU/VIX,Doméstico
+VIX/SDU/POA,Doméstico
+VIX/SDU/POA/SDU/VIX,Doméstico
+VIX/SDU/SDU/GYN/GYN/BSB/BSB/VIX,Doméstico
+VIX/SDU/SDU/VIX,Doméstico
+VIX/SDU/VCP/VIX/SDU/VCP,Doméstico
+VIX/SDU/VIX,Doméstico
+VIX/SSA,Doméstico
+VIX/SSA SSA/VIX SSA/GRU GRU/VIX,Doméstico
+VIX/SSA/BSB/PVH,Doméstico
+VIX/SSA/FOR,Doméstico
+VIX/SSA/GIG/GIG/VIX,Doméstico
+VIX/SSA/JPA/GRU/VIX,Doméstico
+VIX/SSA/POA,Doméstico
+VIX/SSA/SSA/BSB,Doméstico
+VIX/SSA/SSA/VIX,Doméstico
+VIX/SSA/VIX,Doméstico
+VIX/VVI,Internacional
+VNT/GIG/GIG/IOS,Internacional
+VSC/SSA,Doméstico
+VVI/GRU,Internacional
+XA P/GRU,Outros
+XAP/BPS,Doméstico
+XAP/FLN,Doméstico
+XAP/FLN/FLN/XAP,Doméstico
+XAP/FOR,Doméstico
+XAP/GRU,Doméstico
+XAP/GRU/FLN,Doméstico
+XAP/GRU/GRU/AJU,Doméstico
+XAP/GRU/GRU/SSA/SSA/BPS,Doméstico
+XAP/GRU/GRU/XAP,Doméstico
+XAP/GRU/SDU,Doméstico
+XAP/VCP,Doméstico
+Portugal, Internacional
+EUA, Internacional
+#N/D, Não Informado
+França, Internacional
+Argentina, Internacional
+Uruguai, Internacional
+Guiana Francesa, Internacional
+Curação, Internacional
+BSB - GYN ,Doméstico
+SDU - BSB ,Doméstico
+GRU - SSA ,Doméstico
+GRU - CGB ,Doméstico
+"STM, MAO",Doméstico
+CGR - BSB ,Doméstico
+LDB - GRU ,Doméstico
+BSB - REC ,Doméstico
+"VIX/GRU, GRU/EZE, EZE/GIG, GIG/VIX",Doméstico
+REC - FOR ,Doméstico
+BSB - GRU ,Doméstico
+GRU X AEP; AEP X GRU,Doméstico
+SSA - BSB ,Doméstico
+REC - BSB ,Doméstico
+SSA - FOR ,Doméstico
+JDO - FOR ,Doméstico
+GYN - MCZ ,Doméstico
+CGR - GRU ,Doméstico
+NAT - CAC ,Doméstico
+POA - CGH ,Doméstico
+MAO - STM ,Doméstico
+sdu/gru,Doméstico
+BEL - MAO ,Doméstico
+MAO - BSB ,Doméstico
+VIX  - IGU ,Doméstico
+CAC - IOS ,Doméstico
+"PPB/CGH, CGH/SDU",Doméstico
+SDU - GRU ,Doméstico
+BPS - GRU ,Doméstico
+SDU - CGH ,Doméstico
+"JPA/BSB, BSB/CNF",Doméstico
+SSA - CGH ,Doméstico
+rec/gig,Doméstico
+"SDU/CGH, CGH/CWB",Doméstico
+CGH - AJU ,Doméstico
+IGU - GRU ,Doméstico
+POA - GRU ,Doméstico
+CASCAVEL - GUARULHOS - NATAL ,Doméstico
+"CAC/GRU, GRU/MCZ",Doméstico
+"REC/FEN, FEN/REC",Doméstico
+SSA/;CNF,Doméstico
+GRU - AEP ,Doméstico
+CWB - BSB ,Doméstico
+MCZ - GRU ,Doméstico
+REC - GRU ,Doméstico
+mgf/gru,Doméstico
+CGR X CGH; GRU X CGR,Doméstico
+FOR - GRU ,Doméstico
+"GIG/GRU, GRU/JFK, JFK/GIG",Doméstico
+"MGF/GRU, GRU/REC, REC/FEN",Doméstico
+CUN - BSB ,Doméstico
+VIX - GRU ,Doméstico
+"MAO/GRU, GRU/SSA",Doméstico
+CGH - REC ,Doméstico
+CGH - SSA ,Doméstico
+JDO - GRU ,Doméstico
+GYN - GRU ,Doméstico
+PVH - BSB ,Doméstico
+IOS - GRU ,Doméstico
+SCL - GRU ,Doméstico
+OPERAÇÃO,Doméstico
+CGH - SSA - SLZ,Doméstico
+FOR - BSB - CNF,Doméstico
+CGH-BSB-REC,Doméstico
+MGF-GIG,Doméstico
+CGH - BSB - CUN / CUN - BSB - CGH,Doméstico
+VDC - GRU - EZE,Doméstico
+AEP-USH,Doméstico
+BPS - GRU - MAO,Doméstico
+BOG - GRU,Doméstico
+IOS- CGH-SDU,Doméstico
+FOR - MCO,Doméstico
+CGH - BSB - CUN,Doméstico
+JFK - GRU - MGF,Doméstico
+GIG - IGU ,Doméstico
+AJU - SSA - BSB - RBR,Doméstico
+CGH - REC - FEN,Doméstico
+DUB - DFW - GRU - CNF,Doméstico
+RAO - NAT / NAT  RAO,Doméstico
+BPS-GRU,Doméstico
+FLN - CGR - POA,Doméstico
+MAO - BSB - REC - FEN / FEN - REC - BSB - MAO,Doméstico
+MAO-PVH,Doméstico
+GYN - CGH - CWB - ACL,Doméstico
+MGF - CGH / CGH - BSB / BSB - MIA,Doméstico
+SSA/GIG ,Doméstico
+GIG - REC / REC - FEN,Doméstico
+BSB-CGH-CWB,Doméstico
+GRU-ARU,Doméstico
+PVH - BSB - GRU - FOR / FOR - BSB - PVH,Doméstico
+REC - BSB- VCP,Doméstico
+CWB X NAT,Doméstico
+CGH - FOR ,Doméstico
+CGH-MCZ,Doméstico
+CGH -MGF,Doméstico
+FOR - GIG - GRU,Doméstico
+CWB - GIG - AEP,Doméstico
+SDU - FLN,Doméstico
+LIN - CDG,Doméstico
+GRU-LDB,Doméstico
+SSA - GRU - BEL,Doméstico
+PMW-GRU,Doméstico
+FOR - MIA - MCO,Doméstico
+REC - CGH,Doméstico
+VCP - BSB - CUN / CUN - BSB - VCP,Doméstico
+POA - BSB ,Doméstico
+MCO-BSB-CGH-FLN,Doméstico
+SSA - BSB - VCP,Doméstico
+GRU - MAO,Doméstico
+POA - GRU - JDO,Doméstico
+PVH - MAO / MAO - GRU,Doméstico
+GRU - EZE / EZE - GRU,Doméstico
+AJU - SSA,Doméstico
+IAD - GRU,Doméstico
+PVH - MAO - FOR - REC,Doméstico
+SSA - CGH - FLN,Doméstico
+MAO - GRU - SDU - BSB - FOR / FOR - MAO,Doméstico
+salvador ,Doméstico
+GYN - GRU - SSA,Doméstico
+VDC-GRU-NVT,Doméstico
+NAT - BSB / BSB - NAT,Doméstico
+DOU - GRU,Doméstico
+DFW - GRU,Doméstico
+GYN-CGH-SDU,Doméstico
+CWB - VCP,Doméstico
+FOR - GRU - IGU,Doméstico
+SLZ - BSB - CWB,Doméstico
+GRU - JOI,Doméstico
+MCO-FOR,Doméstico
+MAO - GRU / GRU - ZRH,Doméstico
+FOR - BSB - VCP,Doméstico
+PVH - BSB - JPA,Doméstico
+VIX - SSA - NAT,Doméstico
+SDU - CGH - CGR,Doméstico
+VIX -SSA -VIX,Doméstico
+POA-GRU-OPS,Doméstico
+BSB-MAB,Doméstico
+FLN - GRU - SCL / SCL - GRU - FLN,Doméstico
+BSB - REC - FEN,Doméstico
+NVT - GRU,Doméstico
+PVH - BSB - SSA - GIG - PVH / GIG - BSB - PVH,Doméstico
+MCZ-BSB-MAO,Doméstico
+SSA-GRU-MOC,Doméstico
+GIG- FLN,Doméstico
+POA - CGH - RAO,Doméstico
+MGF-CGH-FLN,Doméstico
+IGU - GRU - BSB - BVB,Doméstico
+NAT/GRU - GRU/XAP,Doméstico
+PNZ - SSA / SSA - SDU,Doméstico
+SLZ-GRU,Doméstico
+PVH - MAO - BSB - GRU ,Doméstico
+MAO X BEL X FOR X SSA,Doméstico
+IGU-GRU-VIX,Doméstico
+GYN - BSB - RBR,Doméstico
+SSA - POA ,Doméstico
+SSA/CGH - CGH/SDU - SDU/POA,Doméstico
+SSA-VIX,Doméstico
+SSA - IGU / IGU - SSA,Doméstico
+SSA-CGH-POA,Doméstico
+PVH - BSB - GIG - GRU,Doméstico
+PMW - BSB - CGH,Doméstico
+THE-BSB,Doméstico
+FOR - BSB ,Doméstico
+BEL - BSB - POA,Doméstico
+LHR-CDG-GRU,Doméstico
+CWB - CGH - BSB - PVH,Doméstico
+SALADOR X GUARULHOS X CUIABA,Doméstico
+BSB - COM,Doméstico
+SDU - CNF - GRU - MGF,Doméstico
+VIX - GRU / GRU - MDZ,Doméstico
+VIX-MDZ,Doméstico
+CGH - PMW,Doméstico
+NVT - CGH - CGR,Doméstico
+SSA - CGH - NVT / NVT - GRU - SSA,Doméstico
+GRU - REC / REC - GRU,Doméstico
+PVH - BSB - REC - FEN / FEN - REC - GRU - MAO,Doméstico
+XAP-GRU-BSB,Doméstico
+SSA - CFH,Doméstico
+AEP - GRU - FOR,Doméstico
+CNF - BPS - POA,Doméstico
+CGB - BSB - MCZ,Doméstico
+MGF-GRU-MCZ,Doméstico
+PVH - MCZ,Doméstico
+PPB - CGH / CGH - PPB,Doméstico
+GEL - GRU - BSB,Doméstico
+GEL-GRU,Doméstico
+GRU - CAC,Doméstico
+REC - GIG - IGU / IGU - GIG - REC,Doméstico
+MAO - GRU - BPS,Doméstico
+SSA - GRU / GRU - ZRH,Doméstico
+LCY - LIS - GRU - GYN,Doméstico
+PAV - SSA,Doméstico
+SSA - FOR - REC,Doméstico
+FOR-BSB-PVH,Doméstico
+GYN - CGH - NVT ,Doméstico
+GYN - GRU - JJD,Doméstico
+MIA - BSB - FLN,Doméstico
+CNF - CGH - FLN,Doméstico
+MAO-GRU-REC,Doméstico
+POA - GIG - MAO / MAO - BSB - POA,Doméstico
+MCO-BSB-CWB,Doméstico
+NAT - GRU - LDB,Doméstico
+POA/SDU - SDU/BSB - BSB/PVH,Doméstico
+FCO - CDG,Doméstico
+REC - CXJ,Doméstico
+BEL - BSB ,Doméstico
+JPA/GRU - GRU/MAO,Doméstico
+RAO - SDU - GRU - CPV,Doméstico
+NVT - SDU,Doméstico
+REC - SSA - FOR,Doméstico
+CNF - GRU - RAO,Doméstico
+MCO - MIA ,Doméstico
+FLN - JPA ,Doméstico
+REC-SSA-FOR,Doméstico
+FLN - GRU - REC - FEN,Doméstico
+PVH - NAT,Doméstico
+CGH - FOR / FOR - SSA - CGH,Doméstico
+GRU - FOR - SSA / SSA - CGH,Doméstico
+POA - SDU - VIX,Doméstico
+GRU - MDZ / MDZ - GRU,Doméstico
+MCO-BSB,Doméstico
+VIX - CGH - SSA,Doméstico
+FOR - GRU / GRU - CAC,Doméstico
+GIG - GRU - BSB,Doméstico
+SSA-BSB-MAO,Doméstico
+CWB - CGB,Doméstico
+MIA - CLT,Doméstico
+PVH - IOS - BSB - SSA,Doméstico
+PVH-BSB-NAT,Doméstico
+SSA,Doméstico
+SSA - GRU / GRU - POA,Doméstico
+MCP-BSB,Doméstico
+CNF - GRU - DFW - SAN,Doméstico
+GRU XAP,Doméstico
+SSA - REC - GRU - MGF,Doméstico
+FOR - CGH,Doméstico
+JOI - PVH,Doméstico
+SSA -VDC,Doméstico
+NVT-CGH-FOR,Doméstico
+MCO - MIA - MAO - FOR,Doméstico
+AJU - SSA - BPS - BSB,Doméstico
+MIA-MAO,Doméstico
+PVH - BSB - SSA - BPS,Doméstico
+MIA - BSB - NAT,Doméstico
+SSA-JPA,Doméstico
+SDU - GRU - AJU,Doméstico
+BSB-MCO,Doméstico
+GRU-THE,Doméstico
+SSA - CGH / CGH - SSA,Doméstico
+BPS - GRU / GRU - BPS,Doméstico
+MFGF-GRU-CWB,Doméstico
+SSA - GRU - YYZ - YVR - YUL,Doméstico
+GYN-GRU,Doméstico
+BSB-GRU-MVD,Doméstico
+GYN-BSB-REC,Doméstico
+REC-GRU-POA,Doméstico
+CNF-VIX,Doméstico
+BSB - MGF,Doméstico
+CGH - SSA - FOR,Doméstico
+REC-NVT,Doméstico
+BSB-FLN,Doméstico
+JDO - GRU   ,Doméstico
+CGR-CGH,Doméstico
+POA - SDU ,Doméstico
+CWB X BSB,Doméstico
+CFN-CGH-SJP,Doméstico
+GRU-PVH,Doméstico
+GYN-GRU-POA,Doméstico
+AEP - PVH,Doméstico
+GYN - VVI,Doméstico
+CWB,Doméstico
+NVT - GRU - SLZ,Doméstico
+REC FEN ,Doméstico
+BEL - GRU - CWB,Doméstico
+GRU - GIG - BSB - PVH,Doméstico
+LDB-GRU-CDG-CPH,Doméstico
+GRU - BOG,Doméstico
+GYN-FLN,Doméstico
+GRU - CLV / CLV - GRU,Doméstico
+MDZ - AEP - GRU,Doméstico
+PMW - GYN,Doméstico
+REC - GRU - SCL / SCL - REC ,Doméstico
+REC - NVT,Doméstico
+CGH  ,Doméstico
+VIC - REC - MCZ,Doméstico
+MAO - BEL / BEL - BSB - MAO,Doméstico
+NAT - BSB - PVH,Doméstico
+GYN-GRU-MCZ,Doméstico
+FLN - CGH - SSA - NAT,Doméstico
+FCO - AMS ,Doméstico
+SSA - POA,Doméstico
+CDG - TLV,Doméstico
+IOS - GRU - BSB,Doméstico
+PHB - THE,Doméstico
+MDZ-GRU-SSA,Doméstico
+BSB - SJP,Doméstico
+IGU - CGH - BSB - PVH,Doméstico
+VIX - SSA,Doméstico
+GIG - CXJ,Doméstico
+SSA - AJU,Doméstico
+MAO - SSA,Doméstico
+SSA-UDI,Doméstico
+UBA - CGH - SDU - VIX,Doméstico
+IGU - GRU - NAT / NAT - GRU - IGU,Doméstico
+MCO-BSB-GRU,Doméstico
+MCZ X GYN,Doméstico
+CWB - CGH,Doméstico
+SSA - BSB - GYN,Doméstico
+THE - GRU ,Doméstico
+BSB - GIG ,Doméstico
+SSA - BSB - BRA,Doméstico
+BSB  - MIA,Doméstico
+SSA - PNZ / PNZ - SSA,Doméstico
+SSA - BSB - PMW,Doméstico
+GIG X IGU,Doméstico
+CGR - BSB - MCZ / MCZ - GRU - CGR,Doméstico
+PVH - FOR ,Doméstico
+SSA - BSB - COM,Doméstico
+BSB - GRU - UIO / UIO - GRU - BSB,Doméstico
+VIX - GRU - UDI,Doméstico
+BEL - BSB - SSA,Doméstico
+CGB - GRU / GRU - JDO,Doméstico
+GYN-BSB-MAO,Doméstico
+PPB - CGH / GRU - MCZ / MCZ - GRU / CGH - PPB ,Doméstico
+GRU - ARU,Doméstico
+BRC-EZE,Doméstico
+BSB-CWB,Doméstico
+GYN - PNZ,Doméstico
+GIG - FOR ,Doméstico
+PVH-BSB-FOR,Doméstico
+EZE - FLN ,Doméstico
+RAO - SDU ,Doméstico
+POA - CWB,Doméstico
+GIG - AEP,Doméstico
+SLZ,Doméstico
+CGH - MCZ / MCZ - GRU,Doméstico
+NAT-GIG,Doméstico
+GRU - DFW,Doméstico
+GRU-YVR,Doméstico
+FLN - GRU / REC - FEN,Doméstico
+MAO - BSB - CWB,Doméstico
+VIX - CGH ,Doméstico
+FOR-POA,Doméstico
+FORTALEZA X SALVADOR,Doméstico
+GYN-CGH-REC,Doméstico
+SJP - CGH - POA,Doméstico
+REC - GRU - MGF,Doméstico
+CWB - GIG / GIG - NAT,Doméstico
+CNF-GRU-SSA,Doméstico
+FOR - BSB - MCO,Doméstico
+IGU - GIG / GIG - REC,Doméstico
+BEL-SSA,Doméstico
+REC X CGH,Doméstico
+SSA -CGH,Doméstico
+CAC - GRU - BPS,Doméstico
+GYN X VIX,Doméstico
+REC - SSA - VIX,Doméstico
+SSA - CGH - SJP,Doméstico
+SSA-SDU-VCP,Doméstico
+CNF-CGH-GYN,Doméstico
+BVB - MAO,Doméstico
+SSA SDU ,Doméstico
+- ,Doméstico
+MGF - GRU - BSB - SSA,Doméstico
+FLN - GRU - SSA,Doméstico
+SSA-GRU-POA,Doméstico
+FOR - CGB,Doméstico
+FRA - LHR,Doméstico
+PVH-GRU,Doméstico
+BSB,Doméstico
+BSB - AUX,Doméstico
+MAO-GRU-PUJ,Doméstico
+REC - GIG - AEP,Doméstico
+GIG-GRU-VIX,Doméstico
+REC- FEN,Doméstico
+SJP - BPS,Doméstico
+MOC - SSA,Doméstico
+BSB - CNF - GRU - URG,Doméstico
+GRU - REC,Doméstico
+CGB - BSB - GIG - FOR,Doméstico
+GRU - BSB - MCZ,Doméstico
+POA X JDO,Doméstico
+MAO - BSB - SSA,Doméstico
+REC-FOR,Doméstico
+CUN-BSB-CGH,Doméstico
+EZE-GIG-SSA-REC,Doméstico
+GYN-GRU-CWB,Doméstico
+GRU,Doméstico
+SDU - GRU - VVI,Doméstico
+CGH - CWB,Doméstico
+VDC - SSA,Doméstico
+SDU - BSB - UDI,Doméstico
+REC - BSB - REC,Doméstico
+PVH - BSB - CUN / CUN - BSB  PVH,Doméstico
+SSA-VGO,Doméstico
+SSA - GIG - CWB / CWB - CGH - SSA,Doméstico
+SSA-BSB-PVH,Doméstico
+IGU - CGH,Doméstico
+BSB-FOR,Doméstico
+SSA - CWB,Doméstico
+OPS - GRU ,Doméstico
+AEP - GRU - BSB - PVH,Doméstico
+MCZ-CGH,Doméstico
+PVH - BSB - SSA - JPA,Doméstico
+SDU-FLN,Doméstico
+RAO - IGU ,Doméstico
+FLN - BSB ,Doméstico
+GRU - LDB,Doméstico
+SIN-ADD-GRU-SSA,Doméstico
+VCP - BSB - NAT / NAT - BSB - VCP,Doméstico
+REC - CGH - NVT,Doméstico
+VIX - SDU - PVH,Doméstico
+BPS CNF,Doméstico
+VCP-REC,Doméstico
+LDB - CGH - REC / REC - CGH - LDB,Doméstico
+NVT-CGH-VIX,Doméstico
+SDU-IOS,Doméstico
+REC-BSB-PVH,Doméstico
+SDU - SSA ,Doméstico
+CGH-BSB-BEL,Doméstico
+MCZ - GRU - GYN,Doméstico
+SSA- BSB,Doméstico
+APR - MGF,Doméstico
+SSA - CGH - POA,Doméstico
+SSA REC,Doméstico
+Rio de Janeiro/RJ - Campinas/SP,Doméstico
+GRU - GIG - REC,Doméstico
+CNF - GRU - FOR ,Doméstico
+GYN - BSB ,Doméstico
+SCL - GRU - SSA,Doméstico
+LHR - GRU,Doméstico
+SJP - BSB,Doméstico
+VCP - SSA - SLZ,Doméstico
+FLN-GRU,Doméstico
+GIG - FLN,Doméstico
+SSA-SDU-RAO,Doméstico
+NVT-CGH-SSA,Doméstico
+FOR-GRU,Doméstico
+POA - GRU / GRU - POA,Doméstico
+REC-GIG-POA,Doméstico
+SJP - CGH ,Doméstico
+GEL - GRU,Doméstico
+XAP-FOR,Doméstico
+DOH - CAI,Doméstico
+POA-GIG,Doméstico
+FOR - BSB - MIA / MIA - BSB - FOR,Doméstico
+CFN-GRU-VIX,Doméstico
+CGR - CGH - BPS,Doméstico
+LDB - CGH / CGH - BSB / BSB - FOR,Doméstico
+SDU - CGR,Doméstico
+BEL-GRU-CWB,Doméstico
+GRU - VDC,Doméstico
+DFW-GRU-REC,Doméstico
+PVH - BSB - POA,Doméstico
+MCZ - GIG ,Doméstico
+CWB-CGH-REC,Doméstico
+GRU - FLN / FLN - GRU,Doméstico
+GRU - RIA,Doméstico
+PVH - BSB / BSB - FLN,Doméstico
+PVH/CGH,Doméstico
+FEC - REC,Doméstico
+PVH - BSB - JPA / JPA - GIG - MAO - PVH,Doméstico
+JPA - SSA - SDU,Doméstico
+LIM - PTY - GRU - FLN,Doméstico
+VDC X GRU,Doméstico
+VIX/GRU - GRU/AJU,Doméstico
+CGB-GRU,Doméstico
+GRU-CAC,Doméstico
+CZS-BSB-CNF-SSA-BPS,Doméstico
+BSB - GRU - MAS / MAS - GRU - BSB,Doméstico
+PVH - BSB / BSB - BEL,Doméstico
+REC - BSB - CGH,Doméstico
+MAO - MIA,Doméstico
+VIX-BEL,Doméstico
+REC - GIG - POA,Doméstico
+FLN - CGH - SDU - BSB - RBR,Doméstico
+REC- GRU ,Doméstico
+GRU - GIG - MAD,Doméstico
+MDV - GRU,Doméstico
+CGH - NAT / NAT - SSA - CGH,Doméstico
+MAO - LDB,Doméstico
+BPS - NVT,Doméstico
+MCZ X GRU,Doméstico
+VIX - GRU / GRU - CDG,Doméstico
+BSB - VCP,Doméstico
+REC - CGH / GRU - REC,Doméstico
+UDI-GRU-SSA,Doméstico
+PVH - BSB - CNF,Doméstico
+GYN - CGH ,Doméstico
+SSA - SDU - VIX,Doméstico
+POA - CGH - BSB - PMW,Doméstico
+GRU-PMW,Doméstico
+POA - GRU - IOS,Doméstico
+MVD - GRU / GRU - FOR,Doméstico
+FLN - SDU ,Doméstico
+VIX - GRU - MDZ,Doméstico
+CGH - CXJ,Doméstico
+CWB - CGH - CNF,Doméstico
+FLN - BPS / BPS - FLN,Doméstico
+BEL - ATM,Doméstico
+JDO-FOR,Doméstico
+SSA CGH,Doméstico
+GTU - LIM ,Doméstico
+BSB - SSA - MCZ,Doméstico
+REC - ROM,Doméstico
+CGH - SSA - NAT / NAT - SSA - CGH,Doméstico
+PVH-MCZ,Doméstico
+BPS - CGR,Doméstico
+CNF-GRU-FOR,Doméstico
+POA-CGH-REC,Doméstico
+FLN-GRU-LIS-VCE,Doméstico
+BSB - MAB,Doméstico
+GYN - BSB - PMW,Doméstico
+PVH-BSB-BSB-CWB,Doméstico
+MCO - FOR / FOR - MCO ,Doméstico
+POA/SDU - SDU/SSA,Doméstico
+FLN - GRU / GRU - ZRH / ZRH - LUX,Doméstico
+LUANDA - GRU - POA,Doméstico
+SDU-CGH-SSA,Doméstico
+SSA-GRU-PUJ,Doméstico
+CAC - GRU - NAT,Doméstico
+CGH - BSB - SSA,Doméstico
+SSA - GRU - MGP,Doméstico
+FOR X BSB,Doméstico
+GIG - BEL,Doméstico
+SSA - GRU - ORD - MCO,Doméstico
+VIX-SDU-CGH,Doméstico
+ CGR - GRU - JPA,Doméstico
+VIX-SSA,Doméstico
+CGH-BSB-MCO,Doméstico
+MGF - GRU - NAT,Doméstico
+GYN - GRU - MAD,Doméstico
+REC/CGH - CGH/BSB - BSB/MIA,Doméstico
+GRU-CNF-NAT,Doméstico
+MGF - GRU - NAT - GIG / GIG - CGH - MGF,Doméstico
+CGH-PNZ,Doméstico
+NAT - SDU - IGU,Doméstico
+BPS - RAO,Doméstico
+BSB - SSA - NAT,Doméstico
+SSA X POA ,Doméstico
+NAT - CGH,Doméstico
+POA - CGH - CNF,Doméstico
+SSA/DSU,Doméstico
+CWB - SDU - SSA,Doméstico
+BSB - GIG,Doméstico
+REC-GRU-GIG,Doméstico
+ARU - GRU ,Doméstico
+FLN - GRU - VIX,Doméstico
+MIA-BSB-GIG,Doméstico
+MACEIO X SÃO PAULO,Doméstico
+VIX X GRU X AMS,Doméstico
+CAC - GRU - REC,Doméstico
+PNZ - GRU - MAO,Doméstico
+SSA - GRU - FOR,Doméstico
+PVH - BSB - FOR / FOR - GRU - BSB - PVH,Doméstico
+BOS-CLT-MCO-BSB,Doméstico
+BSB - SSA ,Doméstico
+BVB-SDU,Doméstico
+FOR - BSB - MOC,Doméstico
+MCZ - CWB,Doméstico
+MGF-CWB-CGH-POA,Doméstico
+PFB-GRU/GRU-CGR,Doméstico
+CGH - SDU - SSA,Doméstico
+AUX-BSB-FOR,Doméstico
+FLN-CGH-BSB-MAB,Doméstico
+MAO-BSB-FLN,Doméstico
+NAT/SSA - SSA/BSB - BSB/BEL,Doméstico
+BSB-SSA-CGH-SJP,Doméstico
+BEL - STM,Doméstico
+VDC- SSA,Doméstico
+VIX-CGB,Doméstico
+JDN - JJD,Doméstico
+CGH-DU-FLN,Doméstico
+FLN X CGH,Doméstico
+NAT -BSB,Doméstico
+SALVADOR - SÃO PAULO (CGH),Doméstico
+XAP - GRU - MCZ,Doméstico
+SJP - GRU - FOR,Doméstico
+GYN/GRU - GRU/MCZ,Doméstico
+CGH - SDU / SDU - CGH,Doméstico
+CKS - CNF,Doméstico
+SSA X CGH X POA,Doméstico
+REC - CGH - VIX,Doméstico
+STM - MAO ,Doméstico
+MAO - GRU - MCZ / MCZ - BSB - MAO,Doméstico
+GRU - JFK,Doméstico
+LDB - VCP,Doméstico
+IOS - CGH,Doméstico
+BSB-GRU-MIA-SFO,Doméstico
+SJP - BSB - SSA - JPA,Doméstico
+CGH - SDU,Doméstico
+CWB - GRU - LIS - ORY,Doméstico
+PAV - SSA ,Doméstico
+FLN X GRU,Doméstico
+BSB- GYN,Doméstico
+SSA - GRU - MVD,Doméstico
+BSB - SSA - JPA,Doméstico
+TXF - CGH,Doméstico
+FOZ DO IGUAÇU 07H10 - VITORIA 15H55,Doméstico
+SSA - BSB  ,Doméstico
+JDO - GRU - DOU,Doméstico
+MCZ - SSA - VIX,Doméstico
+MAO - GIG,Doméstico
+PAV/SSA,Doméstico
+GRU-LIM,Doméstico
+BPS - GYN,Doméstico
+FLN - BSB - MCZ,Doméstico
+AEP - FLN,Doméstico
+FLU/FOR,Doméstico
+GYN - VIX,Doméstico
+CGH  BSB - MAO,Doméstico
+REC - GRU - PPB,Doméstico
+IGU - GRU - MAO,Doméstico
+MCO - BSB - SSA,Doméstico
+ATL-MIA,Doméstico
+SSA - VCP - SDU / SDU - SSA,Doméstico
+YYZ - GRU,Doméstico
+CGH - BSB -PVH ,Doméstico
+CWB - GYN,Doméstico
+GYN-SSA,Doméstico
+POA - GIG,Doméstico
+GYN-BPS,Doméstico
+CGH - FEN / FEN - CGH,Doméstico
+FEN - REC - CGH - VIX,Doméstico
+CGH - BSB - MCO / MCO - BSB - CGH,Doméstico
+CWB - GRU - SCL / SCL - GRU - 1124,Doméstico
+SSA- GRU,Doméstico
+MCZ-GIG,Doméstico
+RAO-BSB,Doméstico
+SDU - BSB - MAO - PVH,Doméstico
+CGH/POA - POA/GRU,Doméstico
+STM- MAO,Doméstico
+FLN - CGH - BSB - PVH,Doméstico
+VIX - GRU - CDG - LHR,Doméstico
+FOR - GRU - GIG,Doméstico
+FLN - GRU ,Doméstico
+UDI - CGH - REC,Doméstico
+POA - MCP,Doméstico
+FEN - REC - BSB - VCP,Doméstico
+SSA-GRU-SCL,Doméstico
+JPA - SJP,Doméstico
+IOS - GRU - IGU,Doméstico
+VIX - SDU / SDU - FLN ,Doméstico
+SSA - BSB - MCO,Doméstico
+BPS - CNF - GRU - GYN,Doméstico
+CGH - BSB / BSB - CUN,Doméstico
+CGH -  SDU,Doméstico
+GRU - BPS / BPS - GRU - IGU ,Doméstico
+GYN - GRU - FOR,Doméstico
+CWB - CGH - SJP,Doméstico
+GIG - FOR - MAO - PVH,Doméstico
+MAO - GRU - MCZ,Doméstico
+NVT - VDC,Doméstico
+SSA - IOS - GRU ,Doméstico
+NVT - GRU / GRU - PUJ,Doméstico
+REC-CNF,Doméstico
+GYN- CGH,Doméstico
+CFB-GRU,Doméstico
+GRU-SCL,Doméstico
+BSB-EZE,Doméstico
+GRU - DOH,Doméstico
+MAO-BEL,Doméstico
+GRU - PNZ,Doméstico
+PVH - BSB - EZE,Doméstico
+POA - GRU - FOR,Doméstico
+CUN - BSB - CGH,Doméstico
+FOR - EZE / EZE - FOR,Doméstico
+CGR-CAC,Doméstico
+FOR X CGH,Doméstico
+SSA-CGH-SDU,Doméstico
+VIX x GRU x SSA,Doméstico
+YUL - YTZ,Doméstico
+POA/GRU - GRU/FOR,Doméstico
+BSB - MIA ,Doméstico
+BSB - SVP,Doméstico
+POA - SDU / SDU - BSB,Doméstico
+ASU - GRU,Doméstico
+AUX - BSB - CGH,Doméstico
+GRU-SSA-NAT,Doméstico
+CGB - CGH - SDU - SSA,Doméstico
+NVT - SDU - POA,Doméstico
+CNF-SSA-JPA,Doméstico
+CGR - SDU,Doméstico
+POA - CGH  FOR,Doméstico
+BSB - BPS,Doméstico
+SSA - BSB - SDU,Doméstico
+BSB-MIA,Doméstico
+SDU GRU,Doméstico
+Salvador ¿ BA -  Fortaleza,Doméstico
+CNF-CGH-SSA,Doméstico
+AJU - GRU - GIG,Doméstico
+BVB/BSB - BSB/GRU - GRU/AEP,Doméstico
+"GRU-BSB, BSB-MCO",Doméstico
+BSB - SSA  VIX,Doméstico
+MAO - RBR,Doméstico
+CWB - POA / POA - CWB,Doméstico
+GRU - BSB - PVH,Doméstico
+GRU - PVH,Doméstico
+RBR-MAO,Doméstico
+CGH - BSB - FOR ,Doméstico
+JDO-FOR-MAO-PVH,Doméstico
+MIA - MCO,Doméstico
+JDC - GRU - BSB,Doméstico
+SFO - DFW - GRU - GYN,Doméstico
+VDC  - GRU - IGU,Doméstico
+FLN - SDU - VIX,Doméstico
+FLN-FOR,Doméstico
+MAB-BSB-GYN,Doméstico
+UBA - CGH,Doméstico
+BSB-NAT,Doméstico
+GRU-NVT,Doméstico
+NAT - GRU,Doméstico
+CNF - JPA,Doméstico
+CGR - CGH - SDU,Doméstico
+SDU - VCP / VCP - SDU,Doméstico
+BVB - BSB - CGH,Doméstico
+GRU - REC - FEN / FEN - REC - CGH,Doméstico
+BSB - SDU / SDU - BSB,Doméstico
+CNF -GRU,Doméstico
+MCO - BSB - GRU - MGF,Doméstico
+MGF - GRU - SDU,Doméstico
+SLZ - PMW,Doméstico
+CNF - SDU - CWB,Doméstico
+SSA-BSB,Doméstico
+SSA-CGH-FLN,Doméstico
+XAP - GRU - SSA - BSB - PVH,Doméstico
+FOR - GRU - JJD,Doméstico
+MSP - YYZ,Doméstico
+REC-GRU,Doméstico
+PET - GRU,Doméstico
+VIX-SDU-SSA,Doméstico
+GYN - REC,Doméstico
+XAP - FOR,Doméstico
+REC-GRU-SCL,Doméstico
+FLN - SDU / SDU - FLN,Doméstico
+SDU - CNF - GRU - XAP,Doméstico
+COM - MIA - BSB,Doméstico
+GRU-UIO,Doméstico
+MAO - BSB / BSB - POA,Doméstico
+LBD - GRU,Doméstico
+GRU - GYN - BSB - PVH,Doméstico
+JPA - SSA,Doméstico
+CGH - FOR - ,Doméstico
+SSA-CGR,Doméstico
+REC - FOR - SSA - GYN,Doméstico
+IOS - GRU - AEP,Doméstico
+RBR - BSB - SDU,Doméstico
+SSA - SDU / SDU - VIX,Doméstico
+FLN - GIG / GIG - FLN,Doméstico
+NVT - CGH / CGH - NVT,Doméstico
+GIG - GRU   ,Doméstico
+BSB - GRU - JPA,Doméstico
+MAO - GIG - SSA,Doméstico
+CGH - VIX - SSA,Doméstico
+CGH - BSB / BSB - CGH,Doméstico
+CGH/SDU - SDU/SSA,Doméstico
+BSB - GRU - MAS,Doméstico
+CWB - BSB - PVH,Doméstico
+FEN - REC ,Doméstico
+REC - SSA - GYN,Doméstico
+CNF - CGH - SJP,Doméstico
+MAO - VAB,Doméstico
+MCZ - SSA - ,Doméstico
+SSA - GIG / GIG - SSA,Doméstico
+VCP - BSB,Doméstico
+VCP-BSB,Doméstico
+VGH-GYN,Doméstico
+BSB-IOS,Doméstico
+FLN - FEN,Doméstico
+POA - BSB - BVB,Doméstico
+PVH - GRU - LDB,Doméstico
+STM - BEL ,Doméstico
+FLN - BSB / BSB - MCO ,Doméstico
+SSA - GIG,Doméstico
+BSB - REC / REC - FEN,Doméstico
+BSB - MAO,Doméstico
+GYN - CGH  / CGH - POA - GYN,Doméstico
+BRA - BSB - REC,Doméstico
+CGB - SSA ,Doméstico
+BSB - SDU,Doméstico
+POA - BSB - THE,Doméstico
+PVH - BSB - MCZ / MCZ - BSB - PVH,Doméstico
+SSA - SDU -NVT,Doméstico
+ POA - BSB,Doméstico
+BSB-MCZ,Doméstico
+GYN - NAT / NAT - GYN,Doméstico
+GYN-MCZ,Doméstico
+SDU-GRU-SSA,Doméstico
+JPA - SSA / SSA - VCP,Doméstico
+SSA-BSB-VCP,Doméstico
+SJP - GRU / GRU - SJP,Doméstico
+BPS-GRU-EWR,Doméstico
+IOS - BSB - PVH,Doméstico
+REC - CGH - CWB,Doméstico
+GRU - CNF - JPA,Doméstico
+GRU X MGF,Doméstico
+GYN - GRU - JPA,Doméstico
+IZA - GRU - FLN,Doméstico
+IZA-CGH,Doméstico
+CGH-REC-FEN,Doméstico
+RAO - CGH - REC,Doméstico
+REC - GRU - SCL,Doméstico
+SSA-CGH-BSB-PTY,Doméstico
+VCP - SSA,Doméstico
+VDC-GRU,Doméstico
+SDU - SSA / SSA - BPS,Doméstico
+CGR-GRU-MIA,Doméstico
+UDI-GRU-MGF,Doméstico
+SSA - SDU - GRU,Doméstico
+JPA - GRU - MGF,Doméstico
+EWR - YYZ,Doméstico
+GRU / IGI,Doméstico
+POA - VIX,Doméstico
+BPS-GRU-CGR,Doméstico
+TUS-ATL-GRU-SSA,Doméstico
+VIX - SDU - SSA,Doméstico
+FLN - GRU - AMS -DUS,Doméstico
+IOS - GRU / GRU - IOS,Doméstico
+CWB - GRU - BOG  ,Doméstico
+GRU - FOR / FOR - MCO,Doméstico
+SDU - CGH - BSB - BVB,Doméstico
+MGF - GRU - CWB / CWB - CGH - MGF,Doméstico
+CGH-FLN,Doméstico
+TXF X SSA,Doméstico
+MCZ - IGU,Doméstico
+SDU - SSA - CGH - CGR,Doméstico
+MAO - BSB - REC /  REC - FOR - MAO,Doméstico
+GRU - XAP ,Doméstico
+VIX-CGH-CWB,Doméstico
+SLZ - GRU ,Doméstico
+GRU-FLN-GRU,Doméstico
+SDU - CGH - GYN,Doméstico
+ARU - GRU - MCZ,Doméstico
+ASU-GRU,Doméstico
+SSA - REC,Doméstico
+FEN - PMW,Doméstico
+GIG - IOS ,Doméstico
+VCP - AJU / AJU - VCP,Doméstico
+GYN - GRU - MAO,Doméstico
+GRU - BSB - PMW,Doméstico
+BSB - NAT / NAT - BSB,Doméstico
+GIG - GRU - SSA,Doméstico
+PMW - GRU - AJU ,Doméstico
+SSA - BSB - CWB,Doméstico
+CGR - CGH - MCZ / MCZ - CGH - CGR,Doméstico
+SDU-CWB,Doméstico
+AEP - GRU - SSA,Doméstico
+POA - GRU - CDG - GVA,Doméstico
+BSB-CUN,Doméstico
+BPS - GRU - CAC,Doméstico
+CWB - GRU - PUJ,Doméstico
+GRU - BRC / BRC - GRU,Doméstico
+MGF - GRU - SCL / SCL - GRU - CWB - MGF,Doméstico
+PNZ - GRU  ,Doméstico
+GOR - GIG,Doméstico
+JFK - MIA - BSB,Doméstico
+SSA - GRU / GRU - GYN,Doméstico
+CGB - GRU - SSA - REC,Doméstico
+CWB - GRU - AJU,Doméstico
+MAO-GRU-FOR-CDG,Doméstico
+CWB - GRU,Doméstico
+CAC-GRU-SDU-NVT,Doméstico
+FOR - SJP,Doméstico
+NVT - SDU / SDU - NVT,Doméstico
+POA-GRU-BSB,Doméstico
+SSA X NAT,Doméstico
+REC/GRU - GRU/AEP,Doméstico
+PVH - BSB / BSB - THE,Doméstico
+PVH-BSB-CGH,Doméstico
+PVH - MAO - BSB - POA,Doméstico
+RBR-BSB,Doméstico
+PVH - BSB - SDU - VIX,Doméstico
+MCZ - GRU - FLN,Doméstico
+SSA- BPS / BPS - SSA,Doméstico
+REC-CGH,Doméstico
+BSB - GRU - JJD,Doméstico
+CGH - SSA - BPS,Doméstico
+RBR BSB,Doméstico
+FLN - SDU / SDU - GRU / GRU - EZE,Doméstico
+SSAX CGH,Doméstico
+FLN - CGH / CGH - SDU,Doméstico
+GRU SSA,Doméstico
+SSA-BSB-CWB,Doméstico
+IGU - CAC - GRU ,Doméstico
+SDU - CGH - REC,Doméstico
+VIX - GRU / GRU - REC / REC - FEN,Doméstico
+MAB-BSB,Doméstico
+REC - FOR - MCO / MCO - FOR - REC,Doméstico
+CGH - SDU - AS,Doméstico
+RBR - GRU,Doméstico
+REC - GRU  ,Doméstico
+SSA - GRU - LDB,Doméstico
+FOR-GRU-CWB,Doméstico
+CWB - CGH - SSA - SLZ,Doméstico
+VIX - GRU - POA,Doméstico
+FLN-GIG,Doméstico
+RBR - BSB - FLN,Doméstico
+FOR-BSB-SSA,Doméstico
+PTY - GIG,Doméstico
+FOR - BSB - SDU - CXJ,Doméstico
+POA - REC,Doméstico
+SLZ - BSB - GRU,Doméstico
+VCP - BSB - NAT,Doméstico
+CGH - ARU,Doméstico
+CNX - BSB,Doméstico
+SDU - BSB / BSB - PVH,Doméstico
+PMW - CGH,Doméstico
+SSA - VIX - GRU - UDI,Doméstico
+SSA/SDU - SDU/SSA,Doméstico
+BSB--SSA,Doméstico
+GYN - SDU / SDU - GYN,Doméstico
+GYN-BSB-FOR,Doméstico
+BSB - AUX - PMW,Doméstico
+JPA - BSB,Doméstico
+FLN - GRU - BSB,Doméstico
+MAO-RBR,Doméstico
+PNZ-GRU,Doméstico
+SJP - CGH,Doméstico
+GRU-GEL,Doméstico
+BEL-GRU,Doméstico
+BSB - GRU - SCL,Doméstico
+BVB-BSB-SSA,Doméstico
+CAC - GRU / GRU - VIX ,Doméstico
+Operação,Doméstico
+PVH - BSB - GRU - XAP,Doméstico
+VCP - SDU / GIG - VCP,Doméstico
+GIG - GRU - MIA - MCO,Doméstico
+AMS-CDG-GRU-BSB,Doméstico
+SSA - GRU - FLN,Doméstico
+BSB - MIA,Doméstico
+GIG  - AMS ,Doméstico
+THE - BSB,Doméstico
+UDI - GRU   ,Doméstico
+GRU - FOR - IGU,Doméstico
+FLN - GRU - MGF,Doméstico
+GRU - CUN,Doméstico
+SDU-VCP,Doméstico
+SJP - CGH - FOR,Doméstico
+FLN - GRU - MOC,Doméstico
+SSA - GRU - BSB,Doméstico
+VDC - GRU - CNF - BSB - RBR,Doméstico
+VDC-GRU-FLN,Doméstico
+CGH BSB,Doméstico
+SSA - GIG - IGU,Doméstico
+FOR - GIG / GIG - FOR,Doméstico
+THE - GRU - GIG,Doméstico
+MIA-BSB,Doméstico
+SSA - FOR / FOR - SSA,Doméstico
+VIX-GRU-GIG-CDG,Doméstico
+THE - GRU - MAD - OPO,Doméstico
+BSB - AUX / AUX - BSB,Doméstico
+BPS - CNF ,Doméstico
+GRU - LIS,Doméstico
+MVD - GRU,Doméstico
+LDB-CGB,Doméstico
+PVH - BSB - SDU - CWB,Doméstico
+CAC - GRU - CGB,Doméstico
+IGU-GRU-SSA,Doméstico
+REC - CGB,Doméstico
+GRU - BSB - MAO - PVH,Doméstico
+PVH-BSB-GRU,Doméstico
+GRU-BOG,Doméstico
+NAT - BSB ,Doméstico
+FLN - CGH - SDU,Doméstico
+GRU - MAO - BVB / BVB - BSB - VCP,Doméstico
+LDB - GRU - CGB,Doméstico
+BRC X GRU X SSA,Doméstico
+IOS - SSA,Doméstico
+CGB - GRU,Doméstico
+IOS - GYN,Doméstico
+GRU - SSA - LIS,Doméstico
+SSA - BSB - FOR,Doméstico
+SSA - CGH  POA / POA - BSB - SSA,Doméstico
+REC-GIG-IGU,Doméstico
+DUB-SSA,Doméstico
+FOR - REC - CGH,Doméstico
+GYN - GRU - VIX,Doméstico
+MAO - ERN,Doméstico
+SJP - NAT,Doméstico
+SSA - GRU - IGU,Doméstico
+COM-BSB-SSA,Doméstico
+MA - PV,Doméstico
+MCP - BEL - GRU - NVT,Doméstico
+NAT-BSB-PVH,Doméstico
+PR - MA ,Doméstico
+AEP X FLN,Doméstico
+VIX - CGH - IGU,Doméstico
+IGU - SDU - NAT,Doméstico
+PVH BSB,Doméstico
+GIG - SSA,Doméstico
+CNF-GIG,Doméstico
+FLN - CGH - MCZ,Doméstico
+FOR X BSB X PVH,Doméstico
+BSB/GRU - GRUCWB,Doméstico
+SSA - GRU / GRU - MIA,Doméstico
+POA-GRU-GYN,Doméstico
+BPS-VIX,Doméstico
+FOR - BSB,Doméstico
+GYN - GRU - IOS / IOS - GRU - GYN,Doméstico
+BSB-JJD,Doméstico
+CWB - GRU - IOS,Doméstico
+NVT - GRU / GRU - SSA,Doméstico
+POA - GRU - UDI,Doméstico
+CDG - SOF,Doméstico
+FEN - BSB,Doméstico
+BSB - IOS / IOS - BSB,Doméstico
+GRU-CGR,Doméstico
+FOR - BEL - MAO - PVH,Doméstico
+BSB SSA,Doméstico
+JPA-GRU-UDI,Doméstico
+NVT - GRU - CNF,Doméstico
+MCZ-VCP,Doméstico
+SDU-CGH-IOS,Doméstico
+CWB - CGH - VIX,Doméstico
+FLN-CGH-CLV,Doméstico
+XAP-GRU,Doméstico
+BSB - AJU / AJU - BSB,Doméstico
+BSB-SSA,Doméstico
+FLN - GIG,Doméstico
+GIG-GRU,Doméstico
+IOS - GRU - CNF,Doméstico
+MAD - GIG,Doméstico
+IGU-CGH-SSA,Doméstico
+VIX-CGH-FOR,Doméstico
+CGH - CNF,Doméstico
+VIX - GRU - JJD,Doméstico
+JPA-GIG-IGU,Doméstico
+MCZ - BSB - SJP,Doméstico
+REC - GIG - BEL,Doméstico
+PVH - BSB - JPA  / JPA - GIG - MAO - PVH,Doméstico
+FLN - GRU,Doméstico
+REC - GRU / GRU - LAD / LAD - LUO,Doméstico
+SSA-BRA,Doméstico
+MAO - GIG - FOR,Doméstico
+IGU - CWB,Doméstico
+REC-SSA-VIX,Doméstico
+GRU - GIG - MAO - PVH,Doméstico
+CAC - GRU - VIX / VIX - GRU - CAC,Doméstico
+SLZ - SSA - VCP,Doméstico
+STM - BSB,Doméstico
+SDU - CNF ,Doméstico
+GRU - BOG - MEX / MEX - SJO - BOG - GRU,Doméstico
+NVT-GRU-MCZ,Doméstico
+CNF/BSB - BSB/PVH,Doméstico
+VIX - CGR,Doméstico
+GIG - IOS,Doméstico
+GRU X CGB,Doméstico
+CGB-GRU-REC,Doméstico
+POA-GRU,Doméstico
+NVT - GIG - AMS / AMS - GRU - NVT,Doméstico
+PVH - BSB - GIG / GIG - BSB - PVH ,Doméstico
+SSA - CNF,Doméstico
+GRU - MCZ,Doméstico
+FOR - MIA - LGA ,Doméstico
+GRU - SSA - REC - FEN / FEN - REC - GRU,Doméstico
+SSA - SDU - FLN,Doméstico
+BSB - RBR,Doméstico
+FLN/GRU - GRU/SSA,Doméstico
+VIX - SDU - BSB,Doméstico
+GIG - EZE,Doméstico
+CGH - SSA - NAT,Doméstico
+RBR - BSB - FOR,Doméstico
+SSA - IGU,Doméstico
+VIX - GRU - SDU / SDU - VIX,Doméstico
+FLN - SDU - CNF,Doméstico
+REC - BSB - FLN,Doméstico
+POA - PVH,Doméstico
+BEL - PMW,Doméstico
+BSB - CUN / CUN - BSB,Doméstico
+BEL-BSB-GYN,Doméstico
+GIG - MIA,Doméstico
+TXF-CGH,Doméstico
+MAO - GRU,Doméstico
+CFN - SSA,Doméstico
+PVH - BSB / BSB - NAT,Doméstico
+REC-SSA,Doméstico
+CGH - PPB,Doméstico
+GIG-FOR,Doméstico
+GRU - VVI / VVI - LIM,Doméstico
+PVH - BSB - REC / REC - SSA - BSB - PVH,Doméstico
+VIX - CGH - POA,Doméstico
+BSB - GRU / GRU - CDG,Doméstico
+BSB MCZ,Doméstico
+CWB - GRU - MCZ,Doméstico
+POA X CGH,Doméstico
+CWB/GRU - GRU/BOG - BOG/PUJ,Doméstico
+PVH - GRU - JDO,Doméstico
+SSA - JFK,Doméstico
+NVT - GRU - MGF,Doméstico
+GRU-AEP-MDZ,Doméstico
+MCZ - BSB - CNF,Doméstico
+CGH - GIG - NAT / NAT - GIG - CGH,Doméstico
+GRU - BSB - MCO / MCO - BSB - GRU,Doméstico
+IGU-CGH-BSB,Doméstico
+BPS - CAC,Doméstico
+GRU-CWB,Doméstico
+CWB - SSA,Doméstico
+FLN - GRU - NAT,Doméstico
+MIA - BNA,Doméstico
+CGH-BSB-MIA,Doméstico
+SDU - BSB - BVB,Doméstico
+PVH - MAO - BSB - REC,Doméstico
+PVH - BSB - SSA - AJU,Doméstico
+LDB - SDU,Doméstico
+SLZ - BSB,Doméstico
+BSB - GRU  ,Doméstico
+SSA - GIG - MAS - CDG,Doméstico
+FOR - SSA - CWB,Doméstico
+REC - BSB - VCP,Doméstico
+VIX - SSA - JPA,Doméstico
+CGH - REC / REC - CGH,Doméstico
+NVT-SDU,Doméstico
+PVH - MAO - FOR - REC / REC - BSB - PVH ,Doméstico
+CPV - SSA,Doméstico
+XAP - GRU - MAO,Doméstico
+VIX - GYN,Doméstico
+PBM - BEL,Doméstico
+CGH- SDU,Doméstico
+cwb - cgh,Doméstico
+PFB - GRU,Doméstico
+PNZ - GRU / GRU - PNZ,Doméstico
+FLN - GRU   ,Doméstico
+SSA - GRU - CGR,Doméstico
+BEL - MCP,Doméstico
+GRU - IOS / IOS - GRU,Doméstico
+CGH/CGB,Doméstico
+AEP-GRU-FOR,Doméstico
+GRU-CWN,Doméstico
+FLN/GRU - GRU/FOR,Doméstico
+VIX - GRU - VVI,Doméstico
+GYN-CGH-VIX,Doméstico
+FOR-GRU/GRU-CDG,Doméstico
+CGR - GRU - JPA / JPA - SSA - GRU - CGR,Doméstico
+BSB - FOR ,Doméstico
+GRU-GIG-SSA,Doméstico
+LDB - GRU - MCZ,Doméstico
+BSB-AEP,Doméstico
+IGU - GIG - ,Doméstico
+SSA - SDU - VCP,Doméstico
+FLN-GRU-FOR,Doméstico
+GRU - JJD,Doméstico
+GRU/EZE - EZE/BRC E BRC/EZE - EZE/GRU,Doméstico
+UDI - GRU - CWB,Doméstico
+CGH-NVT,Doméstico
+FEN - REC - GRU - PPB,Doméstico
+AEP-GRU-UDI,Doméstico
+PVH - BSB - NAT,Doméstico
+CGR-GRU-XAP,Doméstico
+REC- BSB,Doméstico
+REF - FEN,Doméstico
+BSB - FEN,Doméstico
+CWB - BPS,Doméstico
+FLN - GRU - BOG - SJO,Doméstico
+VIX-CGH-POA,Doméstico
+GYN - FOR,Doméstico
+PVH-BSB-SDU,Doméstico
+POA-BSB,Doméstico
+GYN - CGH - BPS / BPS - GRU - GYN,Doméstico
+SSA - BSB - MIA,Doméstico
+TXF - SSA - CGH,Doméstico
+REC FOR,Doméstico
+CGH X PARANÁ,Doméstico
+GRU-REC,Doméstico
+SDU - GYN,Doméstico
+REC -FEN,Doméstico
+GIG - CWB,Doméstico
+CGH - RAO ,Doméstico
+GRU-PTY-SJO,Doméstico
+JJD - SDU,Doméstico
+BEL - BSB,Doméstico
+MGF/GRU - GRU/REC,Doméstico
+CGH-PVH,Doméstico
+SSA - BSB - CWB / CWB - SSA,Doméstico
+BEL - FOR,Doméstico
+BSB - UDI,Doméstico
+SSA - GYN - RAO,Doméstico
+GRU-GIG-FOR,Doméstico
+PTY - GRU - FLN,Doméstico
+FOR-GRU-PUJ,Doméstico
+SSA - GRU - CWB,Doméstico
+GYN X CGH,Doméstico
+CWB GRU,Doméstico
+NVT - GRU - DFW,Doméstico
+MVD - GRU - SSA,Doméstico
+VDV - SSA,Doméstico
+GRU - SCL / SCL - GRU,Doméstico
+GRU X LDB,Doméstico
+VCP - SDU - NVT,Doméstico
+FLN - GRU - MAO - PVH,Doméstico
+CNF-BSB,Doméstico
+CNF - CKS,Doméstico
+VIX-DSU,Doméstico
+SSA - CGH / CH - SSA,Doméstico
+MAO - FOR ,Doméstico
+POA-SSA,Doméstico
+CNF - FLN,Doméstico
+PUJ - GRU / GRU - CWB,Doméstico
+GRU - VVI,Doméstico
+FOR - CDG,Doméstico
+GIG-CNF,Doméstico
+GRU - MAO - MCO / MCO - BSB - CGH,Doméstico
+CNF/GRU/FOR,Doméstico
+FEN - REC - BSB - MAO,Doméstico
+REC - GRU - CGB,Doméstico
+REC - CNF - CGB - PVH,Doméstico
+cgh-ssa,Doméstico
+SJP-GRU,Doméstico
+SSA  - REC,Doméstico
+CGH X BSB,Doméstico
+FLN-SDU,Doméstico
+GVA - CDG - GRU - SSA,Doméstico
+JPA - GIG,Doméstico
+GYN-PMW,Doméstico
+FLN - SDU - SSA,Doméstico
+SSA - FLN,Doméstico
+NAT - CGH - IGU,Doméstico
+NAT - GRU ,Doméstico
+SSA - BSB / BSB - GIG / GIG - AEP,Doméstico
+SSA - FLN ,Doméstico
+SSA-AEP,Doméstico
+PPB - GRU - IOS,Doméstico
+OPS - GRU - NVT,Doméstico
+SSA/SDU - SDU/VIX,Doméstico
+GRU - MAO ,Doméstico
+GRU - EZE,Doméstico
+FOR - GIG - MIA,Doméstico
+SSA - CGH - POA / POA - GRU - SSA,Doméstico
+FLN - GRU - GYN,Doméstico
+BSB - GRU - MOC,Doméstico
+BEL - BSB - MAO,Doméstico
+SSA - VIX,Doméstico
+PPB - MCZ - MCZ - PPB,Doméstico
+BSB - MCO,Doméstico
+PPB - CGH,Doméstico
+CWB - AEP,Doméstico
+CAC X GRU,Doméstico
+SJP-PMW,Doméstico
+VIX - GRU - MCZ / MCZ - GRU - VIX,Doméstico
+CGH - VIX ,Doméstico
+CNF - GRU - FOR,Doméstico
+PVH - MAO / MAO - GRU / GRU - REC / REC - FEN,Doméstico
+BSB - POA,Doméstico
+MAO - PVH - BSB - SSA,Doméstico
+AJU-GIG,Doméstico
+BSB - FLN,Doméstico
+JDO - GRU / GRU - JDO,Doméstico
+GIG-ASU,Doméstico
+JDO-GRU-BSB-PMW,Doméstico
+SDU X BSB,Doméstico
+BRC - GRU,Doméstico
+IAD-GRU,Doméstico
+MAO - BSB - GYN,Doméstico
+BSB - GRU - YYZ,Doméstico
+PPB - CGH - SDU,Doméstico
+GYN-GRU / GRU- FLN,Doméstico
+FLN - GRU / GRU - BSB,Doméstico
+EZE - GRU ,Doméstico
+CWB-  GRU,Doméstico
+BEL - BSB - SDU,Doméstico
+GRU - FOR - COM,Doméstico
+GRU MGF,Doméstico
+POA-SDU-BSB-PVH,Doméstico
+SSA-IGU,Doméstico
+MGF - GRU - CDG,Doméstico
+LDR - GRU,Doméstico
+SDU - GRU - NAT,Doméstico
+VIX - GRU - IGU,Doméstico
+VIX - SSA - FOR,Doméstico
+GRU-SLZ,Doméstico
+SSA-GRU-LDB,Doméstico
+IOS - BSB ,Doméstico
+MAO - CGH,Doméstico
+BSB/GRU/FLN,Doméstico
+PVH - BSB / BSB - PVH,Doméstico
+STM - MAO / MAO - BSB - PVH,Doméstico
+ARU - NVT,Doméstico
+MCP - BEL - GRU - XAP,Doméstico
+MIA - MCO - BSB - CWB,Doméstico
+VIX - VCL,Doméstico
+CJC - SCL,Doméstico
+GRU X SDU,Doméstico
+CWB - POA,Doméstico
+REC-CGH-NVT,Doméstico
+ Congonhas/SP - Vitória/ES ,Doméstico
+FLN - BSB - COM,Doméstico
+NVT - CGH - CNF,Doméstico
+SJP - BSB - PMW / PMW - BSB - SJP,Doméstico
+BSB - SDU ,Doméstico
+OPO - LIS,Doméstico
+FLN-CGH,Doméstico
+ARU - NAT,Doméstico
+REC/BSB/MAO/RBR,Doméstico
+VDC - SSA ,Doméstico
+NAT - BSB - UDI,Doméstico
+GIG-SSA,Doméstico
+PVH - BSB - CGH,Doméstico
+LDB-GRU-VDC,Doméstico
+GRU - VDC / VDC - GRU,Doméstico
+JFK-GRU-FLN,Doméstico
+REC - SSA ,Doméstico
+AEP - USH,Doméstico
+GRU - AMS,Doméstico
+CWB/BSB/FOR,Doméstico
+FOR - CDG ,Doméstico
+FOR - BEL - MAO,Doméstico
+MGF-CGH-GYN,Doméstico
+FLN - GRU - BSB - PVH,Doméstico
+REC-MAO,Doméstico
+CGH=GYN,Doméstico
+SSA CNF,Doméstico
+AEP - REC ,Doméstico
+SLZ - BSB - PVH,Doméstico
+SPA - POA,Doméstico
+RBR-BSB-GIG,Doméstico
+SSA - GRU - CGB,Doméstico
+TXF - SSA - REC,Doméstico
+CWB - GRU - SCL / SCL - GRU - CWB,Doméstico
+POA CGH,Doméstico
+BPS - GRU - SDU,Doméstico
+GYN - GVA,Doméstico
+SSA-SDU-VIX,Doméstico
+PVH-MAO-GRU,Doméstico
+SSA-CWB,Doméstico
+SDU-REC,Doméstico
+FOR - BSB - PVH,Doméstico
+GRU - PMW,Doméstico
+REC - FOR / FOR - REC ,Doméstico
+CNF - GRU - AEP,Doméstico
+BSB - FOR - GIG,Doméstico
+GIG - FOR,Doméstico
+FOR -MIA,Doméstico
+GRU -  REC - FEN ,Doméstico
+POA-BPS,Doméstico
+FOR-JDO,Doméstico
+SDU-BSB-PMW,Doméstico
+FOR - BSB / BSB - MCO / MCO - MIA,Doméstico
+IGU-CGH,Doméstico
+BSB - SCL,Doméstico
+RAO - CGH - SDU / SDU - CGH - RAO,Doméstico
+MAO-BSB-SSA,Doméstico
+BSB - GRU - MAD - OPO,Doméstico
+PVH - MAO / MAO - GRU / GRU - BPS,Doméstico
+GRU - JOI ,Doméstico
+PMW - SSA,Doméstico
+PVH - MAO - BSB - CGH,Doméstico
+SDU - CGH - BSB,Doméstico
+TXF -SSA / SSA -VCP,Doméstico
+VCP - GIG / GIG - FOR ,Doméstico
+GYN - GRU - CDG - LHR,Doméstico
+PUJ - GRU - BSB,Doméstico
+Belo Horizonte (CNF) x São Paulo (CGH) x Florianópolis (FLN),Doméstico
+LIS - SSA,Doméstico
+JPA - BSB - PVH,Doméstico
+SDU - IOS ,Doméstico
+VCP - REC,Doméstico
+XP-GRU-SSA,Doméstico
+ARU - CGH,Doméstico
+SSA - CGH / CGH - CXJ,Doméstico
+SSA - BRA,Doméstico
+POA-SDU-SSA,Doméstico
+POA - GRU - PNZ,Doméstico
+UDI - GRU - BSB,Doméstico
+AEP-SSA,Doméstico
+CAC - GEU - VIX,Doméstico
+BSB - CGH - FLN,Doméstico
+CWB - CGH / CGH - CWB,Doméstico
+FLN - GRU - REC,Doméstico
+RBR - BSB,Doméstico
+GYN - GRU - GIG - MCZ,Doméstico
+CGH - MGF,Doméstico
+FLN - GRU - PTY - LAX,Doméstico
+NAT - CGR,Doméstico
+JJD-BSB,Doméstico
+BEL-MAO,Doméstico
+CNF - MCZ,Doméstico
+JPA-IGU,Doméstico
+SSA - GRU - AEP,Doméstico
+VDV - GRU ,Doméstico
+XAP - GRU,Doméstico
+FOR- BSB,Doméstico
+ZRH - GRU - BPS,Doméstico
+SSA FOR,Doméstico
+ARU-GRU,Doméstico
+CWB - CGH - SSA,Doméstico
+AJU - GYN,Doméstico
+MGF-CGH,Doméstico
+REC/FEN - FEN/REC,Doméstico
+MAO - GRU - CNF / CNF - GRU - MAO,Doméstico
+ARU - GRU,Doméstico
+NAT X CNF,Doméstico
+CNF - GRU - LDB,Doméstico
+FLN- GRU - VIX,Doméstico
+REC-POA,Doméstico
+ATL-MIA-BSB,Doméstico
+RAO - MCZ,Doméstico
+BSB-GRU-CGB,Doméstico
+REC - FOR / FOR - REC,Doméstico
+CGR-CGH-REC,Doméstico
+DFW - IAH - GRU - MGF,Doméstico
+AEP X REC,Doméstico
+CNF-CGH,Doméstico
+PAV-SSA-VIX-SDU,Doméstico
+CGB-BSB,Doméstico
+PMW - BSB,Doméstico
+"LDB-GRU, GRU-MDZ",Doméstico
+FLN-EZE,Doméstico
+CGH - CGR,Doméstico
+PVH - BSB - FLN,Doméstico
+GYN - GIG,Doméstico
+POA - BSB - PMW,Doméstico
+PNZ X GRU,Doméstico
+CNF - GRU - BEL,Doméstico
+SDU - CGH - LDB,Doméstico
+GRU-SDU,Doméstico
+CGH-SDU,Doméstico
+FLN-AEP,Doméstico
+FLN - MCZ,Doméstico
+MIA - JFK,Doméstico
+FOR - CGH - POA,Doméstico
+MAO - BSB - CNF,Doméstico
+PVH - BSB -SSA - BPS / BPS - SSA - BSB - PVH,Doméstico
+POA-GRU-BEL,Doméstico
+SLZ - CGH,Doméstico
+CGH-JDO,Doméstico
+FLN - BSB / BSB - MCO,Doméstico
+FOR - PVH,Doméstico
+SDU - FLN ,Doméstico
+JJD - GRU,Doméstico
+SSA - GRU - GYN,Doméstico
+FLN - SSA,Doméstico
+GYN-CGH-FLN,Doméstico
+MAO - GRU / GRU - MAO,Doméstico
+PVH - GRU ,Doméstico
+REC - BSB - MIA,Doméstico
+SLZ - BSB - UDI,Doméstico
+GRU - LIM,Doméstico
+SSA-CNF,Doméstico
+SSA - FEN,Doméstico
+MAO - VIX,Doméstico
+MCZ - CNF,Doméstico
+SDU-NVT,Doméstico
+CWB X SDU / SDU X MGF,Doméstico
+LDB - SSA,Doméstico
+BSB - PMW - SSA,Doméstico
+CWB-CGH-SSA,Doméstico
+CWB - GRU ,Doméstico
+FLN-BSB,Doméstico
+FOR-BEL,Doméstico
+NVT - CGH - BSB - MCP,Doméstico
+SSA - CGH - CWB / CWB - CGH - SSA,Doméstico
+REC - SSA - CNF,Doméstico
+GYN - GRU - LIS,Doméstico
+MCZ - GRU - CWB,Doméstico
+BPS - CGH - RAO,Doméstico
+CWB - CGH - CGB,Doméstico
+POA - CGH - BSB,Doméstico
+SSA - GRU - ARU,Doméstico
+VIX - SDU - BSB - PVH,Doméstico
+RECC - SSA,Doméstico
+BRA x BSB,Doméstico
+IOS-SSA,Doméstico
+CFN-CGH,Doméstico
+FOR - POA,Doméstico
+GRU - GIG - CDG - FRA,Doméstico
+CGH - GIG / GIG - LHR / LHR - MXP,Doméstico
+GRU-SSA,Doméstico
+IOS - SDU,Doméstico
+SSA-GVA,Doméstico
+MFG-GRU-SSA,Doméstico
+PVH - BSB - FOR / FOR - BSB - PVH,Doméstico
+GRU - REC - FEN / FEN - REC - SSA,Doméstico
+N LOC,Doméstico
+IGU - GRU - EWR - BOS ,Doméstico
+SSA - CGH / GRU - SSA,Doméstico
+CWB - BSB - MIA / MIA - BSB - CWB,Doméstico
+GRU - SJP ,Doméstico
+JDO - SDU,Doméstico
+MAO-BSB-SLZ,Doméstico
+NVT - CGH - REC,Doméstico
+REC - BSB / BSB - PVH,Doméstico
+STM-BSB,Doméstico
+VIX-GRU-MAD-LIS,Doméstico
+VIX-SSA-REC,Doméstico
+BSB - AUX ,Doméstico
+CWB - CGH ,Doméstico
+FOR / BSB / CGH,Doméstico
+LIS - AMS - GRU - PVH,Doméstico
+REC - FEN - FEN - REC,Doméstico
+CCGH - GIG - NAT,Doméstico
+SSA-GRU-LAD,Doméstico
+LDB - REC / REC - LDB,Doméstico
+FLN - XAP,Doméstico
+BEL X BSB,Doméstico
+BSB - CNF / CNF- REC,Doméstico
+BVB - BSB,Doméstico
+CGR - CGU,Doméstico
+GYN - GRU - FLN,Doméstico
+SSA - FOR - MAO,Doméstico
+SSA - GRU / GRU - BOG,Doméstico
+SSA - CPV,Doméstico
+MAO-FOR,Doméstico
+MIA - FOR ,Doméstico
+PVH - BSB / BSB - GRU / GRU - MCZ,Doméstico
+FOR-BSB-MAO / MAO-BSB-FOR,Doméstico
+GRU - GYN ,Doméstico
+ARU - GIG,Doméstico
+SSA SDU,Doméstico
+SSA -  BSB,Doméstico
+REC - POA,Doméstico
+MAO - GRU - GIG,Doméstico
+BPS-GRU-MAO-PVH,Doméstico
+AMS - DUB,Doméstico
+GRU - SCL / SCL - GIG - GRU,Doméstico
+GRU - GYN,Doméstico
+POA-BSB-GRU-VDC,Doméstico
+SDU,Doméstico
+SSA X GIG X CDG X LIS,Doméstico
+BPS - CGH,Doméstico
+SSA X CFN,Doméstico
+CGH - FLN ,Doméstico
+LDB -GRU-REC,Doméstico
+BPS - SDU,Doméstico
+REC X BSB X GYN,Doméstico
+FOR - MIA ,Doméstico
+SSA X SDU,Doméstico
+UDI-CGH,Doméstico
+CGR-GRU-REC,Doméstico
+GRU - BSB - FLN,Doméstico
+REC - FOR - BEL - GRU - LDB,Doméstico
+NAT - GIG,Doméstico
+RBR - CZS,Doméstico
+SSA - JPA / JPA - SSA,Doméstico
+BEL-JOI,Doméstico
+IGU-GRU-CWB,Doméstico
+REC - GRU - BSB,Doméstico
+FOR - SSA - NAT,Doméstico
+VCD-GRU,Doméstico
+BSB-RAO,Doméstico
+REC - GIG - GRU - CGR,Doméstico
+IOS - SSA - SDU,Doméstico
+MCO - CLT,Doméstico
+GRU - MDZ,Doméstico
+MCZ - BSB - CZS,Doméstico
+SDU - GRU - PVH,Doméstico
+FOR - BSB - MIA,Doméstico
+FLN-GRU-AJU,Doméstico
+NVT - GRU - MOC,Doméstico
+REC - GRU - MEX,Doméstico
+VIX - CGH - BSB - PVH,Doméstico
+FOR - BRC,Doméstico
+SSA-MZC,Doméstico
+VCP - BSB - MCO / MCO - BSB - VCP,Doméstico
+LDB-SSA,Doméstico
+FOR,Doméstico
+EZE-GRU-SSA,Doméstico
+REC-GRU-AEP,Doméstico
+CGR - CGH - GRU - GIG,Doméstico
+CWB - CGH - GIG / SDU - GRU - CWB,Doméstico
+CNF/SDU,Doméstico
+BEL-GRU-CAC,Doméstico
+POA - BSB,Doméstico
+VCP - SDU - BSB ,Doméstico
+BSB - PUJ,Doméstico
+GRU - REC / REC - FEN,Doméstico
+BSB - GRU - CWB,Doméstico
+CGH - POA,Doméstico
+FOR/CGH/POA/GRU,Doméstico
+CNF - NVT,Doméstico
+FLN - ROS,Doméstico
+NVT - CAC,Doméstico
+GYN - SSA - JPA,Doméstico
+MDX-GRU,Doméstico
+CWB-GRU-FOR,Doméstico
+REC - FEN ,Doméstico
+SDU - GRU - MAO - PVH,Doméstico
+GYN/BSB/REC,Doméstico
+SDU - GRU - XAP,Doméstico
+SSA - SDU,Doméstico
+CWB-GIG,Doméstico
+CGR - CGH - BSB - PVH,Doméstico
+LDB - GRU - SDU,Doméstico
+CWB - CGH - IGU,Doméstico
+FOR - CGH - BSB - PVH,Doméstico
+VIX - SDU / SDU - VIX,Doméstico
+PVH - GRU - REC,Doméstico
+BSB - GRU - REC - FEN / FEN - REC - IGU,Doméstico
+GYN X GRU,Doméstico
+VIX-GIG,Doméstico
+VIX - GYN - CGH,Doméstico
+FLN - EZE,Doméstico
+NVT - GRU - FOR,Doméstico
+CGH-IPN,Doméstico
+SSA - CGH - LDB,Doméstico
+FLN-CGH-BSB-MCZ,Doméstico
+BEL-BSB,Doméstico
+SLZ - SSA - GRU,Doméstico
+MGF - GRU - LIS ,Doméstico
+VIX - CGH / CGH - GYN,Doméstico
+GYN - BSB / BSB - SSA,Doméstico
+BPS - BSB - GRU - AEP - FTE / FTE - AEP - GRU - BPS,Doméstico
+PVH - BSB / BSB - GRU / GRU - EZE,Doméstico
+NVT-CGH-BSB,Doméstico
+BSB - MAO / MAO - MCO ,Doméstico
+CNF - GRU - COR,Doméstico
+IGU - CGH - SSA,Doméstico
+IGU - GRU - CWB,Doméstico
+JPA-BSB-PVH,Doméstico
+CNF - BPS,Doméstico
+NVT - GRU - VIX - SSA,Doméstico
+JPA - GIG - VCP / GRU - JPA ,Doméstico
+CGB - GRU - SDU,Doméstico
+CGH - SDU ,Doméstico
+GRU - THE - BSB - SLZ / SLZ - GRU,Doméstico
+REC- SSA,Doméstico
+GRU-AMS,Doméstico
+GIG - POA,Doméstico
+SSA-EZE,Doméstico
+POA-SDU,Doméstico
+BSB - GRU / GRU - SLZ,Doméstico
+IGU - GIG / GIG - GRU / GRU - POA,Doméstico
+CGB-GRU-NVT,Doméstico
+MAO - BSB - REC,Doméstico
+CWB - BSB - LIS - ORY,Doméstico
+GIG - GRU / GRU - IGU,Doméstico
+REC - FEN / FEN - REC ,Doméstico
+VCP-MCZ,Doméstico
+PVH - BSB - GRU - MCZ,Doméstico
+GRU - MGF,Doméstico
+GYN - SSA - MCZ,Doméstico
+NVT-GRU-JPA,Doméstico
+POA - GRU - MGF,Doméstico
+VCP-GIG,Doméstico
+BEL - CKS,Doméstico
+EWR-MIA-GRU-NVT,Doméstico
+GRU-MCO,Doméstico
+PVH - BSB - GIG - IGU,Doméstico
+PVH-BSB-GIG-GRU,Doméstico
+IOS - GRU - REC,Doméstico
+IGU - GRU - GYN - SSA,Doméstico
+GRU/GIG - GIG/NAT,Doméstico
+GIG - BSB - BEL,Doméstico
+GRU - ZRH,Doméstico
+GYN - SSA,Doméstico
+FOR - VDC,Doméstico
+FLN - GRU / GRU - ,Doméstico
+POA - BSB - FOR,Doméstico
+Rio de Janeiro - SDU (08:00) ¿ 22/03/2023 Londrina - LDB (11:00),Doméstico
+SDU - RAO,Doméstico
+SSA - CNF - GRU - EZE,Doméstico
+CGH - BSB - MIA,Doméstico
+NAT-CGH,Doméstico
+MAO - BSB / BSB - GIG,Doméstico
+NAT - CGH ,Doméstico
+POA - CGH - CGR,Doméstico
+MAO - GRU - JPA,Doméstico
+BSB - BEL,Doméstico
+FOR -CGH - GYN,Doméstico
+MIA - FOR,Doméstico
+RAO - GRU - MCZ,Doméstico
+MIA - GRU,Doméstico
+CGH X SSA,Doméstico
+RBR - BSB - SDU - FLN,Doméstico
+BPS - GIG ,Doméstico
+ARU-CGH,Doméstico
+LIS - BSB,Doméstico
+GIG - CGH,Doméstico
+SDU - BSB - CZS,Doméstico
+CGH - BSB - THE,Doméstico
+MGF- GRU,Doméstico
+REC - GRU / GRU - FLN,Doméstico
+CWB - CGH - FOR,Doméstico
+MAO- GRU,Doméstico
+FLN - REC,Doméstico
+BSB-CGH-FLN,Doméstico
+VCP - BSB - PMW,Doméstico
+IGU-GRU-BEL,Doméstico
+GRU-JOI,Doméstico
+FOR - REC - FEN ,Doméstico
+GEL - GRU / GRU - BSB,Doméstico
+MAO - GIG / GIG - SSA,Doméstico
+CGH-RAO,Doméstico
+BPS - GRU - SLZ,Doméstico
+CWB - GRU / GRU - VVI,Doméstico
+PVH - BSB - MCZ ,Doméstico
+PVH - BSB - POA - GRU,Doméstico
+CGH - GYN ,Doméstico
+POA - PPB,Doméstico
+GRU X VDC,Doméstico
+SDU - CGH - BSB - PMW,Doméstico
+CWB - GRU - REC,Doméstico
+UDI - BSB - NAT,Doméstico
+VCP - MCO ,Doméstico
+CGH/BSB - BSB/BEL - BEL/STM,Doméstico
+SSA/GRU - GRU/FOR,Doméstico
+REC - FOR - MAO,Doméstico
+jpa - gig ,Doméstico
+BSB - CRU - CGR,Doméstico
+RBR - BSB - GYN,Doméstico
+GRU - OPS,Doméstico
+REC X NVT,Doméstico
+CNF - CGH - SDU - NVT,Doméstico
+CNF - SSA,Doméstico
+GRU - MOC ,Doméstico
+MAO X STM,Doméstico
+CGH - SSA -GRU,Doméstico
+CGW - CWB,Doméstico
+CUN-BSB-VCP,Doméstico
+MGF - GRU - FOR,Doméstico
+CLT-MIA,Doméstico
+VVI-GRU,Doméstico
+MAB - BSB / BSB - MAB,Doméstico
+VIX - MAO,Doméstico
+VIX - CGH - REC - FEN,Doméstico
+PVH-BSB-GIG,Doméstico
+CNF - GIG ,Doméstico
+BSB - FLN - CGH / CGH - BSB ,Doméstico
+FOR - BSB / BSB - MCO,Doméstico
+SSA - CGH / GRU - MDZ,Doméstico
+REC/CGH/BSB,Doméstico
+FLN  - CGH - BSB - PVH,Doméstico
+GRU-PPB,Doméstico
+GRU - SINOP,Doméstico
+MCO - MIA - BSB,Doméstico
+GRU - VVI / VVI - GRU,Doméstico
+REC - GRU - GYN,Doméstico
+VIX - SDU - GRU - PVH,Doméstico
+MCZ - PVH,Doméstico
+GIG - REC - FEN,Doméstico
+SSA-CPV,Doméstico
+BSB-SLZ,Doméstico
+GYN - CGH - SDU,Doméstico
+VIX - SDU - MCZ,Doméstico
+CGH - BSB - MCO,Doméstico
+REC-FEN,Doméstico
+CGH-BSB,Doméstico
+CGR - GRU - BPS / BPS - GRU - CGR,Doméstico
+FOR-AEP,Doméstico
+MAO - GRU / GRU - BEL,Doméstico
+BVB - MAO ,Doméstico
+CGH - RAO,Doméstico
+MAO-FOR/FOR-MCO,Doméstico
+GYN - POA,Doméstico
+IOS/GRU - GRU/GYN,Doméstico
+POA-GRU-FOR,Doméstico
+FLN - GRU - MCZ,Doméstico
+PVH - BSB - UDI / UDI - CGH - BSB - PVH,Doméstico
+CNF-CGH-CWB,Doméstico
+FLN - SDU,Doméstico
+GYN - AJU,Doméstico
+MCZ-PVH,Doméstico
+UDI - BSB ,Doméstico
+SLZ -  FOR,Doméstico
+GRU-MDZ,Doméstico
+PVH-BSB-MCO,Doméstico
+CGR - CGH - REC,Doméstico
+BSB-GYN,Doméstico
+CGH - REC - FEN / FEN - REC - CGH,Doméstico
+DXB - GRU - SSA,Doméstico
+PUJ-GRU,Doméstico
+RAO-MCZ,Doméstico
+LIS-GRU-BSB-GYN,Doméstico
+GRU - MAD,Doméstico
+SDU - CGH - SJP,Doméstico
+CGR - NVT,Doméstico
+JPA-GRU,Doméstico
+POA - GRU - REC,Doméstico
+VIX - CGH - BSB,Doméstico
+GRU - DOU,Doméstico
+SSA - PAV,Doméstico
+GYN-BSB,Doméstico
+CWB-SCL,Doméstico
+LIS - OPO,Doméstico
+MDZ - GRU ,Doméstico
+CWB - GRU - PNM - MIA,Doméstico
+VIX-GRU-GYN,Doméstico
+GIG - GRU,Doméstico
+FLN-NAT,Doméstico
+CNF/BPS - BPS/CGH - CGH/CWB,Doméstico
+POA-CGH,Doméstico
+GRU - YUL,Doméstico
+BSB - SDU - VIX,Doméstico
+CAC - GRU - PET,Doméstico
+COM-BSB / BSB/CWB,Doméstico
+RAO - BSB,Doméstico
+REC-GRU-MAD-FCO,Doméstico
+BSB - CGH - RAO,Doméstico
+GYN - CGH - POA,Doméstico
+FLN - GRU - PNZ,Doméstico
+SDU - SJP,Doméstico
+CXJ - GRU - BSB,Doméstico
+FOR - GIG - IGU,Doméstico
+FOR - SSA ,Doméstico
+PVH - BSB - STM,Doméstico
+CWB - BSB / BSB - PVH,Doméstico
+SDU -NVT - GRU,Doméstico
+SJP - MCZ / MCZ - SJP,Doméstico
+GRU - CDG - ZRH,Doméstico
+PVH - BSB - CUN / CUN - BSB - PVH ,Doméstico
+SLC - DFW - ORD - GRU,Doméstico
+SSA - BPS ,Doméstico
+CGH - IPN,Doméstico
+NVT-GRU-FOR,Doméstico
+BSB - CGH / GRU - UDI,Doméstico
+SSA - BEL ,Doméstico
+BSB - GRU - AJU,Doméstico
+CGH - BSB - CGB,Doméstico
+GYN - GRU - NVT / NVT - CGH - GYN,Doméstico
+FOR - GRU - SSA,Doméstico
+PMW - BSB / BSB - PMW,Doméstico
+CGB - FLN,Doméstico
+CNF - GIG - MIA - MCO,Doméstico
+GRU-MGF,Doméstico
+CAC - BEL,Doméstico
+NAT-GRU,Doméstico
+FLN - GRU / GRU - AEP / AEP - UAQ,Doméstico
+GIG-FLN,Doméstico
+SSA/GIG - GIG/SSA,Doméstico
+FLN - GRU - FOR,Doméstico
+PVH/BSB - BSB/GIG,Doméstico
+GYN - FOR ,Doméstico
+BSB - MAO - PVH,Doméstico
+FLN - CGH ,Doméstico
+AJU-GRU,Doméstico
+CGH - REC / REC - FEN,Doméstico
+GRU - GIG - MAS - LIS,Doméstico
+GIG - CGR,Doméstico
+FLN - CGH - BSB - BRA,Doméstico
+VIX - SDU - GRU - LDB,Doméstico
+NVT - CGH - FOR,Doméstico
+GIG-IGU,Doméstico
+SSA - GRU / GRU - MDV,Doméstico
+UDI - BSB,Doméstico
+BSB-VIX,Doméstico
+MCO-MIA-MAO-BSB,Doméstico
+RAO - BSB - FOR / FOR - BSB - RAO,Doméstico
+FOR-GIG-MAO,Doméstico
+BSB X SSA,Doméstico
+GRU - REC - REC - FEN,Doméstico
+CPV - SSA - GRU,Doméstico
+GRU-OPS,Doméstico
+NVT - CGH -PPB,Doméstico
+LDB GRU GIG,Doméstico
+VIX/CGH - CGH/SSA,Doméstico
+PVH - BSB - REC / REC - BSB - PVH,Doméstico
+AJU - SSA - BPS,Doméstico
+CGH,Doméstico
+LDB - GRU / GRU - SSA / SSA - REC,Doméstico
+VCP - BSB - SSA,Doméstico
+MCP - BEL - BSB - POA,Doméstico
+SLZ - BSB - FLN,Doméstico
+CGH - BPS,Doméstico
+MAO - BSB - PVH,Doméstico
+LIS - AMS,Doméstico
+SSA X SDU X VIX,Doméstico
+AJU - GRU - CNF,Doméstico
+BVB - BSB ,Doméstico
+CWB - MGF,Doméstico
+GRU - GIG - AMS - LHR - CDG,Doméstico
+IOS-SSA-CGH,Doméstico
+GRU - POA,Doméstico
+SDU -  NVT,Doméstico
+PVH - CGH - FOR,Doméstico
+SSA X CGH X CWB,Doméstico
+GRU-CDG-LIS,Doméstico
+CPV - GRU,Doméstico
+PMW - GYN ,Doméstico
+CWB-GRU-VIX,Doméstico
+SDU - GRU - RBR,Doméstico
+JPA-GRU-CNF,Doméstico
+SSA-GRU-VVI,Doméstico
+BSB - CGH - SJP,Doméstico
+FOR - REC / REC - FEN,Doméstico
+GRU - GIG - MAS - DUB,Doméstico
+MGF - NAT,Doméstico
+PVH - BSB - SDU - GRU - MGF,Doméstico
+VIX - GRU - SSA,Doméstico
+SSA - REC - GRU - POA,Doméstico
+FEN - REC - BSB - CGH,Doméstico
+GRU - GIG / GIG - AMS,Doméstico
+MAO-GRU-BEL,Doméstico
+GYN-GRU-CDG,Doméstico
+NVT-REC-FEN,Doméstico
+FOR-GRU-POA,Doméstico
+REC - BSB / BSB - MIA,Doméstico
+COM - BSB,Doméstico
+BSB - MCZ,Doméstico
+LDB - GRU - REC,Doméstico
+REC - GRU - PMW,Doméstico
+MCZ - BSB - MAO,Doméstico
+PPB - CGH - SSA / SSA - GRU - PPB,Doméstico
+MIA - GRU ,Doméstico
+MCZ - GRU - LDB,Doméstico
+GRU - NVT,Doméstico
+FOR - MAO ,Doméstico
+SDU - CGH - POA,Doméstico
+CGH - REC / REC- CGH,Doméstico
+FOR - SSA - GYN,Doméstico
+RAO-GRU,Doméstico
+SSA-GRU-VDC,Doméstico
+VCP - BSB ,Doméstico
+CGH - PVH,Doméstico
+SDU - BSB - MAO,Doméstico
+SDU-POA-CWB,Doméstico
+GYN - GRU - CWB,Doméstico
+REC - BSB - PVH,Doméstico
+VIX-GRU,Doméstico
+SDU - GRU - CGB,Doméstico
+MGF - POA,Doméstico
+CXJ - GRU,Doméstico
+CGB - CWB,Doméstico
+NVT - CGB,Doméstico
+VDC - GRU - FOR,Doméstico
+LDB - CGH / CGH - LDB,Doméstico
+FLN - BSB - MAO,Doméstico
+LIM - GRU,Doméstico
+MVD - GRU - FOR,Doméstico
+COR-GIG,Doméstico
+GRU -  GYN,Doméstico
+MDZ,Doméstico
+PMW - BSB / BSB - BPS,Doméstico
+AEP - GRU - CWB,Doméstico
+SDU - GRU - MGF,Doméstico
+SSA - YYZ,Doméstico
+VDV-GRU,Doméstico
+POA - BSB - REC,Doméstico
+VCP - GIG,Doméstico
+CNF-SDU,Doméstico
+GRU - FLN ,Doméstico
+VIX - GRU - CNF,Doméstico
+VXA - CGH,Doméstico
+GRU ¿ SJP,Doméstico
+PPB - CGH - MCZ / MCZ - CGH - PPB,Doméstico
+PMW-BSB-SJP,Doméstico
+BSB - SSA / SSA - BRA,Doméstico
+FOR - POA / POA - FOR,Doméstico
+OPS-GRU,Doméstico
+VIX - CGH - GYN,Doméstico
+GRU - SJP,Doméstico
+FOR - GRU - FLN,Doméstico
+IOS-CGH,Doméstico
+POA - GRU - GYN,Doméstico
+PPB - MAB,Doméstico
+MDZ - GRU - SDU,Doméstico
+GRU - BSB / BSB - MCO,Doméstico
+FLN - CGH - BSB,Doméstico
+RAO-CGH,Doméstico
+FLN - BSB - PVH,Doméstico
+GIG-CGH,Doméstico
+BPS-BSB,Doméstico
+GYN - BSB - MIA / MIA - MCO - BSB - GYN,Doméstico
+MCZ - GRU - MGF,Doméstico
+AJU - SSA / SSA - AJU,Doméstico
+CNF - CGH,Doméstico
+BRA - BSB ,Doméstico
+SSA - BPS / BPS - SSA,Doméstico
+SLZ - MAO,Doméstico
+SSA - MCZ,Doméstico
+REC-JOI,Doméstico
+CNF - REC,Doméstico
+PET - GRU / GRU - PET,Doméstico
+BSB - VIX / VIX - SDU - BSB,Doméstico
+GIG - GRU - CAC,Doméstico
+SDU -CGH,Doméstico
+NAT - SSA - VIX,Doméstico
+RU - PTY - CUN / CUN - PTY - GRU,Doméstico
+SSA - BSB - MCO / MCO - BSB - SSA,Doméstico
+FOR - REC - FEN,Doméstico
+SSA - GRU - PUJ,Doméstico
+TRN - CDG,Doméstico
+GRU - ATL / ATL - YYZ,Doméstico
+CGB-GRU-JDO,Doméstico
+FOR - GRU - SDU,Doméstico
+GRU-JJD,Doméstico
+NVT - GRU - VVI,Doméstico
+POA - CGH - SDU,Doméstico
+BSB-GRU-LDB,Doméstico
+IOS-GRU,Doméstico
+AEP - REC,Doméstico
+AJU X GIG,Doméstico
+GYN-BSB-PMW,Doméstico
+POA/GRU - GRU/JDO,Doméstico
+MAO-GRU,Doméstico
+SSA - CGH - CWB,Doméstico
+PFB-GRU,Doméstico
+GRU - VDC ,Doméstico
+IGU - GRU - JPA,Doméstico
+IGU,Doméstico
+MIA - FOR / FOR - SSA,Doméstico
+SJP - CGH - FLN,Doméstico
+GYN - CGH - CGR,Doméstico
+BPS - GRU - GYN,Doméstico
+SSA-BSB-CGH,Doméstico
+GRU - SSA / SSA - GRU,Doméstico
+REC-CLV,Doméstico
+CGH - MIA / MIA - CGH,Doméstico
+LDB - GRU - SSA,Doméstico
+GRU X REC,Doméstico
+VIX-SDU-GRU-MIA-MSY,Doméstico
+UDI-GRU,Doméstico
+POA-CGH-CNF,Doméstico
+PPB - CGH - FOR,Doméstico
+BSB - CZS,Doméstico
+GRU-VIX,Doméstico
+LDB - CGB,Doméstico
+BSB - STM,Doméstico
+SBS-SDU,Doméstico
+BSB-AUX,Doméstico
+POA-GRU-MGF,Doméstico
+BPS-FLN,Doméstico
+IGU - GRU - GYN - BSB,Doméstico
+MCP - BSB - SDU - NVT,Doméstico
+SDU - BSB - MAB,Doméstico
+CGH - GIG ,Doméstico
+AUX-BSB,Doméstico
+PNZ - SSA ,Doméstico
+PVH-BSB-CGH-MGF,Doméstico
+SJP - CGH - IZA,Doméstico
+CGB - BSB,Doméstico
+SDU-GRU-MGF,Doméstico
+FLN-CGH-CNF,Doméstico
+NVT - GRU - LDB - CGB,Doméstico
+SSA-GRU-AEP,Doméstico
+RAO/BPS,Doméstico
+FOR - BSB - CGH,Doméstico
+SLZ - BSB - PMW,Doméstico
+SSA - GRU / GRU - CDG,Doméstico
+CGH  - LDB,Doméstico
+POA - BSB - PVH,Doméstico
+SSA - VDC ,Doméstico
+LDB - GRU / GRU - VVI,Doméstico
+MAO - STM / STM - MAO,Doméstico
+POA - MAO,Doméstico
+PVH - MAO - SDU / GIG - MAO - PVH,Doméstico
+JOI - GRU - FOR,Doméstico
+XAP - GRU - GIG,Doméstico
+GIG - AMS,Doméstico
+PMW/GRU - GRU/SSA,Doméstico
+FOR - GRU - CAC,Doméstico
+GRU-PFB,Doméstico
+IOS - BSB,Doméstico
+MAB - BSB - GYN,Doméstico
+SSA-GRU-IGU,Doméstico
+CGB-CGH-NVT,Doméstico
+NVT-GRU-VDC,Doméstico
+BPS - CGH - SDU,Doméstico
+BEL - BSB - BRA,Doméstico
+PVH/REC,Doméstico
+SSA - GRU / GRU - SSA,Doméstico
+CWB - BSB - SSA,Doméstico
+MCZ,Doméstico
+SLZ - MAO - MAO,Doméstico
+GRU - SLZ,Doméstico
+FLN-GRU-GYN,Doméstico
+PFB - GRU ,Doméstico
+SLZ - SSA - CGH / SLZ - BSB - GRU,Doméstico
+MGF - CWB,Doméstico
+FOR - MCO / MCO - FOR,Doméstico
+GIG - REC - BSB,Doméstico
+CWB - IGU,Doméstico
+FOR-GRU-AEP,Doméstico
+GRU-AEP-BRC,Doméstico
+VIX - GRU  ,Doméstico
+CWB - BSB - BEL,Doméstico
+CGH-SDU-SSA,Doméstico
+SDU - BSB - GYN,Doméstico
+GIG - BSB - PMW - GYN,Doméstico
+FLN - COR,Doméstico
+CZS - BSB ,Doméstico
+GRU - MIA - MCO,Doméstico
+GRU - REC / FOR - MAO,Doméstico
+SSA - NAT,Doméstico
+IGU - GRU - GYN,Doméstico
+BSB - GRU - MIA,Doméstico
+MGF - GRU - MCZ,Doméstico
+PTN - GRU - CWB,Doméstico
+LDB - CGH - BSB - BEL / BEL - BSB - CGH - LDB,Doméstico
+GIG - GRU - MGF,Doméstico
+GRU-CNF-BPS,Doméstico
+SSA - IOS / IOS - SSA,Doméstico
+UDI - GRU,Doméstico
+FLN - AEP,Doméstico
+LDB - GRU - AJU,Doméstico
+EZE - GYN,Doméstico
+VIX-BSB-REC,Doméstico
+CGH / REC,Doméstico
+FLP - GRU,Doméstico
+GRU - BSB / BSB - MAO,Doméstico
+CWB-CGB,Doméstico
+BEL - GRU,Doméstico
+CAC - GRU - FLN,Doméstico
+LIM,Doméstico
+NVT - GRU - UDI,Doméstico
+NVT - CGH - BSB - PVH,Doméstico
+PAV-SSA,Doméstico
+POA - GRU - JFK - LHR - FCO,Doméstico
+REC - CGH - FLN / FLN - GRU - REC,Doméstico
+MARINGA - SP - CUIABÁ,Doméstico
+SSA - SDU - POA / POA - GRU - SSA,Doméstico
+AEP-GRU-SSA,Doméstico
+FOR - REC ,Doméstico
+SSA - CGH - NVT,Doméstico
+CGR - GIG,Doméstico
+POA - CGH - BSB - PVH,Doméstico
+AU - CGH,Doméstico
+CGH - JOI,Doméstico
+POA - CWB ,Doméstico
+FEN- REC,Doméstico
+CGH - POA / POA - CGH,Doméstico
+CGR-BSB-BVB,Doméstico
+VIX-IGU,Doméstico
+GYN - BSB / BSB - MIA / MIA - ATL,Doméstico
+BRA - SSA ,Doméstico
+POA - CGH - FOR,Doméstico
+LEC-SSA-REC,Doméstico
+MCP -  BEL / BEL GRU / GRU - MGF,Doméstico
+REC - BSB / BSB - REC,Doméstico
+REC X GRU,Doméstico
+CWB - CGH - BSB - PMW,Doméstico
+BSB - SSA - REC,Doméstico
+BSB - AEP,Doméstico
+BOS-MIA-GRU-FLN,Doméstico
+BLQ - AMS / AMS - GRU,Doméstico
+BSB - BEL - MAO,Doméstico
+CXJ - CGH,Doméstico
+DFW - GRU - SSA,Doméstico
+BSB-REC,Doméstico
+LDB - GRU - CDG,Doméstico
+MAO - POA / POA - MAO,Doméstico
+NAT - CWB,Doméstico
+CAC - GRU - BSB - PVH,Doméstico
+SDU - VCP,Doméstico
+SDU - CGM,Doméstico
+CWB - SLZ,Doméstico
+NAT - EZE,Doméstico
+NVT - GRU - BEL,Doméstico
+SSA - CGH - OPS,Doméstico
+VCP - BSB - MIA / MIA - BSB - VCP,Doméstico
+VIX - SDU - NVT,Doméstico
+CWB-BSB-PVH,Doméstico
+MAO/BSB - BSB/JPA,Doméstico
+GRU - FOR  FOR - GRU,Doméstico
+NVT - CGH  BPS,Doméstico
+SSA - JPA,Doméstico
+GRU - AEP / AEP - GRU,Doméstico
+CWB-GRU-LIM,Doméstico
+FOR- BSB - PVH,Doméstico
+MIA-  BSB,Doméstico
+CGH - BSB - JPA,Doméstico
+CWB  CGH,Doméstico
+GIG - NAT,Doméstico
+MCO - BSB ,Doméstico
+MDZ - GRU - SSA,Doméstico
+PNZ - GRU - EZE / EZE - GRU - PNZ,Doméstico
+GRU-JPA,Doméstico
+MGF - GYN ,Doméstico
+PPB - CWB,Doméstico
+AUX-BSB-SSA,Doméstico
+MAO - BSB / BSB - FOR,Doméstico
+SSA - VVI,Doméstico
+BPS-GIG,Doméstico
+CGH-BSB-PVH,Doméstico
+MCZ-BSB-PVH,Doméstico
+BSB - GRU - AEP,Doméstico
+REC - CGH - CGB,Doméstico
+LIM-GRU,Doméstico
+BSB-GRU-DXB,Doméstico
+IGU - GRU - BPS,Doméstico
+BSB-VCP,Doméstico
+CGH - REC - FEN - REC,Doméstico
+MAO - GRU - REC,Doméstico
+RAO - BSB / BSB - NAT,Doméstico
+SSA - VCP,Doméstico
+CWB-BSB-CUN,Doméstico
+ROS - GRU - SSA,Doméstico
+FOR - BSB / BSB - VCP,Doméstico
+THE - GRU / GRU - CWB,Doméstico
+VDC - GRU,Doméstico
+GYN-CHG,Doméstico
+GRU-AEP,Doméstico
+UDI - CGH,Doméstico
+XAP - GRU ,Doméstico
+GRU - GIG - MCZ,Doméstico
+AMS - FRA,Doméstico
+FOR - GRU - CGB,Doméstico
+PNZ - GRU,Doméstico
+PNZ - GRU ,Doméstico
+CWB - GRU - BSB,Doméstico
+SSA X REC,Doméstico
+VIX-BSB,Doméstico
+BRA - SJP,Doméstico
+CGB - GRU ,Doméstico
+CWB - GRU - BSB - PVH,Doméstico
+BSB - CGH - MGF,Doméstico
+VIX - GRU - GYN,Doméstico
+CWB X IGU,Doméstico
+SDU - CGH - PPB,Doméstico
+AEP-REC,Doméstico
+XAP-GRU-FOR,Doméstico
+DXB-GRU,Doméstico
+GIG - IGU,Doméstico
+STM - BSB / BSB - PVH,Doméstico
+SSA-FLN,Doméstico
+VIX-BSB-MAO,Doméstico
+FEN - REC - CGH,Doméstico
+IPN - CGH,Doméstico
+PVH-MAB,Doméstico
+AJU - FLN / FLN - AJU,Doméstico
+SSA-NAT,Doméstico
+NVT - GRU - CGB,Doméstico
+ARU - MCZ / MCZ - ARU,Doméstico
+GIG - VCP,Doméstico
+VIX-BSB-FOR,Doméstico
+PVH - BSB - SSA,Doméstico
+GRU - CNF - BPS,Doméstico
+SJP - BSB ,Doméstico
+JOI-GRU,Doméstico
+VCP - SDU - FLN,Doméstico
+PPB - CGH / CGH - GIG,Doméstico
+CWB - GRU - DOH - FCO,Doméstico
+BPS - BSB - PVH,Doméstico
+EWR - MIA,Doméstico
+GYN - CWB,Doméstico
+NVT - GRU - REC - FEN,Doméstico
+PVH-BSB-LIS,Doméstico
+SDU-CGH-CGR,Doméstico
+CGH - BSB - PVH,Doméstico
+FLN - BSB,Doméstico
+FLN - CGH - SSA,Doméstico
+FLN-GRU-JDO,Doméstico
+GIG - BSB - REC - FEN ,Doméstico
+GRU - JJD / FFD - GRU,Doméstico
+SSA - BSB - SJP,Doméstico
+MCP - BEL - BSB - SSA,Doméstico
+BSB X BEL,Doméstico
+GRU-BSB/BSB-SLZ,Doméstico
+NVT-GRU-VIX,Doméstico
+GRU - IST,Doméstico
+MIA-GIG-GRU,Doméstico
+SDU-CNF-SSA,Doméstico
+SSA-GIG-MIA-MCO,Doméstico
+FEN-REC,Doméstico
+FLN - GRU / GRU - SCL,Doméstico
+GRU-UDI,Doméstico
+JPA - SSA - BSB,Doméstico
+PMW - GIG / SDU - GRU - PMW,Doméstico
+PVH - MAO - BSB - NAT,Doméstico
+GRU-AMS-EDI,Doméstico
+SDU - CWB,Doméstico
+VIX-FOR,Doméstico
+MCZ-BSB,Doméstico
+PVH - BSB - CGH - CWB,Doméstico
+VIX-PVH,Doméstico
+FLN-CGH-NAT,Doméstico
+UDI - CGH - JFK,Doméstico
+BSB-COM,Doméstico
+MCO-MAO,Doméstico
+CNF - SDU - SSA - NAT,Doméstico
+MCZ - RAO,Doméstico
+SDU-GRU-AJU,Doméstico
+SCL - GRU - VIX / VIX - GRU - SCL,Doméstico
+CWB-CGH-CGR,Doméstico
+CWB - SCL / SCL - CWB,Doméstico
+GRU - MCZ / MCZ - GRU,Doméstico
+NVT - POA - BSB - NAT,Doméstico
+GIG - GYN,Doméstico
+SSA-BSB-REC-FEN,Doméstico
+BSB - SSA,Doméstico
+POA/GRU - GRU/AMS - AMS/MXP,Doméstico
+SSA - GIG - MAS - DUB,Doméstico
+BSB-POA,Doméstico
+JFK - DFW  GRU - CWB,Doméstico
+MDZ- GRU / GRU - CWB,Doméstico
+SDU - BSB - GYN ,Doméstico
+SDU-CGH,Doméstico
+MCZ - BSB - CWB,Doméstico
+CGH - BSB / BSB - MIA,Doméstico
+THE-BSB-CGH,Doméstico
+GRU - JDO,Doméstico
+SSA - BSB / BSB - SSA,Doméstico
+SSA/GIG - GIG/ROS,Doméstico
+SSA - CGH - FOR,Doméstico
+MGF - GRU / GRU - MGF,Doméstico
+JPA - CNF,Doméstico
+CNF - GIG,Doméstico
+REC-BSB,Doméstico
+ARU - CGH - BSB,Doméstico
+BEL - GRU ,Doméstico
+IOS - SSA ,Doméstico
+IOS - SSA / SSA - IOS,Doméstico
+FOR-MIA,Doméstico
+LIM - GRU / GRU - LIM,Doméstico
+CGH-CWB,Doméstico
+BPS - GRU - MAO / VCP - BPS,Doméstico
+BSB - GRU - EWR - IAD,Doméstico
+SSA-GRU-MIA-SFO,Doméstico
+GRU-POA,Doméstico
+REC- GRU,Doméstico
+SSA-GRU-EZE,Doméstico
+CGR-GRU/GRU-CWB,Doméstico
+IGU X GRU X REC X FEN,Doméstico
+NVT-CGB-OPS,Doméstico
+VCP - BSB - SLZ,Doméstico
+SDU - CGH - AJU,Doméstico
+CDG-GRU,Doméstico
+AUX - BSB - REC,Doméstico
+CWB - GRU GRU - CDG CDG - LIN,Doméstico
+CWB-GRU-SCL,Doméstico
+FLN - GRU - BPS,Doméstico
+SSA-GRU-UY,Doméstico
+NAT-BSB-SSA,Doméstico
+SDU - CGH / CGH - FLN,Doméstico
+CGH - NVT,Doméstico
+CWB X BSB X REC,Doméstico
+JPA - BSB - CGH,Doméstico
+CWB - GRU - NAT,Doméstico
+CGH/BSP,Doméstico
+NVT-GRU,Doméstico
+GIG - GRU - NVT,Doméstico
+LDB - BSB,Doméstico
+CWB-BSB / BSB-MCO,Doméstico
+BRA - BSB,Doméstico
+MCZ - BSB - PVH,Doméstico
+BSB - GRU - UDI,Doméstico
+FOR X GIG X FOR,Doméstico
+JDO - GRU - SSA,Doméstico
+SFO - JFK - GRU - SSA,Doméstico
+REC- BSB - MAO,Doméstico
+CNF - SDU ,Doméstico
+BSB-PVH,Doméstico
+GRU X IGU,Doméstico
+IGU - SSA - FOR,Doméstico
+NAT - VCP ,Doméstico
+SDU - VIX ,Doméstico
+IOS - GRU - GYN,Doméstico
+SDU - GRU - LDB,Doméstico
+VICX - CGH - REC,Doméstico
+XAP-GRU-AEP,Doméstico
+GIG-GRU-CAC,Doméstico
+MCO-MIA-FOR,Doméstico
+MDV-GRU,Doméstico
+SSA - CGG - POA,Doméstico
+LDB - CGH / CGH - GIG,Doméstico
+CNF X BSB X FOR,Doméstico
+PPB-CGH-SSA,Doméstico
+CWB - CGB ,Doméstico
+POA-CGH-REC-FEN,Doméstico
+MGF - GRU - BSB,Doméstico
+BPS-CGH-SSA,Doméstico
+GRU - POA - REC - FEN,Doméstico
+GRU - LIM / LIM - GRU,Doméstico
+LDB - GRU - SSA / SSA - LDB ,Doméstico
+RAO - GRU ,Doméstico
+POA - CGH - FOR ,Doméstico
+XAP-GRU-MAO-PVH,Doméstico
+CGH-CNF,Doméstico
+AEP - GRU - AJU,Doméstico
+IOS-GRU-BSB,Doméstico
+SSA - GRU / GRU - UDI ,Doméstico
+VIX - CWB,Doméstico
+SDU-POA,Doméstico
+GRU - FOR / FOR - GRU,Doméstico
+CZS - CGB,Doméstico
+CWB-POA,Doméstico
+BSB - GRU / GRU - MDZ,Doméstico
+SSA-BRB-MIA,Doméstico
+MGF - GRU,Doméstico
+GIG - GRU / GRU - PUJ,Doméstico
+PVH - BSB - PMW,Doméstico
+FOR - GRU - AMS - LIS,Doméstico
+RAO-GRU-SSA,Doméstico
+REC X SSA,Doméstico
+BSB - IZA,Doméstico
+BVB - BSB - GRU - CGB,Doméstico
+THE - BSB - PVH,Doméstico
+SSA X BPS,Doméstico
+GRU - JPA / JPA - GRU,Doméstico
+ITB - MAO,Doméstico
+MVD - GRU ,Doméstico
+SDU - GRU - ARU,Doméstico
+BSB - GRU - AMS,Doméstico
+GRU - POA / POA - GRU,Doméstico
+SSA - BSB / BSB - MIA ,Doméstico
+MCZ - VCP,Doméstico
+JPA-GRU-CGB,Doméstico
+SSA-CGH-SSA,Doméstico
+MAO - GIG - REC,Doméstico
+POA - GRU - CGB,Doméstico
+CNF-NAT,Doméstico
+BSB-CFN,Doméstico
+CNF - GRU / GRU - BPS,Doméstico
+JP - SSA,Doméstico
+MAO - REC,Doméstico
+CGH-SSA-NAT,Doméstico
+MAO - GRU - LIS,Doméstico
+GRU - BEL,Doméstico
+CGB - GRU - NVT,Doméstico
+GRU/ACP,Doméstico
+REC - CGH - SDU,Doméstico
+LDB - GRU - SCL / SCL - GRU - LDB,Doméstico
+VDC-GRU-BEL-BSB-GRU-VDC,Doméstico
+RBR - BSB - REC,Doméstico
+SEA-MIA-BSB,Doméstico
+MGF - GRU ,Doméstico
+CAC - VIX,Doméstico
+GYN - BSB - GRU - POA / POA - GRU - GYN,Doméstico
+CWB - BSB / BSB - CUN,Doméstico
+MIA-FOR,Doméstico
+GRU - UDI,Doméstico
+MCZ - SSA - GYN,Doméstico
+MGF - CGB,Doméstico
+POA - GRU - CDG - MLA,Doméstico
+GRU X IOS,Doméstico
+SSA MCZ,Doméstico
+REC - GRU - CWB,Doméstico
+CGB - GRU / GRU - SCL,Doméstico
+SDU - CGH - NVT,Doméstico
+CWB CGH,Doméstico
+FOR-MVD,Doméstico
+NVT-GRU-NAT,Doméstico
+BPS - CNF - CGH - SJP,Doméstico
+CNF - BSB - MCO,Doméstico
+FOR/GIG - GIG/FOR,Doméstico
+CGH - REF - FEN / FEN - REC - CGH,Doméstico
+BVB - BSB - GRU - SCL / SCL - GRU - BSB - BVB,Doméstico
+CWB-GRU,Doméstico
+GIG - BSB - MAO,Doméstico
+CGH-CGR,Doméstico
+CNF - BSB - PVH,Doméstico
+CXJ - GRU / GRU - PNZ,Doméstico
+FEN,Doméstico
+GRU - PUJ ,Doméstico
+MCO - BSB - REC,Doméstico
+MVD - GRU - GYN,Doméstico
+SLZ - BSB ,Doméstico
+CWB - FOR,Doméstico
+IGU - GRU - SSA,Doméstico
+NAT-GRU-FLN,Doméstico
+SSA-BSB-FLN,Doméstico
+BPS - BSB - MAO,Doméstico
+GRU - MAO / MAO - PVH ,Doméstico
+SSA X BSB,Doméstico
+SCL - GRU / GRU - SSA,Doméstico
+ARU-GRU-MAO,Doméstico
+PFB - GRU - SDU ,Doméstico
+GRU - AJU ,Doméstico
+SSA - SDU ,Doméstico
+GYN - GRU - NAT,Doméstico
+TXF - SSA,Doméstico
+PVH - BSB - GRU - FOR,Doméstico
+REC-GRU-YYZ,Doméstico
+CGH - SJP,Doméstico
+VDC-MAO,Doméstico
+PVH - MAO - GRU,Doméstico
+IGU-CGH-REC,Doméstico
+SSA-CHF,Doméstico
+PVH - BPS,Doméstico
+CAC - GRU - UDI,Doméstico
+FOR - BSB / BSB - POA,Doméstico
+SDU - CGH / CGH - REC,Doméstico
+FOR - GRU - NVT,Doméstico
+FOR/GIG/GRU/FLN,Doméstico
+GRU - LDB - CGB,Doméstico
+SJP - GRU,Doméstico
+VIX - CGH / CGH - NVT,Doméstico
+GRU - CXJ,Doméstico
+SSA X NVT,Doméstico
+CNF - BSB - SLZ,Doméstico
+GYN - EZE / EZE - GYN,Doméstico
+VIX - REC / REC - VIX,Doméstico
+CWB-CUN,Doméstico
+MCZ - SSA - SLZ,Doméstico
+REC - FOR - SSA,Doméstico
+LHR - MAS,Doméstico
+CGH-SSA-LIS-DUB,Doméstico
+GRU - FOR,Doméstico
+XAP X GRU,Doméstico
+BSB-CNF,Doméstico
+GRU-VDC,Doméstico
+PUJ - GRU ,Doméstico
+IOS/GRU - GRU/SDU,Doméstico
+GRU - MEX,Doméstico
+PFB - GRU - AJU,Doméstico
+PVH - FOR,Doméstico
+CGH - NVT / NVT - CGH,Doméstico
+POA - SDU - GRU - UDI,Doméstico
+TXF - SSA - GRU,Doméstico
+JPA - GRU - VIX,Doméstico
+SSA-REC,Doméstico
+GRU - BSB - THE,Doméstico
+REC-MIA,Doméstico
+XAP - GRU - SSA,Doméstico
+SDU X GRU X LDB,Doméstico
+FLN - GRU - GYN ,Doméstico
+MAO - PVH,Doméstico
+MOC - GRU - AJU,Doméstico
+BOS - JFK,Doméstico
+CNF - GRU ,Doméstico
+ORD - MIA,Doméstico
+JPA - GRU,Doméstico
+FLN-GRU-IGU,Doméstico
+CGH - FLN,Doméstico
+POA X SDU,Doméstico
+GIG - BSB,Doméstico
+CNF - NAT,Doméstico
+MGF - CGH,Doméstico
+REC - CGH - GYN,Doméstico
+AMS - DUB ,Doméstico
+GRU -SSA,Doméstico
+SSA - CGH - NVT ,Doméstico
+SSA - MAO,Doméstico
+REC - MVD / MVD - GRU - REC,Doméstico
+BSB-GRU-XAP,Doméstico
+JPA-GRU-MGF,Doméstico
+BSB - GRU - CDG,Doméstico
+PMW - BSB - GRU,Doméstico
+GRU - CNF,Doméstico
+PWB - GRU - SDU - CWB,Doméstico
+JPA - CGH,Doméstico
+CNF - SDU - NVT,Doméstico
+IOS - GIG,Doméstico
+BSB-GIG,Doméstico
+MAO - FOR - BSB,Doméstico
+MCZ - BSB ,Doméstico
+MCP - BEL - BSB - SDU - FLN,Doméstico
+CGH - SSA - MCZ,Doméstico
+SSA - BSB - UDI,Doméstico
+MAP-BSB,Doméstico
+NAT - CGH - FLN,Doméstico
+CGH-JOI,Doméstico
+BRA-BSB,Doméstico
+FOR - GRU - JDO,Doméstico
+CGH - FEN,Doméstico
+CGR - CGH - BSB,Doméstico
+BSB - FOR,Doméstico
+CWB-SDU,Doméstico
+GIG - VIX,Doméstico
+LEC - SSA,Doméstico
+AJU - GRU - SCL / SCL - GRU - AJU,Doméstico
+MAO/BSB - BSB/FOR,Doméstico
+SALVADOR X SÃO PAULO (CGH),Doméstico
+BSB-SDU,Doméstico
+COM - BSB - SSA,Doméstico
+GRU X GIG,Doméstico
+SSA-POA,Doméstico
+SDU-GRU-CGB,Doméstico
+GRU-MVD,Doméstico
+SDU - GRU - IGU,Doméstico
+MGF - CGH - BSB - CUN,Doméstico
+POA - NVT,Doméstico
+FEN - REC - BSB,Doméstico
+NVT-CGH-REC,Doméstico
+BSB - SDU - CWB,Doméstico
+GRU - CPV,Doméstico
+CGH/BSB - BSB/PVH,Doméstico
+GRU - CWB - BSB - PVH,Doméstico
+GYN - GRU - MAD - AGP,Doméstico
+XAP- VCP,Doméstico
+SLZ - SSA - GYN,Doméstico
+CGH-GRU-MIA,Doméstico
+BRA-BSB-CGH,Doméstico
+NVT - CGH - BPS,Doméstico
+NVT - CNF - CGH,Doméstico
+MAB - BSB,Doméstico
+PVH-POA,Doméstico
+SSA - BSB - MAO,Doméstico
+IOS - GRU / GRU - GYN,Doméstico
+SDU - CGH - CNF,Doméstico
+FOR - SDU,Doméstico
+GRU-BSB-SSA,Doméstico
+FLN - CGH  ,Doméstico
+REC- CGH,Doméstico
+BSB - GRU / GRU - BSB,Doméstico
+SSA-LEC,Doméstico
+AEP - GRU,Doméstico
+PUJ - GRU,Doméstico
+FLN-MCO,Doméstico
+PVH - GRU,Doméstico
+SLZ-BSB,Doméstico
+BSB - SSA - FOR,Doméstico
+MAO - FLN,Doméstico
+GRU-CDG,Doméstico
+GRU X JDO,Doméstico
+FLN-MCZ,Doméstico
+MDZ - GRU,Doméstico
+FLN - GRU - CNF,Doméstico
+PMW - GIG,Doméstico
+SSA - CGH - BPS,Doméstico
+VDC- GRU,Doméstico
+YYZ-GRU/GRU-JDO,Doméstico
+YHZ - PUJ - GRU,Doméstico
+SSA-CDG,Doméstico
+CPV/CGH,Doméstico
+ JPA - IGU / IGU - JPA,Doméstico
+CWB - GRU / GRU - PTY,Doméstico
+FLN - GRU / GRU - AJU,Doméstico
+MDZ-GRU-CWB,Doméstico
+BPS - CGH - GYN,Doméstico
+BRA - REC ,Doméstico
+CPV-SSA,Doméstico
+VIX - SDU - VCP,Doméstico
+CWB - NAT,Doméstico
+FOR - BSB / BSB - MIA / MIA - DEN,Doméstico
+VDC - CGH,Doméstico
+VDC-GRU-MAO,Doméstico
+BSB - SSA / SSA - BSB,Doméstico
+FOR - JDO,Doméstico
+GRU - JDO ,Doméstico
+MCP - BEL,Doméstico
+BSB - GRU / GRU - AMS / AMS - FCO / FCO - CDG,Doméstico
+CGH  BSB,Doméstico
+CGR - CGH - SSA,Doméstico
+BRA - SSA,Doméstico
+GYN - GRU - NVT,Doméstico
+IGU - NAT,Doméstico
+CXJ - SDU,Doméstico
+BEL-BSB-REC,Doméstico
+GRU/BSB - BSB/MAO,Doméstico
+AJU - CGH,Doméstico
+REC - CGH / CGH - NVT,Doméstico
+SDU-SSA,Doméstico
+SDU - CGH / CGH - SDU,Doméstico
+CGH - AJU / AJU - CGH,Doméstico
+GIG X SSA,Doméstico
+SSA - BSB - POA,Doméstico
+EZE-GRU/GRU-CWB,Doméstico
+CNF - GRU / GRU - BSB / BSB - PVH,Doméstico
+SSA X BSB X BEL,Doméstico
+NVT - SDU / SDU - GRU / GRU - CAC,Doméstico
+NAT - GRU - POA,Doméstico
+SDU X SSA,Doméstico
+CGB - VCP,Doméstico
+MAO - GRU / GRU - CNF,Doméstico
+REC - SSA - MAD - JED,Doméstico
+VIX - CGH - FLN,Doméstico
+LDB-GRU,Doméstico
+MAO - BSB - FOR,Doméstico
+CGH  SSA,Doméstico
+CGH - CPV,Doméstico
+SDU - PVH,Doméstico
+GYN SSA,Doméstico
+REC,Doméstico
+SSA-MCZ,Doméstico
+BEL-GRU-FLN,Doméstico
+CWB - CGH - GYN,Doméstico
+REC - FEN / FEN - REC,Doméstico
+SSA - SDU - CGH,Doméstico
+SSA - GRU - VDC,Doméstico
+CWB- CGH,Doméstico
+FOR-CGH,Doméstico
+BSB - GRU / GRU - AMS / AMS - HAM,Doméstico
+BEL- BSB - PVH,Doméstico
+NVT - CGH - PPB,Doméstico
+CUN-BSB,Doméstico
+MAO - FEN,Doméstico
+BVB-BSB,Doméstico
+MGF-CWB,Doméstico
+GYN-GRU-POA-BSB-MCZ,Doméstico
+GRU - SSA - SLZ,Doméstico
+PVH - BSB - GRU - CWB,Doméstico
+GIG - GRU - EWR,Doméstico
+REC X GIG,Doméstico
+GRU - REC ,Doméstico
+VIX-SSA-SLZ,Doméstico
+SSA-MDV,Doméstico
+POA - CNF,Doméstico
+CGH - BSB - MAB,Doméstico
+CNF - GRU - SCL / SCL - GRU - CNF,Doméstico
+VOX-SDU,Doméstico
+SDU-SSA-BSB,Doméstico
+REC - FOR - SLZ,Doméstico
+POA - CGH - VIX,Doméstico
+GYN X CGH X SDU,Doméstico
+POA/CGH - CGH/FOR,Doméstico
+POR - GRU - FOR,Doméstico
+PVH - BSB - GRU,Doméstico
+PVH - BSB - SDU,Doméstico
+RAO - GRU / GRU - MCZ,Doméstico
+CWB-CGH-POA,Doméstico
+REC-BSB-CGH,Doméstico
+IGU - JJD,Doméstico
+MOC-BSB,Doméstico
+POA- GRU,Doméstico
+CDG - LIS,Doméstico
+PVH - BSB - SSA  IOS,Doméstico
+SSA - LAX,Doméstico
+BSB - CUN,Doméstico
+GRU - SDU - VIX - SSA,Doméstico
+SDU - GRU - GYN,Doméstico
+AJU-GRU-GYN,Doméstico
+FOR-SSA,Doméstico
+BSB - CNF / CNF - BSB,Doméstico
+NVT - UDI ,Doméstico
+REC - BSB - SJP,Doméstico
+RAO - GRU / GRU - POA,Doméstico
+BCN - FLR,Doméstico
+CGH-GYN,Doméstico
+FOR - SSA - GRU,Doméstico
+CNH - GRU,Doméstico
+CAC - GRU - SSA,Doméstico
+VIX - SDU,Doméstico
+NVT - SDU ,Doméstico
+BSB - LIS,Doméstico
+GRU-YYZ,Doméstico
+-BRA,Doméstico
+AJU - GRU,Doméstico
+VCP - SSA / SSA - VCP,Doméstico
+GRU - FLN,Doméstico
+REC - FEN,Doméstico
+MAO - GIG ,Doméstico
+PMW/BSB - BSB/MAO,Doméstico
+PMW - CGH - CGB,Doméstico
+POA X BSB,Doméstico
+SJP-BSB,Doméstico
+SSA X CGH,Doméstico
+XAP - GRU - MAO - PVH,Doméstico
+salvador - brasilia,Doméstico
+FOR - GRU - IOS,Doméstico
+NVT - CGH - BSB,Doméstico
+SDU - CGH - ARU,Doméstico
+POA/CGH - CGH/CWB,Doméstico
+São Paulo (Guarulhos - SP) - Foz do Iguaçu (PR),Doméstico
+BEL - BSB - GRU,Doméstico
+SSA - BSB - EZE / EZE - SSA,Doméstico
+GRU - AJU / AJU - GRU,Doméstico
+SDU - GRU / GRU - MGF,Doméstico
+XAP ,Doméstico
+GYN-GRU-PTY-JFK,Doméstico
+CGR - GRU - AEP / AEP - GRU - CGR,Doméstico
+AEP - BRC,Doméstico
+CWB - SSA - FOR,Doméstico
+XAP - GRU / GRU - MOC ,Doméstico
+GRU - BSB - CUN / CUN - BSB - GRU,Doméstico
+GIG-CGR,Doméstico
+PMW-BSB-SSA,Doméstico
+REC-GRU-CGR,Doméstico
+IOS - GRU - SDU,Doméstico
+NAT - GRU - PPB,Doméstico
+IGU - GRU / GRU - FRA,Doméstico
+GRU-BEL,Doméstico
+REC - CGH - CNF,Doméstico
+BSB-THE,Doméstico
+SCL,Doméstico
+SSA - CGH - ARU ,Doméstico
+NAT - GRU - MCZ  ,Doméstico
+PVH - BSB - MCZ,Doméstico
+BSB - FOR / FOR - BSB,Doméstico
+GYN - GRU - PET,Doméstico
+BEL - CWB,Doméstico
+CNF - GRU,Doméstico
+REC-BSB ,Doméstico
+CNF-CGH-PVH,Doméstico
+FOR - GIG - CDG - BCN,Doméstico
+MGF,Doméstico
+MGF - GRU - MIA,Doméstico
+VIX-SDU-BSB-BVB,Doméstico
+MGF/LIS,Doméstico
+VIX-SDU-FLN,Doméstico
+STM MAO,Doméstico
+MCO - BSB,Doméstico
+POA-CGH-SSA,Doméstico
+POA - GRU - LDB,Doméstico
+VCP - NAT,Doméstico
+BSB X CGH,Doméstico
+VCP - NAT / NAT - VCP,Doméstico
+GRU - TREC,Doméstico
+PVH - MAO - FOR,Doméstico
+ASU - GRU - BSB - PVH,Doméstico
+CGH-VIX,Doméstico
+SCL - GRU - VIX,Doméstico
+PAV - REC,Doméstico
+CNF - GRU  ,Doméstico
+REC - GRU - GIG - COR,Doméstico
+THE X GRU,Doméstico
+FLN - GRU / GRU - FOR,Doméstico
+MAO-BSB,Doméstico
+CGH-BSB-SSA,Doméstico
+CGH - SDU / GIG - FOR,Doméstico
+AEP-GRU-REC,Doméstico
+GRU-BSB-THE,Doméstico
+REC - LIM,Doméstico
+GIG / GRU - GRU/UDI,Doméstico
+REC - GRU - CDG,Doméstico
+CGR - GRU - JJD / JJD - GRU - CGR,Doméstico
+CWB X CGH,Doméstico
+IPN-CGH,Doméstico
+LDN - GRU - REC,Doméstico
+GRU-FOR,Doméstico
+MCZ - SSA - BSB,Doméstico
+MAO-GIG-CWB,Doméstico
+SLZ-SSA,Doméstico
+SSA BSB,Doméstico
+GYN - GRU - POA / POA - GRU - GYN,Doméstico
+CPV -  SSA - CGH ,Doméstico
+BSB - CGH / CGH - BSB,Doméstico
+CNF - GRU - CWB,Doméstico
+RAO - BPS,Doméstico
+VCD - GRU,Doméstico
+GRU-JDO,Doméstico
+CGH - MOC,Doméstico
+CGH - POA ,Doméstico
+CWB - GRU - IGU / IGU - GRU - CWB,Doméstico
+SSA X GRU X PTY X CUN,Doméstico
+GYN-VDC,Doméstico
+GRU - BSB - SLZ,Doméstico
+NVT - GRU - AJU,Doméstico
+FOR - REC,Doméstico
+REC - SCL,Doméstico
+MGF/GRU - GRU/NAT,Doméstico
+BSB - CDG,Doméstico
+BEL - FOR ,Doméstico
+CGH-IZA,Doméstico
+VIX-GRU-FOR,Doméstico
+SSA - POA / POA - SSA,Doméstico
+BSB - NAT ,Doméstico
+CDG - GRU,Doméstico
+BSB - NAT,Doméstico
+MGF - GRU - POA,Doméstico
+VCP-SDU,Doméstico
+BSB - GIG - FOR,Doméstico
+MCZ - SSA,Doméstico
+PIN - MAO,Doméstico
+SSA - PMW,Doméstico
+CWB - MCZ,Doméstico
+GYN  ,Doméstico
+SJP - BSB - JPA,Doméstico
+LDB - GRU / GRU - LDB,Doméstico
+MAO - FOR - REC,Doméstico
+MCZ - GIG,Doméstico
+VCE - CDG,Doméstico
+FLN - CGH - GYN,Doméstico
+MAO-GRU-IOS,Doméstico
+MGF-GRU-BSB,Doméstico
+VIX - CGH - CWB,Doméstico
+GRU-MOC,Doméstico
+GYN - CGH - VIX ,Doméstico
+SLZ/BSB - BSB/GIG,Doméstico
+FLN/GRU - GRU/LIS - LIS/LHR,Doméstico
+RBR - BSB ,Doméstico
+CGH - NAT / NAT - CGH,Doméstico
+PMW - GRU,Doméstico
+SSA X GRU X SSA,Doméstico
+VDC- GRU ,Doméstico
+SSA - SDU - CGH - CWB,Doméstico
+NVT-GRU-BEL,Doméstico
+GTU - GYN,Doméstico
+NVT-GIG,Doméstico
+CWB - GRU - GIG / SDU - CGH - CWB,Doméstico
+FOR - GRU - PTY,Doméstico
+SSA-BSB-RBR,Doméstico
+GYN - SSA / SSA - MCZ,Doméstico
+NUT/CGH - CGH/REC,Doméstico
+EWR - GRU - MGF,Doméstico
+MAB - BSB / BSB - GIG,Doméstico
+JFK-MIA-BSB-SSA,Doméstico
+AMS - GIG,Doméstico
+CGH-BSB-PMW,Doméstico
+CGH - CNF ,Doméstico
+CGB - GRU - JPA,Doméstico
+MIA - MAO,Doméstico
+NVT SDU,Doméstico
+CWB - BSB / BSB - MCO,Doméstico
+NVT-REC,Doméstico
+REC - BSB - POA,Doméstico
+MAO - GRU ,Doméstico
+GRU-PUJ,Doméstico
+GRU/MDZ - MDZ/GRU,Doméstico
+GYN-BSB-FLN,Doméstico
+CGH - CGB,Doméstico
+NAT - GRU - MGF,Doméstico
+RAO - GRU - SSA - LEC,Doméstico
+GYN-CGH,Doméstico
+NVT - LDB,Doméstico
+DCA - MIA / MIA - FOR / FOR - SSA,Doméstico
+BSB-SCL,Doméstico
+SSA - SDU / SDU - SSA,Doméstico
+PMW - BSB ,Doméstico
+AMS - GRU,Doméstico
+POA - GRU - SSA,Doméstico
+POA-BSB-FOR,Doméstico
+GRU - PFB,Doméstico
+CGH - URG,Doméstico
+BSB - JJD,Doméstico
+PVH-MAO,Doméstico
+BSB - SSA - SLZ,Doméstico
+GYN/FOR - FOR/REC,Doméstico
+GRU - LAD,Doméstico
+NVE - STU,Doméstico
+SSA-SDU,Doméstico
+GIG - BSB  CGB,Doméstico
+SSA-GRU-MVD,Doméstico
+BPS - BSB,Doméstico
+VCP - CNF,Doméstico
+VDC - BSB - GRU,Doméstico
+JOI - GRU,Doméstico
+CGH - BYO,Doméstico
+GIG - CDG,Doméstico
+GYN - GRU - AJU,Doméstico
+SSA - IOS,Doméstico
+UDI - GRU ,Doméstico
+CDG - FOR,Doméstico
+LDB - GRU - GIG,Doméstico
+VCP - SDU - GIG - POA,Doméstico
+GRU - DUB,Doméstico
+FLN - GRU - AMS,Doméstico
+GRU - CUN / CUN - GRU,Doméstico
+GRU - JPA ,Doméstico
+JDO - GIG,Doméstico
+PET - GRU ,Doméstico
+POA - RBR,Doméstico
+GRU -JPA,Doméstico
+FOR - CGH / CGH - FOR,Doméstico
+STM - BEL - BSB,Doméstico
+GYN-FOR,Doméstico
+BSB - CGH ,Doméstico
+MDZ-GRU,Doméstico
+JJD - GRU - RAO,Doméstico
+POA - FOR ,Doméstico
+BSB-GRU-AEP,Doméstico
+LIS - BSB - PVH,Doméstico
+PPB - GRU,Doméstico
+SSA - SJP,Doméstico
+POA-VIX,Doméstico
+NVT - GRU - CGR,Doméstico
+FBE - CWB - GRU ,Doméstico
+PVH - POA,Doméstico
+LDB-GRU-CGH-VIX,Doméstico
+NVT - SDU - CNF / CNF - CGH - NVT,Doméstico
+AMS - HAM,Doméstico
+CGH - VIX,Doméstico
+PVH - BSB- CGH - MGF,Doméstico
+SSA - GIG ,Doméstico
+CGH / NVT,Doméstico
+CGH - SSA - FOR ,Doméstico
+SDU-CGH-SJP,Doméstico
+NAT - SSA,Doméstico
+CGB - GRU - GIG,Doméstico
+BRA - TXF,Doméstico
+SSA - CGH / CGH - POA,Doméstico
+VIX - SDU / SDU - GRU,Doméstico
+POA - CGH - GYN,Doméstico
+REC-IGU,Doméstico
+GRU - NAT / NAT - GRU,Doméstico
+CXJ-GRU,Doméstico
+IGU-GRU-REC,Doméstico
+VCP - BSB - MAO - PVH,Doméstico
+POA - GRU - NVT,Doméstico
+MIA-BSB-SSA,Doméstico
+FLN - GRU / GRU - CGB,Doméstico
+FOR X SSA,Doméstico
+POA - GRU - REC - FEN / FEN - REC - CGH - POA,Doméstico
+VCP - SDU - CWB,Doméstico
+PVH X BSB ,Doméstico
+CGR - GRU / CGH - CGR,Doméstico
+NVT - SDU - CNF - CKS,Doméstico
+PNZ-GRU-BSB-PMW,Doméstico
+GRU-JUD,Doméstico
+PVT - BSB - NAT,Doméstico
+GRU - CGR,Doméstico
+SDU - CGH - GYN / GYN - BSB - SDU,Doméstico
+SDU - POA,Doméstico
+CGH - FLN / FLN - CGH,Doméstico
+SSA - VDC,Doméstico
+PVH - MAO ,Doméstico
+FOR - SSA - CGH,Doméstico
+SSA-CGH-NVT,Doméstico
+PVH - BSB - CWB,Doméstico
+BSB-SDU-VIX,Doméstico
+VIX X GRU,Doméstico
+SSA -  GRU ,Doméstico
+POA - CGH - BSB - MAO,Doméstico
+MCZ - BSB,Doméstico
+SSA CGH ,Doméstico
+CKS - BSB,Doméstico
+FOR - JDO ,Doméstico
+VDC ¿ GRU - SDU,Doméstico
+BSB - ARU,Doméstico
+FLN-GRU-VDC,Doméstico
+CGH-ARU,Doméstico
+JOI-CGH,Doméstico
+MGF - GRU - XAP,Doméstico
+FOR - SSA - VCP,Doméstico
+AJU - GRU ,Doméstico
+NVT - GIG,Doméstico
+SDU - NVT,Doméstico
+SLZ - FOR,Doméstico
+CNF - SSA ,Doméstico
+GIG - GRU - MAO - PVH,Doméstico
+AEP - GRU / GRU - PMW,Doméstico
+BRA - BSB - SSA,Doméstico
+BPS- GRU - FLN,Doméstico
+CGR-GRU-SDU,Doméstico
+NVT - CNF,Doméstico
+VCP - REC ,Doméstico
+CMF - SSA,Doméstico
+FBE - CWB,Doméstico
+GRU - AMS / AMS - LHR,Doméstico
+GRU - SDU - CWB,Doméstico
+JPA - GRU - GYN,Doméstico
+BPS-GRU-CNF,Doméstico
+GRU - FLP,Doméstico
+SDU-CGH-RAO,Doméstico
+BPS-SSA,Doméstico
+BSB-BVB,Doméstico
+CWB - PVH,Doméstico
+REC - GRU - LDB,Doméstico
+MGF - GRU - NVT,Doméstico
+JPA-SSA-VIX,Doméstico
+VCP - CUN / CUN - VCP,Doméstico
+BSB-GRU-IOS,Doméstico
+GRU - UDI ,Doméstico
+SSA - GYN ,Doméstico
+BSB - SDU - LDB,Doméstico
+CAC - GRU,Doméstico
+CGB-GRU-MGF,Doméstico
+SSA - CGH - CGR,Doméstico
+VDC - GRU - GYN,Doméstico
+SSA - FOR / FOR - MAS,Doméstico
+BPS - RAO ,Doméstico
+CWB-GR,Doméstico
+GIG -  GRU,Doméstico
+FLN-YYZ,Doméstico
+SSA - REC ,Doméstico
+PNH-MAP,Doméstico
+CKS-CNF,Doméstico
+MIA - BSB - CGH,Doméstico
+JPA-BSB,Doméstico
+PVH - BSB  MCZ,Doméstico
+SSA-GRU-PMW,Doméstico
+GYN - BPS,Doméstico
+VIX - SDU ,Doméstico
+REC-CGH-POA,Doméstico
+STM X GYN,Doméstico
+GRU - MDV,Doméstico
+SSA - MVD,Doméstico
+GRU - BPS,Doméstico
+POA - GRU - IGU,Doméstico
+REC-GYN,Doméstico
+CGH - SSA - JPA,Doméstico
+FOR - BSB - FLN,Doméstico
+POA - FLN,Doméstico
+SSA-GRU-SDU,Doméstico
+FLN - POA,Doméstico
+CGR - CGH,Doméstico
+SSA - SDU - FLN / FLN - CGH - SSA,Doméstico
+PVH - FEN,Doméstico
+IGU-GRU,Doméstico
+SSA/CGH - CGH/POA,Doméstico
+BSB - GRU / GRU - MIA,Doméstico
+BPS/CGH - CGH/GYN,Doméstico
+CNF - GRU - CGB,Doméstico
+POA X FLN,Doméstico
+SSA-BSB-COM,Doméstico
+XAP - SDU,Doméstico
+SSA - GRU / GRU - AEP,Doméstico
+SSA - TXF,Doméstico
+FLN-MXP,Doméstico
+MCP - BSB,Doméstico
+RAO - GRU - SSA,Doméstico
+CGH-PPB,Doméstico
+GRU - SCL ,Doméstico
+PVH-BSB-MCZ,Doméstico
+BSB- SJP ,Doméstico
+SCL-BSB,Doméstico
+CWB-GRU-AEP,Doméstico
+SSA-CNF-GRU-MOC,Doméstico
+FLN - BSB - SSA,Doméstico
+TXF-SSA,Doméstico
+CNF - CGH - VIX,Doméstico
+GOIANIA - SÃO PAULO,Doméstico
+CXJ-CGH,Doméstico
+FLN,Doméstico
+CGR - CGH ,Doméstico
+CWB - GIG ,Doméstico
+SSA - GRU - POA,Doméstico
+PMW-BSB-CNF,Doméstico
+MGF-GRU-CDG-MRS,Doméstico
+NAT - AEP,Doméstico
+REC - VCP,Doméstico
+REC-GIG-GRU,Doméstico
+FOR-BSB,Doméstico
+GYN - FOR / FOR - GYN,Doméstico
+POA - CGH - SSA - FOR,Doméstico
+CGR-PUJ,Doméstico
+MGF - SCL,Doméstico
+CGH - BSB - CZS,Doméstico
+LIS-CDG,Doméstico
+REC - GRU - CGR,Doméstico
+FLN - GRU - PMW,Doméstico
+GRU-IGU,Doméstico
+NVT - GRU ,Doméstico
+POA/BSB - BSB/SSA,Doméstico
+LDB - CGH,Doméstico
+MIA - BSB - MAO,Doméstico
+CWB-CGH,Doméstico
+SDU - GRU - AMS - DUB,Doméstico
+VIX X GRU X FLN,Doméstico
+XAP-GRU-SSA,Doméstico
+CWB - GRU - FOR,Doméstico
+FOR - SLZ,Doméstico
+SDU - CGH - SSA,Doméstico
+-GRU,Doméstico
+BSB - VIX,Doméstico
+SLZ - GRU - LDB,Doméstico
+GRU - BRC,Doméstico
+BSB - NVT,Doméstico
+PVH/BSB - BSB/JPA,Doméstico
+CKS-BSB,Doméstico
+JPA - BSB / BSB - MCO,Doméstico
+GRU - CUN ,Doméstico
+LDB-GRU-REC,Doméstico
+MGF - GRU  ,Doméstico
+JJD - BSB,Doméstico
+FOR-BSB-SJP,Doméstico
+CGR - CGH - SSA - JPA,Doméstico
+REC - GRU / GRU - SCL,Doméstico
+AJU - FLN,Doméstico
+FOR - BSB - CWB,Doméstico
+VIX - CGH - PT - GB,Doméstico
+MCO - IAH,Doméstico
+NVT - GRU - LAD,Doméstico
+IGU - JPA,Doméstico
+GRU - BSB,Doméstico
+GYN - FLN,Doméstico
+MVD - GYN ,Doméstico
+GRU - CDG - FCO,Doméstico
+AM - BSB - VCP,Doméstico
+MCZ-SSA,Doméstico
+SSA - SGH - POA,Doméstico
+MCZ-GRU-FLN,Doméstico
+IOS - BSB / BSB - NAT / NAT - CNF / CNF - CKS,Doméstico
+CNF x JPA,Doméstico
+SSA - GRU ,Doméstico
+RAO - GYN,Doméstico
+CWB - GIG - MIA,Doméstico
+SDU - SSA - GYN,Doméstico
+GRU - MCO / MCO - GRU,Doméstico
+FOR - BSB - MAO,Doméstico
+IGU-GIG,Doméstico
+POA - GRU - VIX,Doméstico
+GRU - IGU ,Doméstico
+CXJ-GRU-CGR,Doméstico
+PVH - CGH,Doméstico
+REC - CGH - POA,Doméstico
+CWB - SDU,Doméstico
+CGH-SSA-JPA,Doméstico
+CGR - REC ,Doméstico
+NAT - BSB,Doméstico
+SSA - JPA ,Doméstico
+MCP - SSA,Doméstico
+DFW - JKF,Doméstico
+GYN - SSA - SLZ,Doméstico
+NVT- GRU ,Doméstico
+PMW - GRU  ,Doméstico
+VDC-SSA,Doméstico
+POA - BSB - RAO,Doméstico
+FOR - SDU - IGU,Doméstico
+CGH CWB,Doméstico
+mao - bsb,Doméstico
+SSA-CNF-SDU,Doméstico
+CFB - GRU ,Doméstico
+ROS - GRU,Doméstico
+CXJ-SDU,Doméstico
+CNF - GRU - ARU,Doméstico
+MGF - UDI,Doméstico
+CGH-FOR,Doméstico
+CNF-MCZ,Doméstico
+CAC-GRU,Doméstico
+POA - SSA,Doméstico
+GYN-GRU-PET,Doméstico
+GIG-PMW,Doméstico
+AEP - GRU - PVH,Doméstico
+CGH - BPS ,Doméstico
+MGF-GRU-BPS,Doméstico
+BSB - CWB / CWB - BSB,Doméstico
+PVH - BSB / BSB - SSA,Doméstico
+LDB-GRU-FLN,Doméstico
+SSA - BSB / BSB - COM,Doméstico
+BEL - BSB - SJP,Doméstico
+CXJ - GRU - REC,Doméstico
+GRU - GIG - FOR,Doméstico
+LAS - ORD - GRU - GYN,Doméstico
+CGH - CCB,Doméstico
+BSB - MCO/ MCO - BSB,Doméstico
+FLN - CGH - POA,Doméstico
+VIX-CGH-FLN,Doméstico
+GRU-GYN-REC,Doméstico
+PVH - MAO / MAO - PVH,Doméstico
+BSB-GRU-JPA,Doméstico
+CWB-REC-GIG,Doméstico
+IOS-GRU-GYN,Doméstico
+SSA X GIG,Doméstico
+SDU-VIX,Doméstico
+AJU-CGH,Doméstico
+GRU - PUJ / PUJ - GRU,Doméstico
+BPS - GRU - CGB,Doméstico
+MAO-BSB-LIS,Doméstico
+SSA - IOS ,Doméstico
+REC - GRU - LIM,Doméstico
+SDU - SGH,Doméstico
+JJD - GRU - SDU,Doméstico
+CWB-GRU-ADD-FCO,Doméstico
+FLN-GRU-MAO,Doméstico
+MOC - MIA,Doméstico
+REC - GRU - POA,Doméstico
+SDU-SSA-JPA,Doméstico
+VIX-CGH-REC,Doméstico
+REC - CGH - SJP,Doméstico
+CGH - PPB ,Doméstico
+JPA - BSB ,Doméstico
+SSA-PMW,Doméstico
+CGH - BSB ,Doméstico
+NAT-SSA,Doméstico
+RAO - CGH,Doméstico
+VCP - BSB - MAO ,Doméstico
+FEN - REC,Doméstico
+CGH - BSB / BSB - MAO,Doméstico
+FOR - CGH ,Doméstico
+VDC - GRU ,Doméstico
+CWB-CGH-FOR,Doméstico
+NAT - BSB - RBR,Doméstico
+VIX-CGH,Doméstico
+REC - BSB - CGB,Doméstico
+SDU - CGH - CGB,Doméstico
+GIG - JPA ,Doméstico
+BSB-CGH-SDU,Doméstico
+VIX-GRU-BEL,Doméstico
+CGB-CGH,Doméstico
+CZS - CGH ,Doméstico
+REC/CGH - GCH/CWB,Doméstico
+SSA-SLZ,Doméstico
+CGR - CGH - POA / POA - CGR,Doméstico
+CWB-FOR,Doméstico
+GIG - BSB - SJP,Doméstico
+CGH - SSA - BSB,Doméstico
+PVH-BSB-GRU-JDO,Doméstico
+PPB - CGB / CGB - PPB,Doméstico
+PVH-BSB,Doméstico
+FOR - BVB,Doméstico
+SJP - CGH - SDU,Doméstico
+JPA - GRU / GRU - JPA,Doméstico
+BSB - GRU - AMS - DUB,Doméstico
+BSB - IGU,Doméstico
+PORTO SEGURI - SALVADOR - CURITIBA,Doméstico
+CPV - CGH,Doméstico
+BSB - GIG - GRU,Doméstico
+AEP/GRU - GRU/SSA,Doméstico
+SLZ-SSA-POA,Doméstico
+PVH - BSB - CGH / GRU - MAO - PVH,Doméstico
+CWB - GIG - BSB - PVH,Doméstico
+FOR - BSB - VCP / VCP - SSA - FOR,Doméstico
+GRU - IZA,Doméstico
+SDU - GYN ,Doméstico
+SSA - BSB - CGB,Doméstico
+REC - GRU / GRU - AEP,Doméstico
+PVH-NAT,Doméstico
+NVT - GRU - POA,Doméstico
+IGU/GRU - GRU/SSA,Doméstico
+LDB-GRU-ATL-TPA,Doméstico
+SSA - GIG - AEP,Doméstico
+VIX - GRU - CGH - LDB,Doméstico
+GRU - UIO / UIO - GRU,Doméstico
+CGR - CGH - SSA - VDC,Doméstico
+PVH - MAO - BSB - IOS,Doméstico
+AJU - GIG,Doméstico
+CNF - BSB,Doméstico
+FLN - CGH / CGH - FLN,Doméstico
+NAT - IGU,Doméstico
+BSB - SDU - VCP / VCP - BSB,Doméstico
+CGH - BSB  / BSB - CUN,Doméstico
+PMW/BSB - BSB/GRU,Doméstico
+POA-GRU-CDG-TRN,Doméstico
+GRU - SDU,Doméstico
+GRU - BPS ,Doméstico
+MIA - CUN,Doméstico
+BRA-BSB-SSA,Doméstico
+GRU - VIX,Doméstico
+PVB - BSB ,Doméstico
+VIX-GRU-NVT,Doméstico
+CDG-GIG,Doméstico
+BSB - MIA - JFK,Doméstico
+CGH-POA,Doméstico
+CGH/BSB - BSB/MAO,Doméstico
+FOR - GRU - MGF,Doméstico
+GRU-CGB,Doméstico
+MAO - FOR - SSA - GYN,Doméstico
+CGR-REC,Doméstico
+GRU - PVH ,Doméstico
+BEL - GRU - FLN,Doméstico
+PVH - JPA,Doméstico
+GRU - ASU,Doméstico
+CGH - IGU,Doméstico
+CNF - SDU,Doméstico
+PVH - BSB / BSB - EZE,Doméstico
+BSB X GYN,Doméstico
+SSA GRU,Doméstico
+SSA-SDU-FLN,Doméstico
+STM - BSB - MAO,Doméstico
+GRU - POA ,Doméstico
+CGB - SSA,Doméstico
+MAO - BSB - POA,Doméstico
+VIX - BRA,Doméstico
+CGH-BSB/BSB-MCO,Doméstico
+VIX - SDU - CNF,Doméstico
+SSA-CNH,Doméstico
+SSA-IOS,Doméstico
+BEL - GRU - NVT,Doméstico
+UDI - MCZ,Doméstico
+MAO - BSB - FLN,Doméstico
+FOR - GRU - COR,Doméstico
+GRU X SSA,Doméstico
+FLN-GRU-BSB,Doméstico
+VDC - MCZ ,Doméstico
+POA - CGH - SSA,Doméstico
+SSA-BSB-MCO,Doméstico
+NVT - GRU - IAH - MCI,Doméstico
+CGB-GRU-LDB,Doméstico
+PVH - BSB - CUN,Doméstico
+GRU - BSB / BSB - CUN,Doméstico
+BPS - CNF,Doméstico
+BSB-RBR,Doméstico
+COM - BSB - CGH,Doméstico
+BSB - GRU - SJP,Doméstico
+FLN-CGH-SSA,Doméstico
+MAB - BSB - CGH,Doméstico
+FLN-GRU-SSA,Doméstico
+SJO - BOG,Doméstico
+VCP - CGH  SSA,Doméstico
+SDU - CNF,Doméstico
+FOR-GRU-GYN,Doméstico
+VCP - NAT - GIG - AJU,Doméstico
+GIG - LIM,Doméstico
+GYN - BSB / BSB - PVH,Doméstico
+ARU-GRU-NAT,Doméstico
+BSB - GRU - MGF,Doméstico
+GRU - BSB - MCZ / MCZ - GRU,Doméstico
+NVT-CGH-CNF-BPS,Doméstico
+MAO - BSB - MIA / MIA - BSB - MAO,Doméstico
+GRU - BSB / BSB - GRU,Doméstico
+MGF - GRU - GIG,Doméstico
+SSA - GRU / GRU - CDG / CDG - ZRH,Doméstico
+MLA-CDG,Doméstico
+FOR-BSB-GYN,Doméstico
+NVT - REC,Doméstico
+MGF-GRU-SCL-GRU-MGF,Doméstico
+GIG - GRU ,Doméstico
+SSA - NVT,Doméstico
+"GRU - CNF, CNF - BPS",Doméstico
+JOI-ROS,Doméstico
+MIA - BSB - REC,Doméstico
+SSA - GRU - MAO,Doméstico
+SSA - BSB / BSB - MCO ,Doméstico
+GRU-GIG-CDG-ATH,Doméstico
+CGH-IOS,Doméstico
+SDU - BSB - BEL - MAO,Doméstico
+FOR - BSB - SSA,Doméstico
+CNF - FLN ,Doméstico
+CDG - GIG,Doméstico
+BPS GIG,Doméstico
+FOR - CGH - FLN,Doméstico
+MAO - BSB - CGH,Doméstico
+POA - GRU - BPS,Doméstico
+SSA/GYN - GYN/SSA,Doméstico
+POA - JJD,Doméstico
+PVH - MAO - GIG,Doméstico
+JOI-CGH-BSB-MAO,Doméstico
+GRU CAC,Doméstico
+ARU - GRU / GRU - SDU,Doméstico
+REC-GRU-LDB,Doméstico
+SSA - FOR - REC - FEN / FEN - REC - SSA,Doméstico
+SSA - GRU - CNF,Doméstico
+FLN - GRU - CGB,Doméstico
+NVT - GRU / GRU - NVT,Doméstico
+FOR-BSB-GIG,Doméstico
+MCZ - GRU - POA,Doméstico
+CGH-BPS,Doméstico
+MGF GRU,Doméstico
+BSB-PMW,Doméstico
+NVT-CGH-CFN,Doméstico
+CGR - CGH - FLN / FLN - CGH - CGR,Doméstico
+SSA - GRU - MOC,Doméstico
+FOR - MIA,Doméstico
+CGB - MCZ / MCZ - CGB,Doméstico
+LIS - MAD,Doméstico
+AEP - BSB,Doméstico
+CGR-GRU-CWB-SDU,Doméstico
+CGH - CNF - SDU,Doméstico
+MAO - GIG / GIG - MAO,Doméstico
+POA - BSB - JPA,Doméstico
+POA-REC,Doméstico
+PVH - BSB - SSA - BPS / BPS - AS - BSB - PVH,Doméstico
+REC - SSA - SDU,Doméstico
+FEN - GYN,Doméstico
+MCZ-GRU-NVT,Doméstico
+SSA - GRU - MIA,Doméstico
+REC-SCL,Doméstico
+PVH - BSB - MAO,Doméstico
+CNF-BSB-PMW,Doméstico
+JDO/GRU - GRU/BSB - BSB/PVH,Doméstico
+REC-GIG,Doméstico
+FOR - GIG ,Doméstico
+FOR - GRU - VVI,Doméstico
+BYO - CGH,Doméstico
+MCP - FLN,Doméstico
+GRU - SSA - VIX,Doméstico
+MAD-CDG,Doméstico
+CWB/GRU - GRU/MAO,Doméstico
+MIA - BSB,Doméstico
+IOS - GRU - MAO,Doméstico
+SDU - REC,Doméstico
+SJP - BSB - REC,Doméstico
+SSA - GRU / GRU - AMS,Doméstico
+PVH - BSB - BEL - STM,Doméstico
+SSA - PNZ,Doméstico
+MCZ - GIG / GIG - VIX,Doméstico
+RIO X SÃO PAULO,Doméstico
+POA-BSB-SSA,Doméstico
+FLN - CGH - NCZ,Doméstico
+CGH - SDU - VIX,Doméstico
+SDU-CGH-GYN,Doméstico
+SDU-GRU,Doméstico
+GRU - AJU,Doméstico
+FOR/BSB/POA,Doméstico
+PMW - GRU / GRU - MVD,Doméstico
+BEL-PBM,Doméstico
+FOR - GRU - AEP,Doméstico
+VDC/GRU - GRU/BSB,Doméstico
+REC - BSB - UDI,Doméstico
+BSB - VCP ,Doméstico
+FOR - BSB - RBR,Doméstico
+STM - BSB - PVH,Doméstico
+CAC - GRU / GRU - BSB,Doméstico
+CGH-GIG,Doméstico
+GRU - SLZ / SLZ - GRU,Doméstico
+POA - SDU,Doméstico
+SSA - GRU - YYZ - YVR,Doméstico
+IGU X VCP X VIX,Doméstico
+UDI - GRU - FLN,Doméstico
+JPA - GIG - IGU,Doméstico
+VIX - BSB,Doméstico
+LON - LIS - GRU - NVT,Doméstico
+GIG - GRU - AJU,Doméstico
+CGH - GIG,Doméstico
+CXJ-GRU-PVH,Doméstico
+MGF X GRU,Doméstico
+VIX - GRU / GRU - VIX,Doméstico
+PMW/BSB - BSB/GYN,Doméstico
+SSA-CGH-BSB,Doméstico
+BSB - BPS ,Doméstico
+POA-GRU-VDC,Doméstico
+FOR - REC - BSB - MCP,Doméstico
+REC - GRU - CNF,Doméstico
+CGH - REC - FOR ,Doméstico
+GRU - MVD,Doméstico
+POA-GRU-SSA,Doméstico
+NVT - GRU - MAO - BEL,Doméstico
+VIX-CGH-BYO,Doméstico
+XAP - GRU - FLN,Doméstico
+CPV/SSA - SSA/GRU - GRU/CGB,Doméstico
+POA - GRU - SSA - SLZ,Doméstico
+AJU/GRU - GRU/CNF,Doméstico
+CGB - FLN ,Doméstico
+SLZ SSA,Doméstico
+CKS - BSB ,Doméstico
+ SDU - SSA ,Doméstico
+FLN-GRU-CGR,Doméstico
+MIA - GIG,Doméstico
+FLN - GRU - AMS - ZRH,Doméstico
+GYN-GRU-MSDZ,Doméstico
+SSA - GRU - JOI,Doméstico
+GYN/BSB - BSB/MCO,Doméstico
+SSA - GRU - CDG,Doméstico
+AEP - GRU ,Doméstico
+CWB -  GRU ,Doméstico
+SSA/CGH - CGH/SDU,Doméstico
+SSA - GRU - FLN / FLN - SSA,Doméstico
+GRU - FEN,Doméstico
+LIS - CDG - GIG - GRU,Doméstico
+BRC - GRU / GRU - SSA,Doméstico
+LDB-CGH-BSB-BVB,Doméstico
+REC-CGH-FLN,Doméstico
+VIX - GRU / GRU - GIG,Doméstico
+FLN - CGH,Doméstico
+BSB - MCO ,Doméstico
+BSB - CGH - AJU,Doméstico
+FLN-BEL,Doméstico
+CGH - LDB,Doméstico
+MAO - NAT,Doméstico
+NVT - CGH - SSA - AJU,Doméstico
+STM - MAO,Doméstico
+CGH-BSB-CGB,Doméstico
+AEP-GRU,Doméstico
+GRU- FOR ,Doméstico
+VIX - GRU - PNZ,Doméstico
+BSB - GRU - FLN / FLN - CGH - BSB,Doméstico
+FLN - BSB - PMW - GYN,Doméstico
+REC - GIG / GIG - REC,Doméstico
+STM - MAO - BSB - CGH,Doméstico
+STM-MAO,Doméstico
+FLN - VDC,Doméstico
+YVR - SEA,Doméstico
+BSB - MCO / MCO - BSB,Doméstico
+GRU - GIG / GIG - LHR / LHR - DUB,Doméstico
+FLN-BSB-NAT,Doméstico
+SDU - GRU - SLZ,Doméstico
+CWB - IOS,Doméstico
+CGR - CGH / CGH - BSB / BSB - MAO,Doméstico
+REC - SSA - SLZ,Doméstico
+NVT - GRU - IAH,Doméstico
+VIX - GRU / GRU - AEP,Doméstico
+CGH-CNF-CKS,Doméstico
+BSB-GRU-CDG,Doméstico
+GRU - BSB   ,Doméstico
+VCP - SDU ,Doméstico
+SDU - CGH - FLN,Doméstico
+GRU - CDG,Doméstico
+IOS - GRU - VIX,Doméstico
+SLZ - SSA,Doméstico
+MDZ - GRU - REC,Doméstico
+CNF - CGH ,Doméstico
+GRU - MIA,Doméstico
+JPA - GRU ,Doméstico
+PMW - BSB - GIG / GIG - GRU - PMW,Doméstico
+MOC - GRU,Doméstico
+FOR-MAO,Doméstico
+SSA-GRU-CDG-DUB,Doméstico
+BSB - CGH - CGR,Doméstico
+VIX - CNF,Doméstico
+MCZ X IGU ,Doméstico
+VIX-REC,Doméstico
+SSA - AEP,Doméstico
+FLN - GRU - COR,Doméstico
+BSB - POA / POA - CGH - BSB,Doméstico
+FLN-GRU-NAT,Doméstico
+FOR - CGH - CWB,Doméstico
+CNF - GRU / GRU - MAO,Doméstico
+GRU- GIG,Doméstico
+GRU-MAS-FCO,Doméstico
+AJU-GIG-IGU,Doméstico
+GIG-EZE-GIG,Doméstico
+STM - BEL,Doméstico
+TXF - SSSA,Doméstico
+EZE - FLN,Doméstico
+IGU-GRU-POA,Doméstico
+NVT-CGH-SDU-VIX,Doméstico
+GRU - BSB / BSB - MCO ,Doméstico
+FOR SSA,Doméstico
+AJU - SSA / SSA - BSB,Doméstico
+MAO-BSB-POA,Doméstico
+MAO-GIG,Doméstico
+SJP - NVT VIX - CGH,Doméstico
+ PVH-BSB ,Doméstico
+IGU - GIG,Doméstico
+MCZ - GIG - BSB - PVH,Doméstico
+CGH-SSA-FOR,Doméstico
+GRU-BPS,Doméstico
+NVG - SDU,Doméstico
+GRU - THE,Doméstico
+GIG - BPS,Doméstico
+REC - FOR / FOR - MIA,Doméstico
+THE - GRU,Doméstico
+FEN - REC / REC - FEN,Doméstico
+GYN - CGH - FLN - AEP,Doméstico
+MCZ-SSA-BSB,Doméstico
+SSA - NAT ,Doméstico
+CWB - CDG,Doméstico
+IOS - GRU - BSB - PVH,Doméstico
+CWB-VDC,Doméstico
+CNF,Doméstico
+BSB-GRU-MOC,Doméstico
+PMW-BSB-RBR,Doméstico
+SSA - BSB - JPA,Doméstico
+PNZ - SSA,Doméstico
+CGH - JPA,Doméstico
+AUS - MEX - GRU - SSA,Doméstico
+BPS - GRU - CGR,Doméstico
+CGH-BSB-FOR,Doméstico
+FEN - REC - FOR,Doméstico
+FLN - GRU - PUJ - PTY,Doméstico
+BEL - BSB - FLN,Doméstico
+BSB - CNF - REC,Doméstico
+CUN - BSB - VCP,Doméstico
+POA - GRU / GRU - PNZ,Doméstico
+VCP - SDU,Doméstico
+CAC - GRU / GRU - VIX,Doméstico
+GIG - PMW,Doméstico
+BSB - FLN / FLN - BSB,Doméstico
+GRU - MOC,Doméstico
+MGF - CGH - BSB - MIA / MIA - BSB - CGH - MGF,Doméstico
+VIX - REC,Doméstico
+CXJ-GIG,Doméstico
+IGU - SSA,Doméstico
+NVT/CGH - CGH/BSB,Doméstico
+JDO-GRU-IGU,Doméstico
+SSA-MOC,Doméstico
+SSA-CGH-GYN,Doméstico
+CWB - REC,Doméstico
+SSA  - FOR,Doméstico
+SSA/GRU - GRU/CWB,Doméstico
+VIX-SDU,Doméstico
+CWB - SDU - VIX - SSA,Doméstico
+CGH - UBA,Doméstico
+NAT - BSB - BVB,Doméstico
+DCA - MCO,Doméstico
+GIG - CNF,Doméstico
+CAC - GRU ,Doméstico
+FLN - GRU - IGU,Doméstico
+GIG-GRU-JFK,Doméstico
+SDU-CGH-FLN,Doméstico
+SSA - VCP ,Doméstico
+VIX - SDU  VCP,Doméstico
+FLN-CGH-SDU,Doméstico
+SSA - GRU - MGF,Doméstico
+CGH - SSA - IOS,Doméstico
+LDB - GRU - BPS / BPS - GRU - LDB,Doméstico
+GRU - EZE - BRC / BRC - EZE - GRU,Doméstico
+AEP - GRU - GYN,Doméstico
+GYN-GRU-IOS,Doméstico
+RAO - BSB ,Doméstico
+MCZ - BSB - VCP,Doméstico
+PNZ SSA,Doméstico
+BSB-CGH,Doméstico
+SSA - GNM,Doméstico
+CGH-BSB-CUN,Doméstico
+CGB - GRU - FLN / FLN - GRU - CGB,Doméstico
+FOR - GRU - SCL / SCL - GRU - FOR,Doméstico
+CZS - RBR,Doméstico
+MAO-STM,Doméstico
+VCP - BSB - MAB,Doméstico
+GYN - SSA - REC,Doméstico
+LDB - GRU - VDC / VDC - GRU  LDB,Doméstico
+SSA-CGH-IGU,Doméstico
+CGH - REC / REC - LIS,Doméstico
+SDU X GRU X VDC ,Doméstico
+GRU / JFK NOVA YORK - JFK NOVA YORK / GRU ,Doméstico
+SSA-VDC,Doméstico
+SDU - BSB - PVH,Doméstico
+SDU - CGH - PVH,Doméstico
+SDU-CGH-CWB,Doméstico
+BSB - CWB,Doméstico
+EWR - GRU,Doméstico
+GYN - CGH - MGF,Doméstico
+RBR - MAO,Doméstico
+PMW,Doméstico
+PVH - CWB / CWB - PVH,Doméstico
+PVH-BSB-GRU-VDC,Doméstico
+GRU-FLN,Doméstico
+CGB - BSB - SSA,Doméstico
+N LOC ,Doméstico
+CDG - PVG,Doméstico
+IOS-GRU-EWR,Doméstico
+BSB-JPA,Doméstico
+GIG-SSA-REC,Doméstico
+CGH - IZA,Doméstico
+BSB - PVH ,Doméstico
+FLN - CGH - CNF,Doméstico
+BPS - CGH - SJP,Doméstico
+FLN - GIG - AEP,Doméstico
+CNF - GRU - JFK,Doméstico
+FLN - GRU - UDI,Doméstico
+NAT - BSB - GYN,Doméstico
+SJP-AJU,Doméstico
+MCZ-GRU-GIG-IGU,Doméstico
+GRU - PUJ,Doméstico
+MOC X SSA,Doméstico
+IGU X GRU,Doméstico
+CGH - IOS,Doméstico
+CGH - MCZ,Doméstico
+CNF - CWB,Doméstico
+GIG - MAD,Doméstico
+FLN-BSB-MIA,Doméstico
+CGH-IPA,Doméstico
+VIX - CKS,Doméstico
+POA - CGH - CWB,Doméstico
+FLN - GRU - LIS ,Doméstico
+NAT - SSA - CGH - SJP,Doméstico
+CGH - SLZ,Doméstico
+NVT - GRU - VDC,Doméstico
+REC - FOR - MAO - PVH,Doméstico
+IGU - CGH - CWB,Doméstico
+POA - BPS,Doméstico
+JPA-GIG,Doméstico
+GIG - AJU,Doméstico
+MIA-GRU-SSA,Doméstico
+JDO-GRU,Doméstico
+CGB - GRU / GRU - XAP,Doméstico
+GRU - XAP,Doméstico
+MAO/BSB - BSB/REC - REC/FEN,Doméstico
+NVT - IZA,Doméstico
+PCV - GRU,Doméstico
+SSA - CGN,Doméstico
+CGH - SDU - CNF,Doméstico
+CGH-CXJ,Doméstico
+GIG-GRU / GRU-GYN,Doméstico
+CWB - VIX,Doméstico
+VDC - GRU - POA,Doméstico
+SEA - ATL,Doméstico
+STM - BSB - GYN,Doméstico
+BSB - GRU - CAC,Doméstico
+FLN - CGH - CGR,Doméstico
+IGU - GRU - REC,Doméstico
+GRU - DXB / DXB - PEK,Doméstico
+MCP - BSB ,Doméstico
+PVH - BSB - POA / POA - BSB - PVH,Doméstico
+GRU - MAO - PVH,Doméstico
+SDU  - CGH,Doméstico
+GRU-MCZ,Doméstico
+CWB-SSA,Doméstico
+MGF - GRU - MAD - FCO - VCE,Doméstico
+PVH-FOR,Doméstico
+SSA-SDU-GRU-NVT,Doméstico
+SDU CWB,Doméstico
+GIG - NVT,Doméstico
+PMW - CGH - LDB,Doméstico
+CGH-IGU,Doméstico
+BSB - REC - SJP,Doméstico
+GIG - BSB ,Doméstico
+REC X POA,Doméstico
+SDU - SSA - CGR,Doméstico
+VCP - SDU / SDU - VCP,Doméstico
+BLL - REC,Doméstico
+JOI - GRU - BEL,Doméstico
+POA - SSA - REC,Doméstico
+VDC - SSA - CGH,Doméstico
+BSB - PMW,Doméstico
+PVH - MAO - BEL,Doméstico
+MAO - GRU - SDU ,Doméstico
+MGF-GRU-FOR,Doméstico
+SSA/GRU - GRU/AEP,Doméstico
+PNZ - GRU - CXJ,Doméstico
+REC - CGH - POA ,Doméstico
+MVO - GRU,Doméstico
+GRU-BSB-NAT,Doméstico
+NAT - GRU - REC,Doméstico
+POA - GRU - AMS - VCE - CDG,Doméstico
+SJP-CGH-REC,Doméstico
+CGR - CGH - BSB - BEL,Doméstico
+JOI - OPO,Doméstico
+FOR-REC,Doméstico
+PVH-BSB-PMW,Doméstico
+CNF - CGH - CWB,Doméstico
+SSA X GRU X AMS X LIS,Doméstico
+PNZ-GRU-POA,Doméstico
+NAT-BSB,Doméstico
+PVH - MAO - GRU - BPS,Doméstico
+SSA - GRU - AMS - DUB,Doméstico
+CGB - GRU - CAC,Doméstico
+SSA-GRU-CNF,Doméstico
+FEN - REC / REC - CGH / CGH - REC,Doméstico
+NVT - REC - CGH,Doméstico
+PMW - PUJ / PUJ - PMW,Doméstico
+MVD - GRU - VIX,Doméstico
+SDU - VIX,Doméstico
+VIX - GIG - BSB - BVB,Doméstico
+FLN - JDO ,Doméstico
+SDU - GRU - JDO,Doméstico
+PVH - BSB  ,Doméstico
+PVH-BSB-CUN,Doméstico
+SSA-CGH-SJP,Doméstico
+RBR - BSB - MCZ,Doméstico
+SSA - GRU - CAC,Doméstico
+VIX - GRU - NVT,Doméstico
+CGH-SSA,Doméstico
+CGR - CGH - FOR,Doméstico
+FOR - GRU - CXJ / CXJ - GRU - FOR,Doméstico
+CGB-CGH-SDU-SSA,Doméstico
+SLZ - BSB - POA,Doméstico
+XAP - GRU - GIG - JPA,Doméstico
+MGF - GRU - CGR,Doméstico
+NVT - CGH - SSA,Doméstico
+PVH - BSB - BPS,Doméstico
+FLN - CGH - VIX,Doméstico
+MAO-CWB,Doméstico
+CGH - BSB -  STM,Doméstico
+REC  - POA ,Doméstico
+EZE - BSB - PVH,Doméstico
+MAO - BEL,Doméstico
+PVH - BSB - SLZ,Doméstico
+BSB-GRU-MIA-COM,Doméstico
+GRU - NAT,Doméstico
+CGH - MCZ / MCZ - CGH,Doméstico
+SSA/REC - REC/FEN,Doméstico
+MAO - FOR - SSA,Doméstico
+FLN - GRU - CNF -,Doméstico
+REC X FOR,Doméstico
+CGH - BSB,Doméstico
+VIX - GRU / GRU - LIM,Doméstico
+LAX-MIA-GRU,Doméstico
+SSA - MOC,Doméstico
+NVT - CGH - GYN,Doméstico
+GRU-PET,Doméstico
+GRU - COR / COR - GRU,Doméstico
+VCP-SSA,Doméstico
+VIX - GIG - BSB - PMW,Doméstico
+BPS-CGH,Doméstico
+CDG - ATH,Doméstico
+IOS-GRU-MAO,Doméstico
+JPA-SSA,Doméstico
+FOR - BSB / BSB - PVH,Doméstico
+MAO - CAF,Doméstico
+BSB - GRU - FOR,Doméstico
+IZA - GRU - BSB,Doméstico
+TXF - SSA / SSA - TXF,Doméstico
+CNF-NAT-BSB,Doméstico
+SSA - BSB - IGU,Doméstico
+NVT - GRU - BSB,Doméstico
+SSA-AEP-EZE-GIG-SSA,Doméstico
+SSA-GYN,Doméstico
+FOR - GYN ,Doméstico
+CWB - GRU - AMS,Doméstico
+REC - CGH ,Doméstico
+CNF - CGH - NVT,Doméstico
+PET-GRU,Doméstico
+VIX - SDU - CGH,Doméstico
+BSB - SLZ,Doméstico
+BSB-GRU,Doméstico
+AUX - BSB,Doméstico
+GIG - REC,Doméstico
+POA/GRU - GRU/SSA,Doméstico
+GYN - SDU,Doméstico
+PMW-BBS,Doméstico
+LAX - SYD,Doméstico
+SDU - CAC,Doméstico
+SDU - CGH - FOR,Doméstico
+EWR-GRU,Doméstico
+LONDRINA X SÃO PAULO (GRU),Doméstico
+CWB - BSB / BSB - MIA,Doméstico
+MAO - PVH ,Doméstico
+MGF-GRU-SSA-SLZ,Doméstico
+RAO - GRU - JPA / JPA - GRU - RAO,Doméstico
+CGH - BSB - BEL,Doméstico
+GIG - GRU - FOR,Doméstico
+LIS - LGW,Doméstico
+MAO - FOR / FOR - SSA,Doméstico
+MIA - MCO ,Doméstico
+CGB - GRU - FOR,Doméstico
+LDB - GRU - CGH - SDU,Doméstico
+VCP - SSA - FOR / FOR - BSB - VCP,Doméstico
+BEL - FOR - SSA,Doméstico
+CXJ - GRU ,Doméstico
+BSB - BRA,Doméstico
+GRU - JDO / JDO - GRU,Doméstico
+GRU - PTY,Doméstico
+CGH - REC -  FEN / FEN - REC - CGH,Doméstico
+GRU X BPS,Doméstico
+GYN - GRU - OPO - LIS,Doméstico
+IGU - GRU - FOR,Doméstico
+PVH - BSB - MIA / MIA - BSB - PVH,Doméstico
+XAP - GRU - FOR,Doméstico
+IOS-GIG,Doméstico
+ARU - JJD / JJD - ARU,Doméstico
+CGB - BSB - SSA / SSA - GRU - CGB,Doméstico
+BSB GRU,Doméstico
+CGB - GRU - SSA - JPA,Doméstico
+OPS - GRU,Doméstico
+GIG-REC,Doméstico
+MCO - BSB - FOR,Doméstico
+CWB - CGH - BSB / BSB - CGH,Doméstico
+BSB-MAO,Doméstico
+GRU - IOS,Doméstico
+GRU-GIG,Doméstico
+GYN - GRU / GRU - GYN,Doméstico
+IGU - GIG - CDG - BEY,Doméstico
+GYN - CGH - SSA,Doméstico
+SDU - GRU - FOR,Doméstico
+MCZ-SSA-CGH-SJP,Doméstico
+LDB - GRU - MOC,Doméstico
+CGR - BSB - CGR,Doméstico
+GIG - MCZ,Doméstico
+GRU-GIG-CDG-LIS,Doméstico
+LIS - GRU - GYN,Doméstico
+SSA-BPS,Doméstico
+CGH - GIG - AJU / AJU - CGH ,Doméstico
+CGH - BSB - REC,Doméstico
+REC - MVD,Doméstico
+VDC GRU,Doméstico
+JPA - RAO,Doméstico
+GIG - REC ,Doméstico
+MAO-MIA,Doméstico
+IOS - GRU - POA,Doméstico
+PVH-GRU-MGF,Doméstico
+CGH - PPB - NVT,Doméstico
+MAO - GRU - AEP,Doméstico
+SSA - CGH / CGH - CGR,Doméstico
+SSA - VIX ,Doméstico
+IGU-GRU-CDG-LIN,Doméstico
+CWB-CGH-VIX,Doméstico
+GIG-BSB,Doméstico
+IGU - GRU - JJD,Doméstico
+POA,Doméstico
+GRU-XAP,Doméstico
+MGF-GIG-SDU-MGF,Doméstico
+UDI - NAT,Doméstico
+JOI - GRU ,Doméstico
+GRU - GEL,Doméstico
+GRU - SCL,Doméstico
+SSA - BPS,Doméstico
+GRU - MCP,Doméstico
+(VIX > FOR),Doméstico
+MAO - BSB - PMW,Doméstico
+CAC-GRU GRU-SCL  / SCL-GRU GRU-CAC,Doméstico
+AEP-FLN,Doméstico
+CGR - GRU - PUJ / PUJ - GRU - CGR,Doméstico
+GYN - CGH - REC,Doméstico
+SDU SSA,Doméstico
+BEL-BSB-SSA,Doméstico
+GYN - SSA - PNZ / PNZ - GRU - GYN,Doméstico
+BSB - GRU - JDO,Doméstico
+CGR - MCZ,Doméstico
+IGU - GRU - REC - FEN / FEN - REC - GRU,Doméstico
+PVH-CGH,Doméstico
+SSA - SDU / SDU - POA,Doméstico
+PVH-MAO-GRU-BPS,Doméstico
+GRU - IGU,Doméstico
+GIG - MAO ,Doméstico
+JFK - GRU - VIX,Doméstico
+CGH - BSB - BVB,Doméstico
+POA-GIG-REC,Doméstico
+BVB - BSB - SDU - RAO,Doméstico
+CAC - GRU  ,Doméstico
+VCP - BSB / BSB - VCP,Doméstico
+PEL - GRU - GIG - FOR,Doméstico
+ GRU - CGR,Doméstico
+CWB - GRU - AEP / AEP - GRU - CWB,Doméstico
+REC - BSB / BSB - MCO,Doméstico
+SSA - BSB - NAT / NAT - BSB - SSA,Doméstico
+MGF - CGH - BSB - PVH,Doméstico
+GRU - AMS - EDI - CDG,Doméstico
+GRU-CXJ,Doméstico
+REC - SSA - VCP - BSB - CWB,Doméstico
+CPV-CGH,Doméstico
+MAO - MCP,Doméstico
+GIG - FEN,Doméstico
+AUX - BSB - GRU - GYN,Doméstico
+BSB - CGH - SSA,Doméstico
+CWB-BSB,Doméstico
+SLZ-PVH,Doméstico
+REC - SCL ,Doméstico
+CNF - CGB,Doméstico
+EZE-GRU,Doméstico
+GRU - MDE,Doméstico
+LBA - MAS - GIG - GRU,Doméstico
+IOS - GRU - MAO - PVH,Doméstico
+MCO - FOR / FOR - COM,Doméstico
+RAO - GRU,Doméstico
+GRU-MAO,Doméstico
+SSA - GRU - NVT,Doméstico
+BSB-CGH-SJP,Doméstico
+CGB - GRU - BSB - PVH,Doméstico
+LGA - YYZ,Doméstico
+GYN - GRU - MCZ,Doméstico
+VIX - BSB - PVH,Doméstico
+MCZ - MAO,Doméstico
+JOI - GRU / GRU - MIA,Doméstico
+BRA - CNF,Doméstico
+JPA - GRU - GIN,Doméstico
+CWB - GIG,Doméstico
+LDB-GRU-BSB,Doméstico
+MGF - CGH - BSB / BSB - CGH - MGF,Doméstico
+SJP-CGH,Doméstico
+PET - GRU - BSB,Doméstico
+GRU - BSB - MCO,Doméstico
+GRU-NAT,Doméstico
+BSB - GRU - EZE - USH ,Doméstico
+PMW/BSB - BSB/SSA,Doméstico
+CGH - FOR / FOR - CGH,Doméstico
+MCO - MIA - GRU,Doméstico
+SDU - CGH / CGH - SSA,Doméstico
+CWB - GRU - LIM / LIM - GRU - CWB,Doméstico
+CGH-REC,Doméstico
+GYN - GRU / GRU - PTY,Doméstico
+VIX-CGH-NVT,Doméstico
+GRU-EQS,Doméstico
+CNF - JPA ,Doméstico
+GYN - BSB - SSA,Doméstico
+SDU-GYN,Doméstico
+GRU - RAO,Doméstico
+GYN - PMW,Doméstico
+LIS - DUB,Doméstico
+MIA-GRU,Doméstico
+BSL-CDG,Doméstico
+CWB/GIG - GIG/BSB - BSB/MAB,Doméstico
+GRU - PPB,Doméstico
+BSB-BEL,Doméstico
+RAO-BPS,Doméstico
+SSA-CGH,Doméstico
+SDU - CGH - MAO,Doméstico
+IGU - GRU - FLN,Doméstico
+CGR - GRU - NAT,Doméstico
+GRU-IOS,Doméstico
+IAH - DFW - GRU - GYN,Doméstico
+IGU - SLZ,Doméstico
+MCP - BEL - GRU - VVI,Doméstico
+MGF - PVH,Doméstico
+FLN - SDU - GRU - PNZ,Doméstico
+CGH - CGN ,Doméstico
+GRU-REC-FEN,Doméstico
+REC - BSB - BEL / BEL - BSB - REC,Doméstico
+CGH - BPS / BPS - CGH,Doméstico
+RBR - BSB - CGH ,Doméstico
+MAO - SDU,Doméstico
+VIX/SDU - SDU/SSA,Doméstico
+CAC- GRU,Doméstico
+GRU - BPS / BPS - GRU,Doméstico
+VIX - GIG,Doméstico
+REC - BSB / BSB - SDU,Doméstico
+BSB/CFN,Doméstico
+GYN-VCD,Doméstico
+PVH - GRU - GIG ,Doméstico
+VIX-GRU-AMS,Doméstico
+POA - CWB - GRU - FOR,Doméstico
+GRU - GIG - JPA,Doméstico
+CGR-GRU-AJU,Doméstico
+SSA - NAT / NAT - SSA,Doméstico
+IST - TUN,Doméstico
+SJP = BSB,Doméstico
+BSB - MAB  / RAO - SDU - BSB,Doméstico
+PMV - BSB,Doméstico
+MGF - CGH - POA / POA - GRU - MGF,Doméstico
+BSB - SJP ,Doméstico
+REC - BSB - SDU,Doméstico
+JOI-GRU-CGB,Doméstico
+BSB - CGH - CWB,Doméstico
+RBR - BSB / BSB - MAO,Doméstico
+CGB - GRU / GRU - REC ,Doméstico
+CGH X CWB,Doméstico
+MIA - BSB - PVH,Doméstico
+SSA-TXF,Doméstico
+SSA - GRU / GRU - VVI,Doméstico
+SDU - VIX / VIX - CGH - FLN,Doméstico
+CGR - GRU - SSA ,Doméstico
+PPB - GRU / GRU - PPB,Doméstico
+SDU - CGH / CGH - CGR,Doméstico
+GIG-IOS,Doméstico
+SDU-CNF,Doméstico
+MGF - GRU - THE,Doméstico
+MIA / CWB,Doméstico
+CXS - GRU - BSB,Doméstico
+GRU - GIG,Doméstico
+MCO - BSB - CGH,Doméstico
+MAO - GRU   ,Doméstico
+REC- GIG,Doméstico
+FLN-POA,Doméstico
+SSA-GIG,Doméstico
+SSA-FOR,Doméstico
+FOR - CNF,Doméstico
+IZA - CGH - SJP,Doméstico
+VIX - GYN - GRU - ARU,Doméstico
+JJD-FOR,Doméstico
+BSB - REC - FEN / FEN - REC - BSB,Doméstico
+AJU - CGH - MAD - LPA,Doméstico
+BSB - JPA,Doméstico
+FEN X REC,Doméstico
+LDB-GRU-CDG-LIS,Doméstico
+MAO - MCO,Doméstico
+GRU - BSB - COM / COM - BSB - CGH,Doméstico
+MAO - FOR - REC / REC - FOR - MAO,Doméstico
+ORD - MIA ,Doméstico
+NAT - GRU - FLN,Doméstico
+SSA- VCP,Doméstico
+CGB - MCZ,Doméstico
+FOR - MAO - PVH,Doméstico
+VIX-GRU-POA,Doméstico
+BSB - REC / REC - BSB,Doméstico
+CAC - NAT,Doméstico
+POA/CGH - CGH/GYN,Doméstico
+GIG-NAT,Doméstico
+GRU - BSB / BSB - THE,Doméstico
+CAF - MAO,Doméstico
+IAD - ORD,Doméstico
+PVH - BSB / BSB - MCZ,Doméstico
+SLZ X BSB ,Doméstico
+GYN - GRU - CGD - MXP / AMS - GRU - GYN,Doméstico
+BSB - GRU - SCL / SCL - GRU - BSB,Doméstico
+GRU - FOR ,Doméstico
+CUN-BSB-GYN,Doméstico
+BEL - BSB - CNF,Doméstico
+GYN - GRU / GRU - JOI,Doméstico
+PMW X BSB,Doméstico
+CGR - FLN,Doméstico
+CNF - GRU - FLN,Doméstico
+UDI - SDU,Doméstico
+SDU - SSA,Doméstico
+FOR - BSB - GYN,Doméstico
+cwb-cgh,Doméstico
+BSB - EZE,Doméstico
+CGR - FLN - PVH,Doméstico
+VCD - GRU - POA,Doméstico
+BPS - SSA ,Doméstico
+REC - BEL,Doméstico
+CZS-RBR,Doméstico
+BSB - SSA - IOS,Doméstico
+BSB - JJD / JJD - BSB,Doméstico
+GIG-CWB,Doméstico
+NAT - BSB - CNF,Doméstico
+ MGF - GRU - MAD / MAD - GRU - MGF,Doméstico
+CGH - SDU - NVT,Doméstico
+RBR-CZS,Doméstico
+REC - POA ,Doméstico
+MCO-BSB-FOR,Doméstico
+BSB - MAO ,Doméstico
+GRU - PET,Doméstico
+IGU - GRU - NAT,Doméstico
+SDU X CGH,Doméstico
+MCO - MIA,Doméstico
+FOR-GRU-IGU,Doméstico
+SSA - SLZ,Doméstico
+MCO - BSB - GRU,Doméstico
+CNF - GRU - NAT,Doméstico
+BSB - COM / COM - BSB,Doméstico
+LDB - GIG,Doméstico
+CGH- REC  - FEN,Doméstico
+MGF - BPS,Doméstico
+VCP - MCZ,Doméstico
+GIG-BSB-REC-FEN,Doméstico
+BSB X MIA,Doméstico
+CNF - POA,Doméstico
+VIX X XGH X FLN,Doméstico
+CGH-BSB ,Doméstico
+FLN-GRU-CFB,Doméstico
+BRA-SSA,Doméstico
+FOR - GRU - CWB,Doméstico
+CPV - SSA ,Doméstico
+NVT-CGH,Doméstico
+MCP-BSB-CNF-GRU-JOI,Doméstico
+GYN - RAO,Doméstico
+CWB-GRU-MCZ,Doméstico
+CWB -BSB -PMV,Doméstico
+IGU - GRU - SSA - FOR,Doméstico
+AJU - GRU - FLN,Doméstico
+CGR - CGH - POA,Doméstico
+GRU - AEP - USH / USH - AEP - GRU,Doméstico
+FLN - GRU - YUL - CDG,Doméstico
+CNF-BPS,Doméstico
+JJD-GRU,Doméstico
+CWB - GRU / GRU - FCO / FCO - FLR,Doméstico
+BPS - BSB ,Doméstico
+MIA - CGH,Doméstico
+PEC - CGH - POA / POA - BSB - REC,Doméstico
+SLZ - GRU,Doméstico
+NVT-GRU-POA,Doméstico
+BSB-GRU-CDG-AUH,Doméstico
+REC - BSB - CWB,Doméstico
+SSA - GRU / GRU - DOH,Doméstico
+GRU - GYN - SSA,Doméstico
+GRU-CTG,Doméstico
+GIG - MAO,Doméstico
+MIA  - BSB,Doméstico
+JOI-GRU-VIX,Doméstico
+MAO - PIN,Doméstico
+NAT X BSB,Doméstico
+GRU - BSB ,Doméstico
+COR - GRU,Doméstico
+PMW-BSB,Doméstico
+SDU - GRU - CGR,Doméstico
+SJP - BSB - GIG / GIG - GRU - SJP,Doméstico
+CWB-GRU-AJU,Doméstico
+GRU - BUE,Doméstico
+VIX-SDU-CNF,Doméstico
+CWB-GRU-ZRH-MXP,Doméstico
+CWB - CGH - REC,Doméstico
+MAO-MCO,Doméstico
+NVT - CGH ,Doméstico
+BSB - GRU - RAO,Doméstico
+SSA/BSB - BSB/MAO,Doméstico
+BSB - JFK,Doméstico
+GRU - CXJ ,Doméstico
+VVI - GRU,Doméstico
+IGU-GRU-BPS,Doméstico
+RBR - MAO - FLN - BSB,Doméstico
+GRU-CNF,Doméstico
+PVH - BSB / BSB - LIS / LIS - BCN,Doméstico
+BRA - MCZ / MCZ - BRA,Doméstico
+BPS - VIX,Doméstico
+SCL-GRU,Doméstico
+SDU - CGH - VIX,Doméstico
+SSA - GRU  ,Doméstico
+SSA-VCP,Doméstico
+GRU-AJU,Doméstico
+SSA- CGH,Doméstico
+CGB - BSB ,Doméstico
+SSA - BSB / BSB - MIA,Doméstico
+BPS - GRU - CNF,Doméstico
+,Doméstico
+,Doméstico
+Não informado,Doméstico
+ Internacional,Doméstico
+Outros,Doméstico
+ Não Informado,Doméstico

@@ -1,0 +1,1081 @@
+situacao_processual,resultado_decisao,novo_situacao_processual+resultado_decisao,situacao_processual_sentenca
+,Acordo,Acordo,Acordo
+,Condenação,Condenação,Condenação
+,Outros,Não informado,Outros
+,Vitória,Decisão favorável à aérea (improcedência),Vitória
+,,Não informado,
+,,Não informado,
+,Duplicidade,Não informado,Duplicidade
+,Outros,Não informado,Outros
+ACÓRDÃO,,Não informado,ACÓRDÃO
+ACÓRDÃO,Acordo durante a audiência,Acordo,ACÓRDÃOAcordo durante a audiência
+ACÓRDÃO,Condenação fixada em acórdão (improcedência reformada),Condenação,ACÓRDÃOCondenação fixada em acórdão (improcedência reformada)
+ACÓRDÃO,Condenação majorada em acordão,Condenação,ACÓRDÃOCondenação majorada em acordão
+ACÓRDÃO,Condenação mantida em acórdão,Condenação,ACÓRDÃOCondenação mantida em acórdão
+ACÓRDÃO,Condenação paga por acordo,Acordo,ACÓRDÃOCondenação paga por acordo
+ACÓRDÃO,Condenação reduzida em acordão,Condenação,ACÓRDÃOCondenação reduzida em acordão
+ACÓRDÃO,Condenação revertida em improcedência,Decisão favorável à aérea (improcedência),ACÓRDÃOCondenação revertida em improcedência
+ACÓRDÃO,Improcedência mantida em acórdão,Decisão favorável à aérea (improcedência),ACÓRDÃOImprocedência mantida em acórdão
+ACÓRDÃO,Improcedente,Decisão favorável à aérea (improcedência),ACÓRDÃOImprocedente
+ACÓRDÃO,Parcial,Condenação,ACÓRDÃOParcial
+ACÓRDÃO,Prescrição,Decisão favorável à aérea (improcedência),ACÓRDÃOPrescrição
+ACÓRDÃO,Procedente em parte,Condenação,ACÓRDÃOProcedente em parte
+ACÓRDÃO,Recurso não conhecido,Condenação,ACÓRDÃORecurso não conhecido
+ACÓRDÃO,Total,Não informado,ACÓRDÃOTotal
+ACORDO,,Acordo,ACORDO
+Acordo,,Acordo,Acordo
+Acordo,Acordo,Acordo,AcordoAcordo
+ACORDO,ACORDO,Acordo,ACORDOACORDO
+ACORDO,Acordo,Acordo,ACORDOAcordo
+ACORDO,Acordo antes da audiência,Acordo,ACORDOAcordo antes da audiência
+ACORDO,Acordo após a audiência,Acordo,ACORDOAcordo após a audiência
+ACORDO,ACORDO COM OBRIGAÇÃO DE FAZER E PAGAR,Acordo,ACORDOACORDO COM OBRIGAÇÃO DE FAZER E PAGAR
+ACORDO,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,ACORDOAcordo com terceiro que aproveitou o cliente
+ACORDO,Acordo durante a audiência,Acordo,ACORDOAcordo durante a audiência
+ACORDO,ACORDO SOMENTE COM OBRIGAÇÃO DE FAZER,Acordo,ACORDOACORDO SOMENTE COM OBRIGAÇÃO DE FAZER
+ACORDO,ACORDO SOMENTE COM OBRIGAÇÃO DE PAGAR,Acordo,ACORDOACORDO SOMENTE COM OBRIGAÇÃO DE PAGAR
+ACORDO,Condenação,Condenação,ACORDOCondenação
+ACORDO,Condenação fixada em acórdão (improcedência reformada),Condenação,ACORDOCondenação fixada em acórdão (improcedência reformada)
+ACORDO,Condenação paga por acordo,Acordo,ACORDOCondenação paga por acordo
+ACORDO,Extinção,Acordo,ACORDOExtinção
+Acordo,Homologação de acordo,Acordo,AcordoHomologação de acordo
+ACORDO,Parcial,Condenação,ACORDOParcial
+ACORDO,Procedente em parte,Condenação,ACORDOProcedente em parte
+Acordo,Sentença de homologação de acordo,Acordo,AcordoSentença de homologação de acordo
+Acordo,Sentença improcedente.,Decisão favorável à aérea (improcedência),AcordoSentença improcedente.
+Acordo,Sentença parcialmente procedente.,Condenação,AcordoSentença parcialmente procedente.
+Acordo,Sentença procedente.,Condenação,AcordoSentença procedente.
+AGUARDANDO DECISÃO,,Não informado,AGUARDANDO DECISÃO
+AJUSTAR,,Não informado,AJUSTAR
+Antes da Sentença,Acordo em Travel Voucher,Acordo,Antes da SentençaAcordo em Travel Voucher
+Após Sentença,Acordo em Travel Voucher,Acordo,Após SentençaAcordo em Travel Voucher
+ARQUIVADO,,Não informado,ARQUIVADO
+Ativo,,Não informado,Ativo
+Ativo,Acordo,Acordo,AtivoAcordo
+Ativo,Arquivado,Não informado,AtivoArquivado
+Ativo,Extinto,Não informado,AtivoExtinto
+Ativo,Improcedente,Decisão favorável à aérea (improcedência),AtivoImprocedente
+Ativo,Parcialmente Procedente,Condenação,AtivoParcialmente Procedente
+Ativo,Procedente,Condenação,AtivoProcedente
+Award,,Condenação,Award
+CONDENAÇÃO,,Condenação,CONDENAÇÃO
+CONDENAÇÃO,ACORDO,Acordo,CONDENAÇÃOACORDO
+CONDENAÇÃO,Acordo,Acordo,CONDENAÇÃOAcordo
+CONDENAÇÃO,Ausência de pressupostos processuais / condições da ação,Extinção sem julgamento do mérito,CONDENAÇÃOAusência de pressupostos processuais / condições da ação
+CONDENAÇÃO,Condenação,Condenação,CONDENAÇÃOCondenação
+CONDENAÇÃO,Condenação majorada em acordão,Condenação,CONDENAÇÃOCondenação majorada em acordão
+CONDENAÇÃO,Condenação mantida em acórdão,Condenação,CONDENAÇÃOCondenação mantida em acórdão
+CONDENAÇÃO,Condenação paga pela Corré,Condenação,CONDENAÇÃOCondenação paga pela Corré
+CONDENAÇÃO,Condenação paga por acordo,Acordo,CONDENAÇÃOCondenação paga por acordo
+CONDENAÇÃO,EXTINÇÃO COM MÉRITO,Condenação,CONDENAÇÃOEXTINÇÃO COM MÉRITO
+CONDENAÇÃO,EXTINÇÃO SEM MERITO,Extinção sem julgamento do mérito,CONDENAÇÃOEXTINÇÃO SEM MERITO
+CONDENAÇÃO,EXTINÇÃO SEM MÉRITO,Extinção sem julgamento do mérito,CONDENAÇÃOEXTINÇÃO SEM MÉRITO
+Condenação,Homologação de acordo,Acordo,CondenaçãoHomologação de acordo
+CONDENAÇÃO,IMPROCEDENTE,Decisão favorável à aérea (improcedência),CONDENAÇÃOIMPROCEDENTE
+CONDENAÇÃO,INTEGRAL PROCEDÊNCIA,Condenação,CONDENAÇÃOINTEGRAL PROCEDÊNCIA
+CONDENAÇÃO,INTEGRAL PROCEDÊNCIA,Condenação,CONDENAÇÃOINTEGRAL PROCEDÊNCIA
+CONDENAÇÃO,OBRIGAÇÃO DE FAZER,Condenação,CONDENAÇÃOOBRIGAÇÃO DE FAZER
+CONDENAÇÃO,OBRIGAÇÃO DE FAZER,Condenação,CONDENAÇÃOOBRIGAÇÃO DE FAZER
+CONDENAÇÃO,Obrigação de fazer,Condenação,CONDENAÇÃOObrigação de fazer
+CONDENAÇÃO,Parcial,Condenação,CONDENAÇÃOParcial
+CONDENAÇÃO,PARCIAL PROCEDÊNCIA,Condenação,CONDENAÇÃOPARCIAL PROCEDÊNCIA
+CONDENAÇÃO,PARCIAL PROCEDÊNCIA,Condenação,CONDENAÇÃOPARCIAL PROCEDÊNCIA
+CONDENAÇÃO,PARCIALMENTE PROCEDENTE,Condenação,CONDENAÇÃOPARCIALMENTE PROCEDENTE
+Condenação,Parcialmente procedente,Condenação,CondenaçãoParcialmente procedente
+CONDENAÇÃO,PROCED. PARTE,Condenação,CONDENAÇÃOPROCED. PARTE
+CONDENAÇÃO,PROCEDÊNCIA PARCIAL,Condenação,CONDENAÇÃOPROCEDÊNCIA PARCIAL
+CONDENAÇÃO,PROCEDENTE,Condenação,CONDENAÇÃOPROCEDENTE
+CONDENAÇÃO,Procedente em parte,Condenação,CONDENAÇÃOProcedente em parte
+CONDENAÇÃO,Total,Condenação,CONDENAÇÃOTotal
+CONDENAÇÃO - ACORDÃO,Acordo durante a audiência,Acordo,CONDENAÇÃO - ACORDÃOAcordo durante a audiência
+CONDENAÇÃO - ACORDÃO,Condenação,Condenação,CONDENAÇÃO - ACORDÃOCondenação
+CONDENAÇÃO - ACORDÃO,Condenação fixada em acórdão (improcedência reformada),Condenação,CONDENAÇÃO - ACORDÃOCondenação fixada em acórdão (improcedência reformada)
+CONDENAÇÃO - ACORDÃO,Condenação majorada em acordão,Condenação,CONDENAÇÃO - ACORDÃOCondenação majorada em acordão
+CONDENAÇÃO - ACORDÃO,Condenação mantida em acórdão,Condenação,CONDENAÇÃO - ACORDÃOCondenação mantida em acórdão
+CONDENAÇÃO - ACORDÃO,Condenação paga pela Corré,Condenação,CONDENAÇÃO - ACORDÃOCondenação paga pela Corré
+CONDENAÇÃO - ACORDÃO,Condenação paga por acordo,Acordo,CONDENAÇÃO - ACORDÃOCondenação paga por acordo
+CONDENAÇÃO - ACORDÃO,Condenação reduzida em acordão,Condenação,CONDENAÇÃO - ACORDÃOCondenação reduzida em acordão
+CONDENAÇÃO - ACORDÃO,Improcedência mantida em acórdão,Decisão favorável à aérea (improcedência),CONDENAÇÃO - ACORDÃOImprocedência mantida em acórdão
+CONDENAÇÃO - ACORDÃO,Improcedente,Decisão favorável à aérea (improcedência),CONDENAÇÃO - ACORDÃOImprocedente
+CONDENAÇÃO - ACORDÃO,Parcial,Condenação,CONDENAÇÃO - ACORDÃOParcial
+CONDENAÇÃO - ACORDÃO,Procedente em parte,Condenação,CONDENAÇÃO - ACORDÃOProcedente em parte
+CONDENAÇÃO - ACORDÃO,Recurso não conhecido,Condenação,CONDENAÇÃO - ACORDÃORecurso não conhecido
+CONDENAÇÃO - ACORDÃO,Total,Condenação,CONDENAÇÃO - ACORDÃOTotal
+CONDENAÇÃO - ACORDÃO,,Condenação,CONDENAÇÃO - ACORDÃO
+CONDENAÇÃO - SENTENÇA,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,CONDENAÇÃO - SENTENÇAAcordo com terceiro que aproveitou o cliente
+CONDENAÇÃO - SENTENÇA,Acordo durante a audiência,Acordo,CONDENAÇÃO - SENTENÇAAcordo durante a audiência
+CONDENAÇÃO - SENTENÇA,Ausência de pressupostos processuais / condições da ação,Extinção sem julgamento do mérito,CONDENAÇÃO - SENTENÇAAusência de pressupostos processuais / condições da ação
+CONDENAÇÃO - SENTENÇA,Ausência injustificada do autor na audiência,Extinção sem julgamento do mérito,CONDENAÇÃO - SENTENÇAAusência injustificada do autor na audiência
+CONDENAÇÃO - SENTENÇA,Condenação,Condenação,CONDENAÇÃO - SENTENÇACondenação
+CONDENAÇÃO - SENTENÇA,Condenação afastada em acórdão,Decisão favorável à aérea (improcedência),CONDENAÇÃO - SENTENÇACondenação afastada em acórdão
+CONDENAÇÃO - SENTENÇA,Condenação fixada em acórdão (improcedência reformada),Condenação,CONDENAÇÃO - SENTENÇACondenação fixada em acórdão (improcedência reformada)
+CONDENAÇÃO - SENTENÇA,Condenação majorada em acordão,Condenação,CONDENAÇÃO - SENTENÇACondenação majorada em acordão
+CONDENAÇÃO - SENTENÇA,Condenação mantida em acórdão,Condenação,CONDENAÇÃO - SENTENÇACondenação mantida em acórdão
+CONDENAÇÃO - SENTENÇA,Condenação paga pela Corré,Condenação,CONDENAÇÃO - SENTENÇACondenação paga pela Corré
+CONDENAÇÃO - SENTENÇA,Condenação paga por acordo,Acordo,CONDENAÇÃO - SENTENÇACondenação paga por acordo
+CONDENAÇÃO - SENTENÇA,Condenação reduzida em acordão,Condenação,CONDENAÇÃO - SENTENÇACondenação reduzida em acordão
+CONDENAÇÃO - SENTENÇA,Conexão,Condenação,CONDENAÇÃO - SENTENÇAConexão
+CONDENAÇÃO - SENTENÇA,Improcedente,Decisão favorável à aérea (improcedência),CONDENAÇÃO - SENTENÇAImprocedente
+CONDENAÇÃO - SENTENÇA,Obrigação de fazer,Condenação,CONDENAÇÃO - SENTENÇAObrigação de fazer
+CONDENAÇÃO - SENTENÇA,Parcial,Condenação,CONDENAÇÃO - SENTENÇAParcial
+CONDENAÇÃO - SENTENÇA,Procedente em parte,Condenação,CONDENAÇÃO - SENTENÇAProcedente em parte
+CONDENAÇÃO - SENTENÇA,Suspensão,Condenação,CONDENAÇÃO - SENTENÇASuspensão
+CONDENAÇÃO - SENTENÇA,Total,Condenação,CONDENAÇÃO - SENTENÇATotal
+CONDENAÇÃO - SENTENÇA,,Condenação,CONDENAÇÃO - SENTENÇA
+CONDENAÇÃO PAGA POR ACORDO,,Condenação,CONDENAÇÃO PAGA POR ACORDO
+CONDENAÇÃO PAGA POR ACORDO,Acordo,Acordo,CONDENAÇÃO PAGA POR ACORDOAcordo
+CONDENAÇÃO PAGA POR ACORDO,Acordo após a audiência,Acordo,CONDENAÇÃO PAGA POR ACORDOAcordo após a audiência
+CONDENAÇÃO PAGA POR ACORDO,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,CONDENAÇÃO PAGA POR ACORDOAcordo com terceiro que aproveitou o cliente
+CONDENAÇÃO PAGA POR ACORDO,Acordo durante a audiência,Acordo,CONDENAÇÃO PAGA POR ACORDOAcordo durante a audiência
+CONDENAÇÃO PAGA POR ACORDO,Condenação,Condenação,CONDENAÇÃO PAGA POR ACORDOCondenação
+CONDENAÇÃO PAGA POR ACORDO,Condenação majorada em acordão,Condenação,CONDENAÇÃO PAGA POR ACORDOCondenação majorada em acordão
+CONDENAÇÃO PAGA POR ACORDO,Condenação mantida em acórdão,Condenação,CONDENAÇÃO PAGA POR ACORDOCondenação mantida em acórdão
+CONDENAÇÃO PAGA POR ACORDO,Condenação paga pela Corré,Condenação,CONDENAÇÃO PAGA POR ACORDOCondenação paga pela Corré
+CONDENAÇÃO PAGA POR ACORDO,Condenação paga por acordo,Acordo,CONDENAÇÃO PAGA POR ACORDOCondenação paga por acordo
+CONDENAÇÃO PAGA POR ACORDO,Condenação reduzida em acordão,Condenação,CONDENAÇÃO PAGA POR ACORDOCondenação reduzida em acordão
+CONDENAÇÃO PAGA POR ACORDO,Parcial,Condenação,CONDENAÇÃO PAGA POR ACORDOParcial
+CONDENAÇÃO PAGA POR ACORDO,Total,Condenação,CONDENAÇÃO PAGA POR ACORDOTotal
+Condenação; Pendente recurso companhia aérea,Parcialmente procedente,Condenação,Condenação; Pendente recurso companhia aéreaParcialmente procedente
+Conhecimento/Inicial,,Não informado,Conhecimento/Inicial
+Conhecimento/Inicial,Dado parcial provimento ao recurso.,Condenação,Conhecimento/InicialDado parcial provimento ao recurso.
+Conhecimento/Inicial,Sentença de Extinção da Punibilidade,Decisão favorável à aérea (improcedência),Conhecimento/InicialSentença de Extinção da Punibilidade
+Conhecimento/Inicial,Sentença improcedente.,Decisão favorável à aérea (improcedência),Conhecimento/InicialSentença improcedente.
+Conhecimento/Inicial,Sentença parcialmente procedente.,Condenação,Conhecimento/InicialSentença parcialmente procedente.
+Conhecimento/Inicial,Sentença procedente.,Condenação,Conhecimento/InicialSentença procedente.
+Cumprido Pelo Corréu,Vitória,Decisão favorável à aérea (improcedência),Cumprido Pelo CorréuVitória
+Cumprimento de Sentença,,Não informado,Cumprimento de Sentença
+Cumprimento de Sentença,Sentença parcialmente procedente.,Condenação,Cumprimento de SentençaSentença parcialmente procedente.
+Cumprimento de Sentença,Sentença procedente.,Condenação,Cumprimento de SentençaSentença procedente.
+Cumprimento Provisório de Sentença,,Não informado,Cumprimento Provisório de Sentença
+Custas Finais,Outros,Não informado,Custas FinaisOutros
+Dados Fornecidos,Outros,Não informado,Dados FornecidosOutros
+Dano Material,Acordo,Acordo,Dano MaterialAcordo
+Dano Material,Condenação,Condenação,Dano MaterialCondenação
+Dano Material (Cumprida Solidariamente),Condenação,Condenação,Dano Material (Cumprida Solidariamente)Condenação
+Dano Material mais Dano Moral,Acordo,Acordo,Dano Material mais Dano MoralAcordo
+Dano Material mais Dano Moral,Condenação,Condenação,Dano Material mais Dano MoralCondenação
+Dano Material mais Dano Moral (Cumprida Solidariamente),Condenação,Condenação,Dano Material mais Dano Moral (Cumprida Solidariamente)Condenação
+Dano Moral,Acordo,Acordo,Dano MoralAcordo
+Dano Moral,Condenação,Condenação,Dano MoralCondenação
+Dano Moral (Cumprida Solidariamente),Condenação,Condenação,Dano Moral (Cumprida Solidariamente)Condenação
+DECISÃO FAVORÁVEL,EXTINÇÃO,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVELEXTINÇÃO
+DECISÃO FAVORÁVEL,EXTINÇÃO,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVELEXTINÇÃO
+DECISÃO FAVORÁVEL,IMPROCEDÊNCIA,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVELIMPROCEDÊNCIA
+DECISÃO FAVORÁVEL,IMPROCEDÊNCIA,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVELIMPROCEDÊNCIA
+DECISÃO FAVORÁVEL À AEREA,ACORDO,Acordo,DECISÃO FAVORÁVEL À AEREAACORDO
+DECISÃO FAVORÁVEL À AEREA,EXTINÇÃO COM MÉRITO,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVEL À AEREAEXTINÇÃO COM MÉRITO
+DECISÃO FAVORÁVEL À AEREA,EXTINÇÃO SEM MERITO,Extinção sem julgamento do mérito,DECISÃO FAVORÁVEL À AEREAEXTINÇÃO SEM MERITO
+DECISÃO FAVORÁVEL À AEREA,IMPROCEDENTE,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVEL À AEREAIMPROCEDENTE
+DECISÃO FAVORÁVEL À AEREA,PROCEDENTE,Condenação,DECISÃO FAVORÁVEL À AEREAPROCEDENTE
+DECISÃO FAVORÁVEL À CIA,EXTINÇÃO COM MÉRITO,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVEL À CIAEXTINÇÃO COM MÉRITO
+DECISÃO FAVORÁVEL À CIA,EXTINÇÃO SEM MÉRITO,Extinção sem julgamento do mérito,DECISÃO FAVORÁVEL À CIAEXTINÇÃO SEM MÉRITO
+DECISÃO FAVORÁVEL À CIA,IMPROCEDENTE,Decisão favorável à aérea (improcedência),DECISÃO FAVORÁVEL À CIAIMPROCEDENTE
+DECISÃO FAVORÁVEL À CIA,PARCIALMENTE PROCEDENTE,Condenação,DECISÃO FAVORÁVEL À CIAPARCIALMENTE PROCEDENTE
+DECISÃO FAVORÁVEL À CIA,PROCEDENTE,Condenação,DECISÃO FAVORÁVEL À CIAPROCEDENTE
+Decisão favorável à companhia aérea,Improcedente,Decisão favorável à aérea (improcedência),Decisão favorável à companhia aéreaImprocedente
+Decisão favorável; Pendente recurso parte contrária,Improcedente,Decisão favorável à aérea (improcedência),Decisão favorável; Pendente recurso parte contráriaImprocedente
+Decisão favorável; Pendente recurso parte contrária,Parcialmente procedente,Condenação,Decisão favorável; Pendente recurso parte contráriaParcialmente procedente
+DESISTÊNCIA,Desistência do autor,Extinção sem julgamento do mérito,DESISTÊNCIADesistência do autor
+DESISTÊNCIA,Extinção,Extinção sem julgamento do mérito,DESISTÊNCIAExtinção
+Emissão de E-ticket (Voucher),Obrigação de fazer,Condenação,Emissão de E-ticket (Voucher)Obrigação de fazer
+Encerrado,,Não informado,Encerrado
+Encerrado,Acordo,Acordo,EncerradoAcordo
+Encerrado,Arquivado,Não informado,EncerradoArquivado
+Encerrado,Bloqueio,Não informado,EncerradoBloqueio
+Encerrado,Extinto,Não informado,EncerradoExtinto
+Encerrado,Improcedente,Decisão favorável à aérea (improcedência),EncerradoImprocedente
+Encerrado,Não Aplicável,Não informado,EncerradoNão Aplicável
+Encerrado,Parcialmente Procedente,Condenação,EncerradoParcialmente Procedente
+Encerrado,Procedente,Condenação,EncerradoProcedente
+Encerrado,Recurso,Não informado,EncerradoRecurso
+Encerrado,Suspensão processual,Não informado,EncerradoSuspensão processual
+Execução,,Não informado,Execução
+Êxito Parcial,Êxito Parcial,Condenação,Êxito ParcialÊxito Parcial
+Êxito Total,Êxito Total,Decisão favorável à aérea (improcedência),Êxito TotalÊxito Total
+EXTINÇÃO,Abandono de causa pelo Autor,Extinção sem julgamento do mérito,EXTINÇÃOAbandono de causa pelo Autor
+EXTINÇÃO,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,EXTINÇÃOAcordo com terceiro que aproveitou o cliente
+EXTINÇÃO,Ausência de interesse processual,Extinção sem julgamento do mérito,EXTINÇÃOAusência de interesse processual
+EXTINÇÃO,Ausência de pressupostos processuais,Extinção sem julgamento do mérito,EXTINÇÃOAusência de pressupostos processuais
+EXTINÇÃO,Ausência de pressupostos processuais / condições da ação,Extinção sem julgamento do mérito,EXTINÇÃOAusência de pressupostos processuais / condições da ação
+EXTINÇÃO,Ausência injustificada do autor na audiência,Extinção sem julgamento do mérito,EXTINÇÃOAusência injustificada do autor na audiência
+EXTINÇÃO,Condenação paga pela Corré,Condenação,EXTINÇÃOCondenação paga pela Corré
+EXTINÇÃO,Desistência do autor,Extinção sem julgamento do mérito,EXTINÇÃODesistência do autor
+EXTINÇÃO,Extinção,Não informado,EXTINÇÃOExtinção
+EXTINÇÃO,Ilegitimidade Ativa,Extinção sem julgamento do mérito,EXTINÇÃOIlegitimidade Ativa
+EXTINÇÃO,Ilegitimidade passiva,Extinção sem julgamento do mérito,EXTINÇÃOIlegitimidade passiva
+EXTINÇÃO,Incompetência absoluta (valor da causa),Extinção sem julgamento do mérito,EXTINÇÃOIncompetência absoluta (valor da causa)
+EXTINÇÃO,Incompetência Territorial,Extinção sem julgamento do mérito,EXTINÇÃOIncompetência Territorial
+EXTINÇÃO,Indeferimento da petição inicial,Extinção sem julgamento do mérito,EXTINÇÃOIndeferimento da petição inicial
+EXTINÇÃO,Inépcia da petição inicial,Extinção sem julgamento do mérito,EXTINÇÃOInépcia da petição inicial
+EXTINÇÃO,"Perempção, litispendência ou coisa julgada",Extinção sem julgamento do mérito,"EXTINÇÃOPerempção, litispendência ou coisa julgada"
+EXTINÇÃO,Prescrição,Decisão favorável à aérea (improcedência),EXTINÇÃOPrescrição
+EXTINÇÃO,Reclamação pré processual infrutífera,Extinção sem julgamento do mérito,EXTINÇÃOReclamação pré processual infrutífera
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITO
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Abandono de causa pelo Autor,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITOAbandono de causa pelo Autor
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITOAcordo com terceiro que aproveitou o cliente
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Ausência injustificada do autor na audiência,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITOAusência injustificada do autor na audiência
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Condenação paga pela Corré,Condenação,EXTINÇÃO COM RESOLUÇÃO DO MÉRITOCondenação paga pela Corré
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Desistência do autor,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITODesistência do autor
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Ilegitimidade passiva,Extinção sem julgamento do mérito,EXTINÇÃO COM RESOLUÇÃO DO MÉRITOIlegitimidade passiva
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Improcedente,Decisão favorável à aérea (improcedência),EXTINÇÃO COM RESOLUÇÃO DO MÉRITOImprocedente
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,"Perempção, litispendência ou coisa julgada",Extinção sem julgamento do mérito,"EXTINÇÃO COM RESOLUÇÃO DO MÉRITOPerempção, litispendência ou coisa julgada"
+EXTINÇÃO COM RESOLUÇÃO DO MÉRITO,Prescrição,Decisão favorável à aérea (improcedência),EXTINÇÃO COM RESOLUÇÃO DO MÉRITOPrescrição
+Extinção Sem Julgamento de Mérito,Vitória,Decisão favorável à aérea (improcedência),Extinção Sem Julgamento de MéritoVitória
+Extinção sem Julgamento de Mérito - JUSPRO,Vitória,Decisão favorável à aérea (improcedência),Extinção sem Julgamento de Mérito - JUSPROVitória
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Abandono de causa pelo Autor,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOAbandono de causa pelo Autor
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Acordo com terceiro que aproveitou o cliente,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOAcordo com terceiro que aproveitou o cliente
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Ausência de interesse processual,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOAusência de interesse processual
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Ausência de pressupostos processuais / condições da ação,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOAusência de pressupostos processuais / condições da ação
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Ausência injustificada do autor na audiência,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOAusência injustificada do autor na audiência
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Condenação afastada em acórdão,Decisão favorável à aérea (improcedência),EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOCondenação afastada em acórdão
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Condenação majorada em acordão,Condenação,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOCondenação majorada em acordão
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Condenação paga pela Corré,Condenação,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOCondenação paga pela Corré
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Desistência do autor,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITODesistência do autor
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Ilegitimidade Ativa,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIlegitimidade Ativa
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Ilegitimidade passiva,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIlegitimidade passiva
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Incompetência absoluta (valor da causa),Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIncompetência absoluta (valor da causa)
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Incompetência em razão da pessoa.,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIncompetência em razão da pessoa.
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Incompetência Territorial,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIncompetência Territorial
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Indeferimento da petição inicial,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOIndeferimento da petição inicial
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Inépcia da petição inicial,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOInépcia da petição inicial
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Necessidade de Perícia,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITONecessidade de Perícia
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Perda do objeto,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOPerda do objeto
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,"Perempção, litispendência ou coisa julgada",Extinção sem julgamento do mérito,"EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOPerempção, litispendência ou coisa julgada"
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Prescrição,Decisão favorável à aérea (improcedência),EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOPrescrição
+EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO,Reclamação pré processual infrutífera,Extinção sem julgamento do mérito,EXTINÇÃO SEM RESOLUÇÃO DO MÉRITOReclamação pré processual infrutífera
+Extinto,Extinção sem resolução do mérito,Extinção sem julgamento do mérito,ExtintoExtinção sem resolução do mérito
+Extinto Sem Julgamento Do Merito,Extinto Sem Julgamento Do Merito,Extinção sem julgamento do mérito,Extinto Sem Julgamento Do MeritoExtinto Sem Julgamento Do Merito
+Favourable decision,,Decisão favorável à aérea (improcedência),Favourable decision
+Impossibilidade de Fornecimento,Outros,Não informado,Impossibilidade de FornecimentoOutros
+IMPROCEDÊNCIA,,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIA
+IMPROCEDÊNCIA,Ausência de interesse processual,Extinção sem julgamento do mérito,IMPROCEDÊNCIAAusência de interesse processual
+IMPROCEDÊNCIA,Ausência de pressupostos processuais / condições da ação,Extinção sem julgamento do mérito,IMPROCEDÊNCIAAusência de pressupostos processuais / condições da ação
+IMPROCEDÊNCIA,Condenação,Condenação,IMPROCEDÊNCIACondenação
+IMPROCEDÊNCIA,Condenação afastada em acórdão,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIACondenação afastada em acórdão
+IMPROCEDÊNCIA,Condenação fixada em acórdão (improcedência reformada),Condenação,IMPROCEDÊNCIACondenação fixada em acórdão (improcedência reformada)
+IMPROCEDÊNCIA,Condenação reduzida em acordão,Condenação,IMPROCEDÊNCIACondenação reduzida em acordão
+IMPROCEDÊNCIA,Condenação revertida em improcedência,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIACondenação revertida em improcedência
+IMPROCEDÊNCIA,Desistência do autor,Extinção sem julgamento do mérito,IMPROCEDÊNCIADesistência do autor
+IMPROCEDÊNCIA,Improcedência mantida em acórdão,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIAImprocedência mantida em acórdão
+IMPROCEDÊNCIA,Improcedente,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIAImprocedente
+IMPROCEDÊNCIA,Inépcia da petição inicial,Extinção sem julgamento do mérito,IMPROCEDÊNCIAInépcia da petição inicial
+IMPROCEDÊNCIA,Parcial,Condenação,IMPROCEDÊNCIAParcial
+IMPROCEDÊNCIA,Prescrição,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIAPrescrição
+IMPROCEDÊNCIA,Recurso não conhecido,Condenação,IMPROCEDÊNCIARecurso não conhecido
+IMPROCEDÊNCIA,Total,Decisão favorável à aérea (improcedência),IMPROCEDÊNCIATotal
+Improcedência,Vitória,Decisão favorável à aérea (improcedência),ImprocedênciaVitória
+Improcedente,Improcedente,Decisão favorável à aérea (improcedência),ImprocedenteImprocedente
+Investigação,,Não informado,Investigação
+Investigação,Sentença parcialmente procedente.,Condenação,InvestigaçãoSentença parcialmente procedente.
+Investigação,Sentença procedente.,Condenação,InvestigaçãoSentença procedente.
+Liquidação,,Não informado,Liquidação
+Obrigação de Fazer,Acordo,Acordo,Obrigação de FazerAcordo
+Obrigação de Fazer,Condenação,Condenação,Obrigação de FazerCondenação
+Obrigação de Fazer mais Dano,Condenação,Condenação,Obrigação de Fazer mais DanoCondenação
+Pagamento Integral da Dívida,Acordo,Acordo,Pagamento Integral da DívidaAcordo
+Pagamento Parcelado / Quitado,Acordo,Acordo,Pagamento Parcelado / QuitadoAcordo
+Perda,Perda,Condenação,PerdaPerda
+Pretensão Já Atendida Pela TAM,Vitória,Decisão favorável à aérea (improcedência),Pretensão Já Atendida Pela TAMVitória
+Procedência Parcial,Procedência Parcial,Condenação,Procedência ParcialProcedência Parcial
+Procedente,Procedente,Condenação,ProcedenteProcedente
+Recebido na migração e TAM não consta no pólo passivo,Outros,Não informado,Recebido na migração e TAM não consta no pólo passivoOutros
+Recebido na Migração já Arquivado,Outros,Não informado,Recebido na Migração já ArquivadoOutros
+RECLAMAÇÃO PRÉ PROCESSUAL,,Não informado,RECLAMAÇÃO PRÉ PROCESSUAL
+RECLAMAÇÃO PRÉ PROCESSUAL,Abandono de causa pelo Autor,Extinção sem julgamento do mérito,RECLAMAÇÃO PRÉ PROCESSUALAbandono de causa pelo Autor
+Recursal,,Não informado,Recursal
+Recursal,Dado parcial provimento ao recurso.,Condenação,RecursalDado parcial provimento ao recurso.
+Recursal,Dado provimento ao recurso,Não informado,RecursalDado provimento ao recurso
+Recursal,Negado provimento ao recurso,Condenação,RecursalNegado provimento ao recurso
+Recursal,Negado seguimento ao recurso.,Condenação,RecursalNegado seguimento ao recurso.
+Recursal,Sentença de Extinção da Punibilidade,Decisão favorável à aérea (improcedência),RecursalSentença de Extinção da Punibilidade
+Recursal,Sentença improcedente.,Decisão favorável à aérea (improcedência),RecursalSentença improcedente.
+Recursal,Sentença parcialmente procedente.,Condenação,RecursalSentença parcialmente procedente.
+Recursal,Sentença procedente.,Condenação,RecursalSentença procedente.
+Restabelecimento de Pontos,Obrigação de fazer,Condenação,Restabelecimento de PontosObrigação de fazer
+Restituição de Valores no Cartão de Crédito,Obrigação de fazer,Condenação,Restituição de Valores no Cartão de CréditoObrigação de fazer
+Retificação da Categoria de Participante,Obrigação de fazer,Condenação,Retificação da Categoria de ParticipanteObrigação de fazer
+Retificação de Nome no Bilhete,Obrigação de fazer,Condenação,Retificação de Nome no BilheteObrigação de fazer
+Sem decisão proferida,,Não informado,Sem decisão proferida
+SENTENÇA - PROCESSO EM ANDAMENTO,,Não informado,SENTENÇA - PROCESSO EM ANDAMENTO
+Settlement,,Acordo,Settlement
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Condenação,
+,,Outros,
+,,Acordo,
+,,Condenação,
+,,Não informado,
+,,Condenação,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Outros,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Acordo,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Condenação,
+,,Outros,
+,,Condenação,
+,,Outros,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Condenação,
+,,Não informado,
+,,Acordo,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Acordo,
+,,Não informado,
+,,Não informado,
+,,Condenação,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Outros,
+,,Condenação,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Outros,
+,,Acordo,
+,,Outros,
+,,Condenação,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Outros,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Acordo,
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Condenação,
+,,Não informado,
+,,Outros,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Condenação,
+,,Outros,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Acordo,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Condenação,
+,,Outros,
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Acordo,
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Outros,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Outros,
+,,Acordo,
+,,Não informado,
+,,Outros,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Não informado,
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Outros,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Outros,
+,,Acordo,
+,,Não informado,
+,,Outros,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Extinção sem julgamento do mérito,
+,,Condenação,
+,,Não informado,
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Acordo,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Extinção sem julgamento do mérito,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Condenação,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Condenação,
+,,Não informado,
+,,Condenação,
+,,Outros,
+,,Decisão favorável à aérea (improcedência),
+,,Outros,
+,,Acordo,
+,,Condenação,
+,,Outros,
+,,Não informado,
+,,Outros,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Extinção sem julgamento do mérito,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Condenação,
+,,Não informado,
+,,Não informado,
+,,Decisão favorável à aérea (improcedência),
+,,Acordo,
+,,Não informado,
+,,Não informado,
+,,Condenação,
+,,Decisão favorável à aérea (improcedência),
+,,Decisão favorável à aérea (improcedência),
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,
+,,Não informado,ImprocedenteDecisão favorável à aérea (improcedência)
+,,Não informado,AcordoArquivamento
+,,Não informado,ExecuçãoParcialmente procedente
+,,Não informado,Decisão favorávelImprocedente
+,,Não informado,ExecuçãoDecisão favorável à aérea (improcedência)
+,,Não informado,ImprocedenteParcialmente procedente
+,,Não informado,Aguardando julgamento do recursoDecisão favorável à aérea (improcedência)
+,,Não informado,CondenaçãoImprocedente
+,,Não informado,ExecuçãoHomologação de acordo
+,,Não informado,Aguardando julgamento do recursoParcialmente procedente
+,,Não informado,Decisão favorável à companhia aéreaHomologação de acordo
+,,Não informado,Extinção sem resolução do méritoExtinção sem resolução do mérito
+,,Não informado,Aguardando julgamento do recurso
+,,Não informado,Improcedente
+,,Não informado,condenaçãoParcialmente procedente
+,,Não informado,Homologação de acordo
+,,Não informado,CondenaçãoDecisão favorável à aérea (improcedência)
+,,Não informado,ImprocedenteArquivamento
+,,Não informado,Aguardando julgamento do recursoHomologação de acordo
+,,Não informado,Aguardando sentençaAguardando sentença
+,,Não informado,AcordoParcialmente procedente
+,,Não informado,ArquivamentoArquivamento
